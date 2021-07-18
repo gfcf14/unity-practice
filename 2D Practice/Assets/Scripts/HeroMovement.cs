@@ -4,6 +4,8 @@ public class HeroMovement : MonoBehaviour {
   [SerializeField] private float speed;
   [SerializeField] private float jumpHeight;
   private Rigidbody2D body;
+  // private SpriteRenderer renderer;
+  // private Sprite currentSprite;
   private Animator anim;
   private bool isGrounded;
   private bool isFalling;
@@ -13,10 +15,15 @@ public class HeroMovement : MonoBehaviour {
 
   public int collisionCounter = 0;
 
+  public Sprite[] sprites;
+
   // called when script is loaded
   private void Awake() {
     body = GetComponent<Rigidbody2D>();
     anim = GetComponent<Animator>();
+
+    sprites = Resources.LoadAll<Sprite>("Spritesheets");
+    Debug.Log(sprites[499].name);
   }
 
   // called on every frame of the game
@@ -108,8 +115,6 @@ public class HeroMovement : MonoBehaviour {
 
   private void OnCollisionExit2D(Collision2D collision) {
     collisionCounter--;
-
-    Debug.Log(collision.otherCollider.tag);
 
     if (collisionCounter == 0) {
       isGrounded = false;
