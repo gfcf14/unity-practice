@@ -10,6 +10,7 @@ public class HeroMovement : MonoBehaviour {
   private bool isGrounded;
   private bool isFalling;
   private bool isJumping;
+  public bool isFacingLeft;
 
   private bool horizontalCollision;
 
@@ -38,10 +39,12 @@ public class HeroMovement : MonoBehaviour {
       // flip player when moving left
       if (horizontalInput > 0.01f && isGrounded) {
         transform.localScale = Vector3.one;
+        isFacingLeft = false;
       }
       // flip player when moving right
       else if (horizontalInput < -0.01f && isGrounded) {
         transform.localScale = new Vector3(-1, 1, 1);
+        isFacingLeft = true;
       }
     }
 
