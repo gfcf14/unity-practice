@@ -1,11 +1,11 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class SpritePosition : MonoBehaviour {
   [SerializeField] private string objectName;
   [SerializeField] private int objectIndex;
-
+  [SerializeField] private int objectR;
+  [SerializeField] private int objectG;
+  [SerializeField] private int objectB;
   private Rigidbody2D body;
   private SpriteRenderer objectRenderer;
   private GameObject hero;
@@ -53,7 +53,7 @@ public class SpritePosition : MonoBehaviour {
     int currentSpriteIndex = int.Parse(currentHeroSprite.name.Replace("hero-body_", ""));
     objectRenderer.sprite = spriteGroup[currentSpriteIndex];
 
-    Debug.Log(heroMovementScript.isFacingLeft);
+    objectRenderer.color = new Color(objectR, objectG, objectB, 1);
 
     if (heroMovementScript.isFacingLeft && shouldMirrorSprite(currentSpriteIndex)) {
       transform.localScale = new Vector3(-1, 1, 1);

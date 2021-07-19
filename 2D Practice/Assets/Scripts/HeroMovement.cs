@@ -4,8 +4,6 @@ public class HeroMovement : MonoBehaviour {
   [SerializeField] private float speed;
   [SerializeField] private float jumpHeight;
   private Rigidbody2D body;
-  // private SpriteRenderer renderer;
-  // private Sprite currentSprite;
   private Animator anim;
   private bool isGrounded;
   private bool isFalling;
