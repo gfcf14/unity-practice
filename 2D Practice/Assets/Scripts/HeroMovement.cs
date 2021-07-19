@@ -14,15 +14,10 @@ public class HeroMovement : MonoBehaviour {
 
   public int collisionCounter = 0;
 
-  public Sprite[] sprites;
-
   // called when script is loaded
   private void Awake() {
     body = GetComponent<Rigidbody2D>();
     anim = GetComponent<Animator>();
-
-    sprites = Resources.LoadAll<Sprite>("Spritesheets");
-    Debug.Log(sprites[499].name);
   }
 
   // called on every frame of the game

@@ -16,7 +16,7 @@ public class SpritePosition : MonoBehaviour {
   private HeroMovement heroMovementScript;
   private Sprite[] spriteGroup;
 
-  private void Awake() {
+  private void Start() {
     body = GetComponent<Rigidbody2D>();
     objectRenderer = GetComponent<SpriteRenderer>();
 
@@ -26,6 +26,7 @@ public class SpritePosition : MonoBehaviour {
     currentHeroSprite = heroRenderer.sprite;
 
     heroResourcesScript = hero.GetComponent<HeroResources>();
+    Debug.Log(objectName);
     spriteGroup = heroResourcesScript.spriteGroup[objectName];
   }
 
