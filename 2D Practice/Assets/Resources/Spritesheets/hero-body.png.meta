@@ -398,6 +398,150 @@ TextureImporter:
   - first:
       213: -3541774325893235675
     second: hero-body_131
+  - first:
+      213: 3823287598174307153
+    second: hero-body_132
+  - first:
+      213: 8594899584485467330
+    second: hero-body_133
+  - first:
+      213: 2356815767323240433
+    second: hero-body_134
+  - first:
+      213: -1041687045264917829
+    second: hero-body_135
+  - first:
+      213: -4949027356090102691
+    second: hero-body_136
+  - first:
+      213: 3927949991571852914
+    second: hero-body_137
+  - first:
+      213: 9063779786571956341
+    second: hero-body_138
+  - first:
+      213: -740943826599851318
+    second: hero-body_139
+  - first:
+      213: 2290231498559626997
+    second: hero-body_140
+  - first:
+      213: -6744487591408738621
+    second: hero-body_141
+  - first:
+      213: -63923518885190756
+    second: hero-body_142
+  - first:
+      213: 7179949054176494333
+    second: hero-body_143
+  - first:
+      213: -5836292432046252571
+    second: hero-body_144
+  - first:
+      213: -5781929628452251261
+    second: hero-body_145
+  - first:
+      213: 4516062548811147970
+    second: hero-body_146
+  - first:
+      213: 2077630006943755621
+    second: hero-body_147
+  - first:
+      213: -5786338028652066023
+    second: hero-body_148
+  - first:
+      213: -2177092241420863004
+    second: hero-body_149
+  - first:
+      213: -6650449892560017254
+    second: hero-body_150
+  - first:
+      213: 1585317553062494508
+    second: hero-body_151
+  - first:
+      213: -1131109112526539243
+    second: hero-body_152
+  - first:
+      213: 4250210239751170248
+    second: hero-body_153
+  - first:
+      213: -3474412617984419683
+    second: hero-body_154
+  - first:
+      213: 6086621632523321985
+    second: hero-body_155
+  - first:
+      213: 8237176040992820249
+    second: hero-body_156
+  - first:
+      213: -3709023466327118802
+    second: hero-body_157
+  - first:
+      213: 8281619464461697949
+    second: hero-body_158
+  - first:
+      213: 1103129311513384500
+    second: hero-body_159
+  - first:
+      213: -242765863206911761
+    second: hero-body_160
+  - first:
+      213: -4051516060483187010
+    second: hero-body_161
+  - first:
+      213: 6762546683898981718
+    second: hero-body_162
+  - first:
+      213: -4698908674613980020
+    second: hero-body_163
+  - first:
+      213: 5651621878393219610
+    second: hero-body_164
+  - first:
+      213: 5054760720633719869
+    second: hero-body_165
+  - first:
+      213: 2070843516837616002
+    second: hero-body_166
+  - first:
+      213: 6602479708987926080
+    second: hero-body_167
+  - first:
+      213: 8127336913326545833
+    second: hero-body_168
+  - first:
+      213: 8565122834874792685
+    second: hero-body_169
+  - first:
+      213: 6913550387894042355
+    second: hero-body_170
+  - first:
+      213: 4585761572047092961
+    second: hero-body_171
+  - first:
+      213: -5609059588090948955
+    second: hero-body_172
+  - first:
+      213: -1344230328270729708
+    second: hero-body_173
+  - first:
+      213: 3786721639266254952
+    second: hero-body_174
+  - first:
+      213: 3934069676832522729
+    second: hero-body_175
+  - first:
+      213: -6042801539130784813
+    second: hero-body_176
+  - first:
+      213: -996314387878204234
+    second: hero-body_177
+  - first:
+      213: 1798670855221179491
+    second: hero-body_178
+  - first:
+      213: -5373977277391312816
+    second: hero-body_179
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -715,8 +859,8 @@ TextureImporter:
       name: hero-body_9
       rect:
         serializedVersion: 2
-        x: 256
-        y: 3328
+        x: 2304
+        y: 3584
         width: 256
         height: 256
       alignment: 7
@@ -736,8 +880,8 @@ TextureImporter:
       name: hero-body_10
       rect:
         serializedVersion: 2
-        x: 512
-        y: 3328
+        x: 2560
+        y: 3584
         width: 256
         height: 256
       alignment: 7
@@ -757,8 +901,8 @@ TextureImporter:
       name: hero-body_11
       rect:
         serializedVersion: 2
-        x: 768
-        y: 3328
+        x: 2816
+        y: 3584
         width: 256
         height: 256
       alignment: 7
@@ -778,7 +922,7 @@ TextureImporter:
       name: hero-body_12
       rect:
         serializedVersion: 2
-        x: 1024
+        x: 0
         y: 3328
         width: 256
         height: 256
@@ -799,7 +943,7 @@ TextureImporter:
       name: hero-body_13
       rect:
         serializedVersion: 2
-        x: 1280
+        x: 256
         y: 3328
         width: 256
         height: 256
@@ -820,7 +964,7 @@ TextureImporter:
       name: hero-body_14
       rect:
         serializedVersion: 2
-        x: 1536
+        x: 512
         y: 3328
         width: 256
         height: 256
@@ -841,7 +985,7 @@ TextureImporter:
       name: hero-body_15
       rect:
         serializedVersion: 2
-        x: 1792
+        x: 768
         y: 3328
         width: 256
         height: 256
@@ -862,7 +1006,7 @@ TextureImporter:
       name: hero-body_16
       rect:
         serializedVersion: 2
-        x: 2048
+        x: 1024
         y: 3328
         width: 256
         height: 256
@@ -883,8 +1027,8 @@ TextureImporter:
       name: hero-body_17
       rect:
         serializedVersion: 2
-        x: 256
-        y: 3072
+        x: 1280
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -904,8 +1048,8 @@ TextureImporter:
       name: hero-body_18
       rect:
         serializedVersion: 2
-        x: 512
-        y: 3072
+        x: 1536
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -925,8 +1069,8 @@ TextureImporter:
       name: hero-body_19
       rect:
         serializedVersion: 2
-        x: 768
-        y: 3072
+        x: 1792
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -946,8 +1090,8 @@ TextureImporter:
       name: hero-body_20
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 3072
+        x: 2048
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -967,8 +1111,8 @@ TextureImporter:
       name: hero-body_21
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 3072
+        x: 2304
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -988,8 +1132,8 @@ TextureImporter:
       name: hero-body_22
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 3072
+        x: 2560
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -1009,8 +1153,8 @@ TextureImporter:
       name: hero-body_23
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 3072
+        x: 2816
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -1030,7 +1174,7 @@ TextureImporter:
       name: hero-body_24
       rect:
         serializedVersion: 2
-        x: 2048
+        x: 0
         y: 3072
         width: 256
         height: 256
@@ -1051,7 +1195,7 @@ TextureImporter:
       name: hero-body_25
       rect:
         serializedVersion: 2
-        x: 2304
+        x: 256
         y: 3072
         width: 256
         height: 256
@@ -1072,7 +1216,7 @@ TextureImporter:
       name: hero-body_26
       rect:
         serializedVersion: 2
-        x: 2560
+        x: 512
         y: 3072
         width: 256
         height: 256
@@ -1093,8 +1237,8 @@ TextureImporter:
       name: hero-body_27
       rect:
         serializedVersion: 2
-        x: 256
-        y: 2816
+        x: 768
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1114,8 +1258,8 @@ TextureImporter:
       name: hero-body_28
       rect:
         serializedVersion: 2
-        x: 512
-        y: 2816
+        x: 1024
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1135,8 +1279,8 @@ TextureImporter:
       name: hero-body_29
       rect:
         serializedVersion: 2
-        x: 768
-        y: 2816
+        x: 1280
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1156,8 +1300,8 @@ TextureImporter:
       name: hero-body_30
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 2816
+        x: 1536
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1177,8 +1321,8 @@ TextureImporter:
       name: hero-body_31
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 2816
+        x: 1792
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1198,8 +1342,8 @@ TextureImporter:
       name: hero-body_32
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 2816
+        x: 2048
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1219,8 +1363,8 @@ TextureImporter:
       name: hero-body_33
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 2816
+        x: 2304
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1240,8 +1384,8 @@ TextureImporter:
       name: hero-body_34
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 2816
+        x: 2560
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1261,8 +1405,8 @@ TextureImporter:
       name: hero-body_35
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 2816
+        x: 2816
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1282,8 +1426,8 @@ TextureImporter:
       name: hero-body_36
       rect:
         serializedVersion: 2
-        x: 256
-        y: 2560
+        x: 0
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1303,8 +1447,8 @@ TextureImporter:
       name: hero-body_37
       rect:
         serializedVersion: 2
-        x: 512
-        y: 2560
+        x: 256
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1324,8 +1468,8 @@ TextureImporter:
       name: hero-body_38
       rect:
         serializedVersion: 2
-        x: 768
-        y: 2560
+        x: 512
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1345,8 +1489,8 @@ TextureImporter:
       name: hero-body_39
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 2560
+        x: 768
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1366,8 +1510,8 @@ TextureImporter:
       name: hero-body_40
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 2560
+        x: 1024
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1387,8 +1531,8 @@ TextureImporter:
       name: hero-body_41
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 2560
+        x: 1280
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1408,8 +1552,8 @@ TextureImporter:
       name: hero-body_42
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 2560
+        x: 1536
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1429,8 +1573,8 @@ TextureImporter:
       name: hero-body_43
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 2560
+        x: 1792
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1450,8 +1594,8 @@ TextureImporter:
       name: hero-body_44
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 2560
+        x: 2048
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1471,8 +1615,8 @@ TextureImporter:
       name: hero-body_45
       rect:
         serializedVersion: 2
-        x: 256
-        y: 2304
+        x: 2304
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1492,8 +1636,8 @@ TextureImporter:
       name: hero-body_46
       rect:
         serializedVersion: 2
-        x: 512
-        y: 2304
+        x: 2560
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1513,8 +1657,8 @@ TextureImporter:
       name: hero-body_47
       rect:
         serializedVersion: 2
-        x: 768
-        y: 2304
+        x: 2816
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1534,8 +1678,8 @@ TextureImporter:
       name: hero-body_48
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 2304
+        x: 0
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1555,8 +1699,8 @@ TextureImporter:
       name: hero-body_49
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 2304
+        x: 256
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1576,8 +1720,8 @@ TextureImporter:
       name: hero-body_50
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 2304
+        x: 512
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1597,8 +1741,8 @@ TextureImporter:
       name: hero-body_51
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 2304
+        x: 768
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1618,8 +1762,8 @@ TextureImporter:
       name: hero-body_52
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 2304
+        x: 1024
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1639,8 +1783,8 @@ TextureImporter:
       name: hero-body_53
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 2304
+        x: 1280
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1660,8 +1804,8 @@ TextureImporter:
       name: hero-body_54
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 2304
+        x: 1536
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1681,8 +1825,8 @@ TextureImporter:
       name: hero-body_55
       rect:
         serializedVersion: 2
-        x: 256
-        y: 2048
+        x: 1792
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1702,8 +1846,8 @@ TextureImporter:
       name: hero-body_56
       rect:
         serializedVersion: 2
-        x: 512
-        y: 2048
+        x: 2048
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1723,8 +1867,8 @@ TextureImporter:
       name: hero-body_57
       rect:
         serializedVersion: 2
-        x: 768
-        y: 2048
+        x: 2304
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1744,8 +1888,8 @@ TextureImporter:
       name: hero-body_58
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 2048
+        x: 2560
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1765,8 +1909,8 @@ TextureImporter:
       name: hero-body_59
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 2048
+        x: 2816
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1786,8 +1930,8 @@ TextureImporter:
       name: hero-body_60
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 2048
+        x: 0
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1807,8 +1951,8 @@ TextureImporter:
       name: hero-body_61
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 2048
+        x: 256
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1828,8 +1972,8 @@ TextureImporter:
       name: hero-body_62
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 2048
+        x: 512
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1849,8 +1993,8 @@ TextureImporter:
       name: hero-body_63
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 2048
+        x: 768
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1870,8 +2014,8 @@ TextureImporter:
       name: hero-body_64
       rect:
         serializedVersion: 2
-        x: 256
-        y: 1792
+        x: 1024
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1891,8 +2035,8 @@ TextureImporter:
       name: hero-body_65
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1792
+        x: 1280
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1912,8 +2056,8 @@ TextureImporter:
       name: hero-body_66
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1792
+        x: 1536
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1933,8 +2077,8 @@ TextureImporter:
       name: hero-body_67
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 1792
+        x: 1792
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1954,8 +2098,8 @@ TextureImporter:
       name: hero-body_68
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 1792
+        x: 2048
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1975,8 +2119,8 @@ TextureImporter:
       name: hero-body_69
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 1792
+        x: 2304
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1996,8 +2140,8 @@ TextureImporter:
       name: hero-body_70
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 1792
+        x: 2560
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -2017,8 +2161,8 @@ TextureImporter:
       name: hero-body_71
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 1792
+        x: 2816
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -2038,8 +2182,8 @@ TextureImporter:
       name: hero-body_72
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 1792
+        x: 0
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2059,8 +2203,8 @@ TextureImporter:
       name: hero-body_73
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 1792
+        x: 256
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2080,8 +2224,8 @@ TextureImporter:
       name: hero-body_74
       rect:
         serializedVersion: 2
-        x: 256
-        y: 1536
+        x: 512
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2101,8 +2245,8 @@ TextureImporter:
       name: hero-body_75
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1536
+        x: 768
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2122,8 +2266,8 @@ TextureImporter:
       name: hero-body_76
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1536
+        x: 1024
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2144,7 +2288,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1280
-        y: 1536
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2165,7 +2309,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1536
-        y: 1536
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2186,7 +2330,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1792
-        y: 1536
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2206,8 +2350,8 @@ TextureImporter:
       name: hero-body_80
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 1536
+        x: 2048
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2227,8 +2371,8 @@ TextureImporter:
       name: hero-body_81
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 1536
+        x: 2304
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2248,8 +2392,8 @@ TextureImporter:
       name: hero-body_82
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 1536
+        x: 2560
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2269,8 +2413,8 @@ TextureImporter:
       name: hero-body_83
       rect:
         serializedVersion: 2
-        x: 256
-        y: 1280
+        x: 2816
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2290,8 +2434,8 @@ TextureImporter:
       name: hero-body_84
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1280
+        x: 0
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2311,8 +2455,8 @@ TextureImporter:
       name: hero-body_85
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1280
+        x: 256
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2332,8 +2476,8 @@ TextureImporter:
       name: hero-body_86
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 1280
+        x: 512
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2353,8 +2497,8 @@ TextureImporter:
       name: hero-body_87
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 1280
+        x: 768
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2374,8 +2518,8 @@ TextureImporter:
       name: hero-body_88
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 1280
+        x: 1024
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2395,8 +2539,8 @@ TextureImporter:
       name: hero-body_89
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 1280
+        x: 1280
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2416,8 +2560,8 @@ TextureImporter:
       name: hero-body_90
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 1280
+        x: 1536
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2437,8 +2581,8 @@ TextureImporter:
       name: hero-body_91
       rect:
         serializedVersion: 2
-        x: 256
-        y: 1024
+        x: 1792
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2458,8 +2602,8 @@ TextureImporter:
       name: hero-body_92
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1024
+        x: 2048
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2479,8 +2623,8 @@ TextureImporter:
       name: hero-body_93
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1024
+        x: 2304
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2500,8 +2644,8 @@ TextureImporter:
       name: hero-body_94
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 1024
+        x: 2560
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2521,8 +2665,8 @@ TextureImporter:
       name: hero-body_95
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 1024
+        x: 2816
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2542,8 +2686,8 @@ TextureImporter:
       name: hero-body_96
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 1024
+        x: 0
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2563,8 +2707,8 @@ TextureImporter:
       name: hero-body_97
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 1024
+        x: 256
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2584,8 +2728,8 @@ TextureImporter:
       name: hero-body_98
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 1024
+        x: 512
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2605,8 +2749,8 @@ TextureImporter:
       name: hero-body_99
       rect:
         serializedVersion: 2
-        x: 256
-        y: 768
+        x: 768
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2626,8 +2770,8 @@ TextureImporter:
       name: hero-body_100
       rect:
         serializedVersion: 2
-        x: 512
-        y: 768
+        x: 1024
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2647,8 +2791,8 @@ TextureImporter:
       name: hero-body_101
       rect:
         serializedVersion: 2
-        x: 768
-        y: 768
+        x: 1280
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2668,8 +2812,8 @@ TextureImporter:
       name: hero-body_102
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 768
+        x: 1536
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2689,8 +2833,8 @@ TextureImporter:
       name: hero-body_103
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 768
+        x: 1792
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2710,8 +2854,8 @@ TextureImporter:
       name: hero-body_104
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 768
+        x: 2048
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2731,8 +2875,8 @@ TextureImporter:
       name: hero-body_105
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 768
+        x: 2304
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2752,8 +2896,8 @@ TextureImporter:
       name: hero-body_106
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 768
+        x: 2560
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2773,8 +2917,8 @@ TextureImporter:
       name: hero-body_107
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 768
+        x: 2816
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2794,8 +2938,8 @@ TextureImporter:
       name: hero-body_108
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 768
+        x: 0
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2816,7 +2960,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 256
-        y: 512
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2837,7 +2981,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 512
-        y: 512
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2858,7 +3002,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 768
-        y: 512
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2879,7 +3023,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1024
-        y: 512
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2900,7 +3044,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1280
-        y: 512
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2920,8 +3064,8 @@ TextureImporter:
       name: hero-body_114
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 512
+        x: 1536
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2941,8 +3085,8 @@ TextureImporter:
       name: hero-body_115
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 512
+        x: 1792
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2962,8 +3106,8 @@ TextureImporter:
       name: hero-body_116
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 512
+        x: 2048
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2983,8 +3127,8 @@ TextureImporter:
       name: hero-body_117
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 512
+        x: 2304
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -3004,8 +3148,8 @@ TextureImporter:
       name: hero-body_118
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 512
+        x: 2560
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -3025,8 +3169,8 @@ TextureImporter:
       name: hero-body_119
       rect:
         serializedVersion: 2
-        x: 256
-        y: 256
+        x: 2816
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -3046,8 +3190,8 @@ TextureImporter:
       name: hero-body_120
       rect:
         serializedVersion: 2
-        x: 512
-        y: 256
+        x: 0
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3067,8 +3211,8 @@ TextureImporter:
       name: hero-body_121
       rect:
         serializedVersion: 2
-        x: 768
-        y: 256
+        x: 256
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3088,8 +3232,8 @@ TextureImporter:
       name: hero-body_122
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 256
+        x: 512
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3109,8 +3253,8 @@ TextureImporter:
       name: hero-body_123
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 256
+        x: 768
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3130,8 +3274,8 @@ TextureImporter:
       name: hero-body_124
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 256
+        x: 1024
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3151,8 +3295,8 @@ TextureImporter:
       name: hero-body_125
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 256
+        x: 1280
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3172,8 +3316,8 @@ TextureImporter:
       name: hero-body_126
       rect:
         serializedVersion: 2
-        x: 256
-        y: 0
+        x: 1536
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3193,8 +3337,8 @@ TextureImporter:
       name: hero-body_127
       rect:
         serializedVersion: 2
-        x: 512
-        y: 0
+        x: 1792
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3214,8 +3358,8 @@ TextureImporter:
       name: hero-body_128
       rect:
         serializedVersion: 2
-        x: 768
-        y: 0
+        x: 2048
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3235,8 +3379,8 @@ TextureImporter:
       name: hero-body_129
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 0
+        x: 2304
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3256,8 +3400,8 @@ TextureImporter:
       name: hero-body_130
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 0
+        x: 2560
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3277,8 +3421,8 @@ TextureImporter:
       name: hero-body_131
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 0
+        x: 2816
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3290,6 +3434,1014 @@ TextureImporter:
       bones: []
       spriteID: 52cf886040719dec0800000000000000
       internalID: -3541774325893235675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153065b50db0f0530800000000000000
+      internalID: 3823287598174307153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_133
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4a86562a7374770800000000000000
+      internalID: 8594899584485467330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_134
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f76754147715b020800000000000000
+      internalID: 2356815767323240433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_135
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbabbd3c62f2b81f0800000000000000
+      internalID: -1041687045264917829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_136
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c0f8837d5815bb0800000000000000
+      internalID: -4949027356090102691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_137
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e8327c4b1e28630800000000000000
+      internalID: 3927949991571852914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_138
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570ccf4a1b309cd70800000000000000
+      internalID: 9063779786571956341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_139
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca4ff0f383a7b5f0800000000000000
+      internalID: -740943826599851318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_140
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe9e0de96988cf10800000000000000
+      internalID: 2290231498559626997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_141
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce5d0af444c662a0800000000000000
+      internalID: -6744487591408738621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_142
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c932e04f5e5ec1ff0800000000000000
+      internalID: -63923518885190756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_143
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2879faf9d44a360800000000000000
+      internalID: 7179949054176494333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed159e74f2510fa0800000000000000
+      internalID: -5836292432046252571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_145
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3891ccb03a572cfa0800000000000000
+      internalID: -5781929628452251261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_146
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca655506f64cae30800000000000000
+      internalID: 4516062548811147970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_147
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d239acb7935dc10800000000000000
+      internalID: 2077630006943755621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_148
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b0cd3683cc2bfa0800000000000000
+      internalID: -5786338028652066023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_149
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9b9d2242a69c1e0800000000000000
+      internalID: -2177092241420863004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_150
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98ec6dee0bd4b3a0800000000000000
+      internalID: -6650449892560017254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_151
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c214b764aed200610800000000000000
+      internalID: 1585317553062494508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_152
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516f5a9414e7d40f0800000000000000
+      internalID: -1131109112526539243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_153
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8a819c1b7cbfa30800000000000000
+      internalID: 4250210239751170248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_154
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9857e5d12868cfc0800000000000000
+      internalID: -3474412617984419683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_155
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182c2c06026087450800000000000000
+      internalID: 6086621632523321985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c4cb387f3505270800000000000000
+      internalID: 8237176040992820249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_157
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cebf10fc6e68cc0800000000000000
+      internalID: -3709023466327118802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_158
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93433866093ee270800000000000000
+      internalID: 8281619464461697949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_159
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4369312a34a1f4f00800000000000000
+      internalID: 1103129311513384500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_160
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe006ffcbb581acf0800000000000000
+      internalID: -242765863206911761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_161
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe0c1ddb9f16c7c0800000000000000
+      internalID: -4051516060483187010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_162
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d6bc6216469dd50800000000000000
+      internalID: 6762546683898981718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_163
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84d1a1d47f1aceb0800000000000000
+      internalID: -4698908674613980020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_164
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a2472a7289e6e40800000000000000
+      internalID: 5651621878393219610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_165
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c68f9181e162640800000000000000
+      internalID: 5054760720633719869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_166
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289d68ee43d1dbc10800000000000000
+      internalID: 2070843516837616002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_167
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04623fa5058b0ab50800000000000000
+      internalID: 6602479708987926080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab9fb8bcd91ac070800000000000000
+      internalID: 8127336913326545833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_169
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea7c4e96dd6dd670800000000000000
+      internalID: 8565122834874792685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_170
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe303fb27dd1ff50800000000000000
+      internalID: 6913550387894042355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecf0867ad5e3af30800000000000000
+      internalID: 4585761572047092961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_172
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a217dfc50e9822b0800000000000000
+      internalID: -5609059588090948955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_173
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ecd1373a5585de0800000000000000
+      internalID: -1344230328270729708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_174
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86000cb94432d8430800000000000000
+      internalID: 3786721639266254952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_175
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e10d39078f989630800000000000000
+      internalID: 3934069676832522729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_176
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d30deb2408a32ca0800000000000000
+      internalID: -6042801539130784813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_177
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bca8e9c7516c22f0800000000000000
+      internalID: -996314387878204234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_178
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3647e41fc9926f810800000000000000
+      internalID: 1798670855221179491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-body_179
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058e116832ccb65b0800000000000000
+      internalID: -5373977277391312816
       vertices: []
       indices: 
       edges: []

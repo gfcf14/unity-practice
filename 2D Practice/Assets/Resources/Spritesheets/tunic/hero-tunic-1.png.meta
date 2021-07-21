@@ -395,6 +395,153 @@ TextureImporter:
   - first:
       213: -5465200531655362904
     second: hero-tunic-1_130
+  - first:
+      213: -3960519785696688653
+    second: hero-tunic-1_131
+  - first:
+      213: -3331697671005935005
+    second: hero-tunic-1_132
+  - first:
+      213: 2757582685103773968
+    second: hero-tunic-1_133
+  - first:
+      213: -2301703576998100663
+    second: hero-tunic-1_134
+  - first:
+      213: 3304517888439477681
+    second: hero-tunic-1_135
+  - first:
+      213: -7707694341849621905
+    second: hero-tunic-1_136
+  - first:
+      213: -7248953521677662167
+    second: hero-tunic-1_137
+  - first:
+      213: -3728698159210012789
+    second: hero-tunic-1_138
+  - first:
+      213: -3910741025274033583
+    second: hero-tunic-1_139
+  - first:
+      213: -1896764585114164224
+    second: hero-tunic-1_140
+  - first:
+      213: -4903536779753182902
+    second: hero-tunic-1_141
+  - first:
+      213: -8293250479895262754
+    second: hero-tunic-1_142
+  - first:
+      213: -5461187658554874371
+    second: hero-tunic-1_143
+  - first:
+      213: 4085945217693923785
+    second: hero-tunic-1_144
+  - first:
+      213: 2675894283288474149
+    second: hero-tunic-1_145
+  - first:
+      213: 3600560770853452277
+    second: hero-tunic-1_146
+  - first:
+      213: -7692535548891087839
+    second: hero-tunic-1_147
+  - first:
+      213: 6712602464001685306
+    second: hero-tunic-1_148
+  - first:
+      213: 7000390080798657165
+    second: hero-tunic-1_149
+  - first:
+      213: 7339493964448589945
+    second: hero-tunic-1_150
+  - first:
+      213: -4271646869429857004
+    second: hero-tunic-1_151
+  - first:
+      213: -2380073502422239151
+    second: hero-tunic-1_152
+  - first:
+      213: 3522879901580330310
+    second: hero-tunic-1_153
+  - first:
+      213: 6264240687502953069
+    second: hero-tunic-1_154
+  - first:
+      213: 6163496435598742692
+    second: hero-tunic-1_155
+  - first:
+      213: 6647624330751114884
+    second: hero-tunic-1_156
+  - first:
+      213: 5000713651592027723
+    second: hero-tunic-1_157
+  - first:
+      213: 5802214211751267329
+    second: hero-tunic-1_158
+  - first:
+      213: 7319120722035513994
+    second: hero-tunic-1_159
+  - first:
+      213: -975247310875960650
+    second: hero-tunic-1_160
+  - first:
+      213: -4068546508818266186
+    second: hero-tunic-1_161
+  - first:
+      213: 4209241128191493234
+    second: hero-tunic-1_162
+  - first:
+      213: -893236364815958802
+    second: hero-tunic-1_163
+  - first:
+      213: 3359180960364337553
+    second: hero-tunic-1_164
+  - first:
+      213: 1581909118049935931
+    second: hero-tunic-1_165
+  - first:
+      213: 7190592821697498895
+    second: hero-tunic-1_166
+  - first:
+      213: -8242089016223557469
+    second: hero-tunic-1_167
+  - first:
+      213: -7261956511450577767
+    second: hero-tunic-1_168
+  - first:
+      213: 3457662073113834050
+    second: hero-tunic-1_169
+  - first:
+      213: -7035834471152420803
+    second: hero-tunic-1_170
+  - first:
+      213: 5194511609136622860
+    second: hero-tunic-1_171
+  - first:
+      213: -8147518351913587805
+    second: hero-tunic-1_172
+  - first:
+      213: -7304218729026883755
+    second: hero-tunic-1_173
+  - first:
+      213: -8317532625277931487
+    second: hero-tunic-1_174
+  - first:
+      213: 1929765295577178673
+    second: hero-tunic-1_175
+  - first:
+      213: 7112498953767128284
+    second: hero-tunic-1_176
+  - first:
+      213: -2558828659123030385
+    second: hero-tunic-1_177
+  - first:
+      213: -3325872128578104654
+    second: hero-tunic-1_178
+  - first:
+      213: -5945794929423926861
+    second: hero-tunic-1_179
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -712,8 +859,8 @@ TextureImporter:
       name: hero-tunic-1_9
       rect:
         serializedVersion: 2
-        x: 256
-        y: 3328
+        x: 2304
+        y: 3584
         width: 256
         height: 256
       alignment: 7
@@ -733,8 +880,8 @@ TextureImporter:
       name: hero-tunic-1_10
       rect:
         serializedVersion: 2
-        x: 512
-        y: 3328
+        x: 2560
+        y: 3584
         width: 256
         height: 256
       alignment: 7
@@ -754,8 +901,8 @@ TextureImporter:
       name: hero-tunic-1_11
       rect:
         serializedVersion: 2
-        x: 768
-        y: 3328
+        x: 2816
+        y: 3584
         width: 256
         height: 256
       alignment: 7
@@ -775,7 +922,7 @@ TextureImporter:
       name: hero-tunic-1_12
       rect:
         serializedVersion: 2
-        x: 1024
+        x: 0
         y: 3328
         width: 256
         height: 256
@@ -796,7 +943,7 @@ TextureImporter:
       name: hero-tunic-1_13
       rect:
         serializedVersion: 2
-        x: 1280
+        x: 256
         y: 3328
         width: 256
         height: 256
@@ -817,7 +964,7 @@ TextureImporter:
       name: hero-tunic-1_14
       rect:
         serializedVersion: 2
-        x: 1536
+        x: 512
         y: 3328
         width: 256
         height: 256
@@ -838,7 +985,7 @@ TextureImporter:
       name: hero-tunic-1_15
       rect:
         serializedVersion: 2
-        x: 1792
+        x: 768
         y: 3328
         width: 256
         height: 256
@@ -859,7 +1006,7 @@ TextureImporter:
       name: hero-tunic-1_16
       rect:
         serializedVersion: 2
-        x: 2048
+        x: 1024
         y: 3328
         width: 256
         height: 256
@@ -880,8 +1027,8 @@ TextureImporter:
       name: hero-tunic-1_17
       rect:
         serializedVersion: 2
-        x: 256
-        y: 3072
+        x: 1280
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -901,8 +1048,8 @@ TextureImporter:
       name: hero-tunic-1_18
       rect:
         serializedVersion: 2
-        x: 512
-        y: 3072
+        x: 1536
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -922,8 +1069,8 @@ TextureImporter:
       name: hero-tunic-1_19
       rect:
         serializedVersion: 2
-        x: 768
-        y: 3072
+        x: 1792
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -943,8 +1090,8 @@ TextureImporter:
       name: hero-tunic-1_20
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 3072
+        x: 2048
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -964,8 +1111,8 @@ TextureImporter:
       name: hero-tunic-1_21
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 3072
+        x: 2304
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -985,8 +1132,8 @@ TextureImporter:
       name: hero-tunic-1_22
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 3072
+        x: 2560
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -1006,8 +1153,8 @@ TextureImporter:
       name: hero-tunic-1_23
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 3072
+        x: 2816
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -1027,7 +1174,7 @@ TextureImporter:
       name: hero-tunic-1_24
       rect:
         serializedVersion: 2
-        x: 2048
+        x: 0
         y: 3072
         width: 256
         height: 256
@@ -1048,7 +1195,7 @@ TextureImporter:
       name: hero-tunic-1_25
       rect:
         serializedVersion: 2
-        x: 2304
+        x: 256
         y: 3072
         width: 256
         height: 256
@@ -1069,7 +1216,7 @@ TextureImporter:
       name: hero-tunic-1_26
       rect:
         serializedVersion: 2
-        x: 2560
+        x: 512
         y: 3072
         width: 256
         height: 256
@@ -1090,8 +1237,8 @@ TextureImporter:
       name: hero-tunic-1_27
       rect:
         serializedVersion: 2
-        x: 256
-        y: 2816
+        x: 768
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1111,8 +1258,8 @@ TextureImporter:
       name: hero-tunic-1_28
       rect:
         serializedVersion: 2
-        x: 512
-        y: 2816
+        x: 1024
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1132,8 +1279,8 @@ TextureImporter:
       name: hero-tunic-1_29
       rect:
         serializedVersion: 2
-        x: 768
-        y: 2816
+        x: 1280
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1153,8 +1300,8 @@ TextureImporter:
       name: hero-tunic-1_30
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 2816
+        x: 1536
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1174,8 +1321,8 @@ TextureImporter:
       name: hero-tunic-1_31
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 2816
+        x: 1792
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1195,8 +1342,8 @@ TextureImporter:
       name: hero-tunic-1_32
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 2816
+        x: 2048
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1216,8 +1363,8 @@ TextureImporter:
       name: hero-tunic-1_33
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 2816
+        x: 2304
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1237,8 +1384,8 @@ TextureImporter:
       name: hero-tunic-1_34
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 2816
+        x: 2560
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1258,8 +1405,8 @@ TextureImporter:
       name: hero-tunic-1_35
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 2816
+        x: 2816
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1279,8 +1426,8 @@ TextureImporter:
       name: hero-tunic-1_36
       rect:
         serializedVersion: 2
-        x: 256
-        y: 2560
+        x: 0
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1300,8 +1447,8 @@ TextureImporter:
       name: hero-tunic-1_37
       rect:
         serializedVersion: 2
-        x: 512
-        y: 2560
+        x: 256
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1321,8 +1468,8 @@ TextureImporter:
       name: hero-tunic-1_38
       rect:
         serializedVersion: 2
-        x: 768
-        y: 2560
+        x: 512
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1342,8 +1489,8 @@ TextureImporter:
       name: hero-tunic-1_39
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 2560
+        x: 768
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1363,8 +1510,8 @@ TextureImporter:
       name: hero-tunic-1_40
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 2560
+        x: 1024
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1384,8 +1531,8 @@ TextureImporter:
       name: hero-tunic-1_41
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 2560
+        x: 1280
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1405,8 +1552,8 @@ TextureImporter:
       name: hero-tunic-1_42
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 2560
+        x: 1536
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1426,8 +1573,8 @@ TextureImporter:
       name: hero-tunic-1_43
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 2560
+        x: 1792
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1447,8 +1594,8 @@ TextureImporter:
       name: hero-tunic-1_44
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 2560
+        x: 2048
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1468,8 +1615,8 @@ TextureImporter:
       name: hero-tunic-1_45
       rect:
         serializedVersion: 2
-        x: 256
-        y: 2304
+        x: 2304
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1489,8 +1636,8 @@ TextureImporter:
       name: hero-tunic-1_46
       rect:
         serializedVersion: 2
-        x: 512
-        y: 2304
+        x: 2560
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1510,8 +1657,8 @@ TextureImporter:
       name: hero-tunic-1_47
       rect:
         serializedVersion: 2
-        x: 768
-        y: 2304
+        x: 2816
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1531,8 +1678,8 @@ TextureImporter:
       name: hero-tunic-1_48
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 2304
+        x: 0
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1552,8 +1699,8 @@ TextureImporter:
       name: hero-tunic-1_49
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 2304
+        x: 256
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1573,8 +1720,8 @@ TextureImporter:
       name: hero-tunic-1_50
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 2304
+        x: 512
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1594,8 +1741,8 @@ TextureImporter:
       name: hero-tunic-1_51
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 2304
+        x: 768
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1615,8 +1762,8 @@ TextureImporter:
       name: hero-tunic-1_52
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 2304
+        x: 1024
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1636,8 +1783,8 @@ TextureImporter:
       name: hero-tunic-1_53
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 2304
+        x: 1280
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1657,8 +1804,8 @@ TextureImporter:
       name: hero-tunic-1_54
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 2304
+        x: 1536
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1678,8 +1825,8 @@ TextureImporter:
       name: hero-tunic-1_55
       rect:
         serializedVersion: 2
-        x: 256
-        y: 2048
+        x: 1792
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1699,8 +1846,8 @@ TextureImporter:
       name: hero-tunic-1_56
       rect:
         serializedVersion: 2
-        x: 512
-        y: 2048
+        x: 2048
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1720,8 +1867,8 @@ TextureImporter:
       name: hero-tunic-1_57
       rect:
         serializedVersion: 2
-        x: 768
-        y: 2048
+        x: 2304
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1741,8 +1888,8 @@ TextureImporter:
       name: hero-tunic-1_58
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 2048
+        x: 2560
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1762,8 +1909,8 @@ TextureImporter:
       name: hero-tunic-1_59
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 2048
+        x: 2816
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1783,8 +1930,8 @@ TextureImporter:
       name: hero-tunic-1_60
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 2048
+        x: 0
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1804,8 +1951,8 @@ TextureImporter:
       name: hero-tunic-1_61
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 2048
+        x: 256
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1825,8 +1972,8 @@ TextureImporter:
       name: hero-tunic-1_62
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 2048
+        x: 512
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1846,8 +1993,8 @@ TextureImporter:
       name: hero-tunic-1_63
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 2048
+        x: 768
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1867,8 +2014,8 @@ TextureImporter:
       name: hero-tunic-1_64
       rect:
         serializedVersion: 2
-        x: 256
-        y: 1792
+        x: 1024
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1888,8 +2035,8 @@ TextureImporter:
       name: hero-tunic-1_65
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1792
+        x: 1280
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1909,8 +2056,8 @@ TextureImporter:
       name: hero-tunic-1_66
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1792
+        x: 1536
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1930,8 +2077,8 @@ TextureImporter:
       name: hero-tunic-1_67
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 1792
+        x: 1792
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1951,8 +2098,8 @@ TextureImporter:
       name: hero-tunic-1_68
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 1792
+        x: 2048
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1972,8 +2119,8 @@ TextureImporter:
       name: hero-tunic-1_69
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 1792
+        x: 2304
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1993,8 +2140,8 @@ TextureImporter:
       name: hero-tunic-1_70
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 1792
+        x: 2560
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -2014,8 +2161,8 @@ TextureImporter:
       name: hero-tunic-1_71
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 1792
+        x: 2816
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -2035,8 +2182,8 @@ TextureImporter:
       name: hero-tunic-1_72
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 1792
+        x: 0
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2056,8 +2203,8 @@ TextureImporter:
       name: hero-tunic-1_73
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 1792
+        x: 256
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2077,8 +2224,8 @@ TextureImporter:
       name: hero-tunic-1_74
       rect:
         serializedVersion: 2
-        x: 256
-        y: 1536
+        x: 512
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2098,8 +2245,8 @@ TextureImporter:
       name: hero-tunic-1_75
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1536
+        x: 768
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2119,8 +2266,8 @@ TextureImporter:
       name: hero-tunic-1_76
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1536
+        x: 1024
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2141,7 +2288,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1280
-        y: 1536
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2162,7 +2309,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1536
-        y: 1536
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2183,7 +2330,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1792
-        y: 1536
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2203,8 +2350,8 @@ TextureImporter:
       name: hero-tunic-1_80
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 1536
+        x: 2048
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2224,8 +2371,8 @@ TextureImporter:
       name: hero-tunic-1_81
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 1536
+        x: 2304
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2245,8 +2392,8 @@ TextureImporter:
       name: hero-tunic-1_82
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 1536
+        x: 2560
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2266,8 +2413,8 @@ TextureImporter:
       name: hero-tunic-1_83
       rect:
         serializedVersion: 2
-        x: 256
-        y: 1280
+        x: 2816
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2287,8 +2434,8 @@ TextureImporter:
       name: hero-tunic-1_84
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1280
+        x: 0
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2308,8 +2455,8 @@ TextureImporter:
       name: hero-tunic-1_85
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1280
+        x: 256
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2329,8 +2476,8 @@ TextureImporter:
       name: hero-tunic-1_86
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 1280
+        x: 512
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2350,8 +2497,8 @@ TextureImporter:
       name: hero-tunic-1_87
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 1280
+        x: 768
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2371,8 +2518,8 @@ TextureImporter:
       name: hero-tunic-1_88
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 1280
+        x: 1024
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2392,8 +2539,8 @@ TextureImporter:
       name: hero-tunic-1_89
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 1280
+        x: 1280
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2413,8 +2560,8 @@ TextureImporter:
       name: hero-tunic-1_90
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 1280
+        x: 1536
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2434,8 +2581,8 @@ TextureImporter:
       name: hero-tunic-1_91
       rect:
         serializedVersion: 2
-        x: 256
-        y: 1024
+        x: 1792
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2455,8 +2602,8 @@ TextureImporter:
       name: hero-tunic-1_92
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1024
+        x: 2048
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2476,8 +2623,8 @@ TextureImporter:
       name: hero-tunic-1_93
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1024
+        x: 2304
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2497,8 +2644,8 @@ TextureImporter:
       name: hero-tunic-1_94
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 1024
+        x: 2560
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2518,8 +2665,8 @@ TextureImporter:
       name: hero-tunic-1_95
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 1024
+        x: 2816
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2539,8 +2686,8 @@ TextureImporter:
       name: hero-tunic-1_96
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 1024
+        x: 0
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2560,8 +2707,8 @@ TextureImporter:
       name: hero-tunic-1_97
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 1024
+        x: 256
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2581,8 +2728,8 @@ TextureImporter:
       name: hero-tunic-1_98
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 1024
+        x: 512
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2602,8 +2749,8 @@ TextureImporter:
       name: hero-tunic-1_99
       rect:
         serializedVersion: 2
-        x: 256
-        y: 768
+        x: 768
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2623,8 +2770,8 @@ TextureImporter:
       name: hero-tunic-1_100
       rect:
         serializedVersion: 2
-        x: 512
-        y: 768
+        x: 1024
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2644,8 +2791,8 @@ TextureImporter:
       name: hero-tunic-1_101
       rect:
         serializedVersion: 2
-        x: 768
-        y: 768
+        x: 1280
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2665,8 +2812,8 @@ TextureImporter:
       name: hero-tunic-1_102
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 768
+        x: 1536
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2686,8 +2833,8 @@ TextureImporter:
       name: hero-tunic-1_103
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 768
+        x: 1792
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2707,8 +2854,8 @@ TextureImporter:
       name: hero-tunic-1_104
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 768
+        x: 2048
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2728,8 +2875,8 @@ TextureImporter:
       name: hero-tunic-1_105
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 768
+        x: 2304
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2750,7 +2897,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2560
-        y: 768
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2771,7 +2918,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2816
-        y: 768
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2791,8 +2938,8 @@ TextureImporter:
       name: hero-tunic-1_108
       rect:
         serializedVersion: 2
-        x: 256
-        y: 512
+        x: 0
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2812,8 +2959,8 @@ TextureImporter:
       name: hero-tunic-1_109
       rect:
         serializedVersion: 2
-        x: 512
-        y: 512
+        x: 256
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2833,8 +2980,8 @@ TextureImporter:
       name: hero-tunic-1_110
       rect:
         serializedVersion: 2
-        x: 768
-        y: 512
+        x: 512
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2854,8 +3001,8 @@ TextureImporter:
       name: hero-tunic-1_111
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 512
+        x: 768
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2875,8 +3022,8 @@ TextureImporter:
       name: hero-tunic-1_112
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 512
+        x: 1024
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2896,8 +3043,8 @@ TextureImporter:
       name: hero-tunic-1_113
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 512
+        x: 1280
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2917,8 +3064,8 @@ TextureImporter:
       name: hero-tunic-1_114
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 512
+        x: 1536
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2938,8 +3085,8 @@ TextureImporter:
       name: hero-tunic-1_115
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 512
+        x: 1792
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2959,8 +3106,8 @@ TextureImporter:
       name: hero-tunic-1_116
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 512
+        x: 2048
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2980,8 +3127,8 @@ TextureImporter:
       name: hero-tunic-1_117
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 512
+        x: 2304
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -3001,8 +3148,8 @@ TextureImporter:
       name: hero-tunic-1_118
       rect:
         serializedVersion: 2
-        x: 256
-        y: 256
+        x: 2560
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -3022,8 +3169,8 @@ TextureImporter:
       name: hero-tunic-1_119
       rect:
         serializedVersion: 2
-        x: 512
-        y: 256
+        x: 2816
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -3043,8 +3190,8 @@ TextureImporter:
       name: hero-tunic-1_120
       rect:
         serializedVersion: 2
-        x: 768
-        y: 256
+        x: 0
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3064,8 +3211,8 @@ TextureImporter:
       name: hero-tunic-1_121
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 256
+        x: 256
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3085,8 +3232,8 @@ TextureImporter:
       name: hero-tunic-1_122
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 256
+        x: 512
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3106,8 +3253,8 @@ TextureImporter:
       name: hero-tunic-1_123
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 256
+        x: 768
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3127,8 +3274,8 @@ TextureImporter:
       name: hero-tunic-1_124
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 256
+        x: 1024
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3148,8 +3295,8 @@ TextureImporter:
       name: hero-tunic-1_125
       rect:
         serializedVersion: 2
-        x: 256
-        y: 0
+        x: 1280
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3169,8 +3316,8 @@ TextureImporter:
       name: hero-tunic-1_126
       rect:
         serializedVersion: 2
-        x: 512
-        y: 0
+        x: 1536
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3190,8 +3337,8 @@ TextureImporter:
       name: hero-tunic-1_127
       rect:
         serializedVersion: 2
-        x: 768
-        y: 0
+        x: 1792
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3211,8 +3358,8 @@ TextureImporter:
       name: hero-tunic-1_128
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 0
+        x: 2048
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3232,8 +3379,8 @@ TextureImporter:
       name: hero-tunic-1_129
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 0
+        x: 2304
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3253,8 +3400,8 @@ TextureImporter:
       name: hero-tunic-1_130
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 0
+        x: 2560
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3266,6 +3413,1035 @@ TextureImporter:
       bones: []
       spriteID: 8a6f7648215b724b0800000000000000
       internalID: -5465200531655362904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_131
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f584a71d386909c0800000000000000
+      internalID: -3960519785696688653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ae1bcce9e63c1d0800000000000000
+      internalID: -3331697671005935005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_133
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019d06087d6e44620800000000000000
+      internalID: 2757582685103773968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_134
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94148caaac4be00e0800000000000000
+      internalID: -2301703576998100663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_135
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5eb5ee2810cdd20800000000000000
+      internalID: 3304517888439477681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_136
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ad3cc45d4c80590800000000000000
+      internalID: -7707694341849621905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_137
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928061bbd2b866b90800000000000000
+      internalID: -7248953521677662167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_138
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f52a997c0014cc0800000000000000
+      internalID: -3728698159210012789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_139
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a8efbe1c14ab9c0800000000000000
+      internalID: -3910741025274033583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_140
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004aab9c8a65da5e0800000000000000
+      internalID: -1896764585114164224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_141
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49afb3674323fbb0800000000000000
+      internalID: -4903536779753182902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_142
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed94188c0a478ec80800000000000000
+      internalID: -8293250479895262754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_143
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5e61852c6f534b0800000000000000
+      internalID: -5461187658554874371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c93a58f68134b830800000000000000
+      internalID: 4085945217693923785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_145
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52278e35cafa22520800000000000000
+      internalID: 2675894283288474149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_146
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f93deac1f2c7f130800000000000000
+      internalID: 3600560770853452277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_147
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c3842dcaf9e3590800000000000000
+      internalID: -7692535548891087839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_148
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a377b394064f72d50800000000000000
+      internalID: 6712602464001685306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_149
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a0c2750b1662160800000000000000
+      internalID: 7000390080798657165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_150
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978e416dfde1bd560800000000000000
+      internalID: 7339493964448589945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_151
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41559bdedcf08b4c0800000000000000
+      internalID: -4271646869429857004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_152
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1587dcc72c748fed0800000000000000
+      internalID: -2380073502422239151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_153
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6450f000b98c3e030800000000000000
+      internalID: 3522879901580330310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_154
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a892647bd0fe650800000000000000
+      internalID: 6264240687502953069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_155
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4df324a53298550800000000000000
+      internalID: 6163496435598742692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ef9a2bb1b114c50800000000000000
+      internalID: 6647624330751114884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_157
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ed69a329a166540800000000000000
+      internalID: 5000713651592027723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_158
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c482a851b958050800000000000000
+      internalID: 5802214211751267329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_159
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a9021b48db29560800000000000000
+      internalID: 7319120722035513994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_160
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba5513ecb93772f0800000000000000
+      internalID: -975247310875960650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_161
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b74bbd918e9987c0800000000000000
+      internalID: -4068546508818266186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_162
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27481db218a3a6a30800000000000000
+      internalID: 4209241128191493234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_163
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecfeae32469a93f0800000000000000
+      internalID: -893236364815958802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_164
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19995c629453e9e20800000000000000
+      internalID: 3359180960364337553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_165
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32615826f114f510800000000000000
+      internalID: 1581909118049935931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_166
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fc0cde21e1ac360800000000000000
+      internalID: 7190592821697498895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_167
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a898dc45b73e9d80800000000000000
+      internalID: -8242089016223557469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99447a04709583b90800000000000000
+      internalID: -7261956511450577767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_169
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2427a4506551cff20800000000000000
+      internalID: 3457662073113834050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_170
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38f28073d1bb5e90800000000000000
+      internalID: -7035834471152420803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d2b3c69cc961840800000000000000
+      internalID: 5194511609136622860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_172
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abe631f9333eee80800000000000000
+      internalID: -8147518351913587805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_173
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fe89ee3c332aa90800000000000000
+      internalID: -7304218729026883755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_174
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120369e3520329c80800000000000000
+      internalID: -8317532625277931487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_175
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13221cedf47e7ca10800000000000000
+      internalID: 1929765295577178673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_176
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc80a46d1ca4b260800000000000000
+      internalID: 7112498953767128284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_177
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86f1eb44e63d7cd0800000000000000
+      internalID: -2558828659123030385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_178
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2dab79be028d1d0800000000000000
+      internalID: -3325872128578104654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-tunic-1_179
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b93e5c830b4c7da0800000000000000
+      internalID: -5945794929423926861
       vertices: []
       indices: 
       edges: []

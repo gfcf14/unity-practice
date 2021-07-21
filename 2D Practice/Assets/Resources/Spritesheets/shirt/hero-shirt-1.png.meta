@@ -395,6 +395,153 @@ TextureImporter:
   - first:
       213: -5616424897500887041
     second: hero-shirt-1_130
+  - first:
+      213: 6025715713480110784
+    second: hero-shirt-1_131
+  - first:
+      213: -8795904162653536521
+    second: hero-shirt-1_132
+  - first:
+      213: 4397276659680416542
+    second: hero-shirt-1_133
+  - first:
+      213: -7159767880573419543
+    second: hero-shirt-1_134
+  - first:
+      213: -1700137996042953444
+    second: hero-shirt-1_135
+  - first:
+      213: -7915364199830158232
+    second: hero-shirt-1_136
+  - first:
+      213: -6153336414841004252
+    second: hero-shirt-1_137
+  - first:
+      213: -1205074903964304167
+    second: hero-shirt-1_138
+  - first:
+      213: -5599357635004764000
+    second: hero-shirt-1_139
+  - first:
+      213: -1717759715215102123
+    second: hero-shirt-1_140
+  - first:
+      213: -8679560671128752422
+    second: hero-shirt-1_141
+  - first:
+      213: 8178830559073349499
+    second: hero-shirt-1_142
+  - first:
+      213: -1300228409933931274
+    second: hero-shirt-1_143
+  - first:
+      213: -964303518213414568
+    second: hero-shirt-1_144
+  - first:
+      213: 3790820432529553089
+    second: hero-shirt-1_145
+  - first:
+      213: -8503647114218349471
+    second: hero-shirt-1_146
+  - first:
+      213: 6439935528771700178
+    second: hero-shirt-1_147
+  - first:
+      213: -5364401487236505095
+    second: hero-shirt-1_148
+  - first:
+      213: 5669785076279682288
+    second: hero-shirt-1_149
+  - first:
+      213: -1327031958643213076
+    second: hero-shirt-1_150
+  - first:
+      213: 8446495139282531461
+    second: hero-shirt-1_151
+  - first:
+      213: 7500458628721838858
+    second: hero-shirt-1_152
+  - first:
+      213: 3626653964175837064
+    second: hero-shirt-1_153
+  - first:
+      213: 55838101813445240
+    second: hero-shirt-1_154
+  - first:
+      213: -4381466692457065141
+    second: hero-shirt-1_155
+  - first:
+      213: 17906482331650697
+    second: hero-shirt-1_156
+  - first:
+      213: 1747956745250034953
+    second: hero-shirt-1_157
+  - first:
+      213: -5064757625555132027
+    second: hero-shirt-1_158
+  - first:
+      213: -8713004952521248697
+    second: hero-shirt-1_159
+  - first:
+      213: 3723447463185025084
+    second: hero-shirt-1_160
+  - first:
+      213: 3385526335495646601
+    second: hero-shirt-1_161
+  - first:
+      213: -2497783520904682231
+    second: hero-shirt-1_162
+  - first:
+      213: 3145967094562251230
+    second: hero-shirt-1_163
+  - first:
+      213: -2689185708870755072
+    second: hero-shirt-1_164
+  - first:
+      213: 1625584263849252601
+    second: hero-shirt-1_165
+  - first:
+      213: -4179381311166945830
+    second: hero-shirt-1_166
+  - first:
+      213: 8909062584981781697
+    second: hero-shirt-1_167
+  - first:
+      213: -7522859198757927559
+    second: hero-shirt-1_168
+  - first:
+      213: 2934970672444461780
+    second: hero-shirt-1_169
+  - first:
+      213: -8834947542268886718
+    second: hero-shirt-1_170
+  - first:
+      213: -2365487307004564667
+    second: hero-shirt-1_171
+  - first:
+      213: 1121961453558288374
+    second: hero-shirt-1_172
+  - first:
+      213: 6682110616036567013
+    second: hero-shirt-1_173
+  - first:
+      213: -187768691248920046
+    second: hero-shirt-1_174
+  - first:
+      213: 5398530551962416914
+    second: hero-shirt-1_175
+  - first:
+      213: -69804938501631287
+    second: hero-shirt-1_176
+  - first:
+      213: -2906944666415753
+    second: hero-shirt-1_177
+  - first:
+      213: 927507762327044235
+    second: hero-shirt-1_178
+  - first:
+      213: 4930931383599418647
+    second: hero-shirt-1_179
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -712,8 +859,8 @@ TextureImporter:
       name: hero-shirt-1_9
       rect:
         serializedVersion: 2
-        x: 256
-        y: 3328
+        x: 2304
+        y: 3584
         width: 256
         height: 256
       alignment: 7
@@ -733,8 +880,8 @@ TextureImporter:
       name: hero-shirt-1_10
       rect:
         serializedVersion: 2
-        x: 512
-        y: 3328
+        x: 2560
+        y: 3584
         width: 256
         height: 256
       alignment: 7
@@ -754,8 +901,8 @@ TextureImporter:
       name: hero-shirt-1_11
       rect:
         serializedVersion: 2
-        x: 768
-        y: 3328
+        x: 2816
+        y: 3584
         width: 256
         height: 256
       alignment: 7
@@ -775,7 +922,7 @@ TextureImporter:
       name: hero-shirt-1_12
       rect:
         serializedVersion: 2
-        x: 1024
+        x: 0
         y: 3328
         width: 256
         height: 256
@@ -796,7 +943,7 @@ TextureImporter:
       name: hero-shirt-1_13
       rect:
         serializedVersion: 2
-        x: 1280
+        x: 256
         y: 3328
         width: 256
         height: 256
@@ -817,7 +964,7 @@ TextureImporter:
       name: hero-shirt-1_14
       rect:
         serializedVersion: 2
-        x: 1536
+        x: 512
         y: 3328
         width: 256
         height: 256
@@ -838,7 +985,7 @@ TextureImporter:
       name: hero-shirt-1_15
       rect:
         serializedVersion: 2
-        x: 1792
+        x: 768
         y: 3328
         width: 256
         height: 256
@@ -859,7 +1006,7 @@ TextureImporter:
       name: hero-shirt-1_16
       rect:
         serializedVersion: 2
-        x: 2048
+        x: 1024
         y: 3328
         width: 256
         height: 256
@@ -880,8 +1027,8 @@ TextureImporter:
       name: hero-shirt-1_17
       rect:
         serializedVersion: 2
-        x: 256
-        y: 3072
+        x: 1280
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -901,8 +1048,8 @@ TextureImporter:
       name: hero-shirt-1_18
       rect:
         serializedVersion: 2
-        x: 512
-        y: 3072
+        x: 1536
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -922,8 +1069,8 @@ TextureImporter:
       name: hero-shirt-1_19
       rect:
         serializedVersion: 2
-        x: 768
-        y: 3072
+        x: 1792
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -943,8 +1090,8 @@ TextureImporter:
       name: hero-shirt-1_20
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 3072
+        x: 2048
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -964,8 +1111,8 @@ TextureImporter:
       name: hero-shirt-1_21
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 3072
+        x: 2304
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -985,8 +1132,8 @@ TextureImporter:
       name: hero-shirt-1_22
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 3072
+        x: 2560
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -1006,8 +1153,8 @@ TextureImporter:
       name: hero-shirt-1_23
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 3072
+        x: 2816
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -1027,7 +1174,7 @@ TextureImporter:
       name: hero-shirt-1_24
       rect:
         serializedVersion: 2
-        x: 2048
+        x: 0
         y: 3072
         width: 256
         height: 256
@@ -1048,7 +1195,7 @@ TextureImporter:
       name: hero-shirt-1_25
       rect:
         serializedVersion: 2
-        x: 2304
+        x: 256
         y: 3072
         width: 256
         height: 256
@@ -1069,7 +1216,7 @@ TextureImporter:
       name: hero-shirt-1_26
       rect:
         serializedVersion: 2
-        x: 2560
+        x: 512
         y: 3072
         width: 256
         height: 256
@@ -1090,8 +1237,8 @@ TextureImporter:
       name: hero-shirt-1_27
       rect:
         serializedVersion: 2
-        x: 256
-        y: 2816
+        x: 768
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1111,8 +1258,8 @@ TextureImporter:
       name: hero-shirt-1_28
       rect:
         serializedVersion: 2
-        x: 512
-        y: 2816
+        x: 1024
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1132,8 +1279,8 @@ TextureImporter:
       name: hero-shirt-1_29
       rect:
         serializedVersion: 2
-        x: 768
-        y: 2816
+        x: 1280
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1153,8 +1300,8 @@ TextureImporter:
       name: hero-shirt-1_30
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 2816
+        x: 1536
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1174,8 +1321,8 @@ TextureImporter:
       name: hero-shirt-1_31
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 2816
+        x: 1792
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1195,8 +1342,8 @@ TextureImporter:
       name: hero-shirt-1_32
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 2816
+        x: 2048
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1216,8 +1363,8 @@ TextureImporter:
       name: hero-shirt-1_33
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 2816
+        x: 2304
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1237,8 +1384,8 @@ TextureImporter:
       name: hero-shirt-1_34
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 2816
+        x: 2560
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1258,8 +1405,8 @@ TextureImporter:
       name: hero-shirt-1_35
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 2816
+        x: 2816
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1279,8 +1426,8 @@ TextureImporter:
       name: hero-shirt-1_36
       rect:
         serializedVersion: 2
-        x: 256
-        y: 2560
+        x: 0
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1300,8 +1447,8 @@ TextureImporter:
       name: hero-shirt-1_37
       rect:
         serializedVersion: 2
-        x: 512
-        y: 2560
+        x: 256
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1321,8 +1468,8 @@ TextureImporter:
       name: hero-shirt-1_38
       rect:
         serializedVersion: 2
-        x: 768
-        y: 2560
+        x: 512
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1342,8 +1489,8 @@ TextureImporter:
       name: hero-shirt-1_39
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 2560
+        x: 768
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1363,8 +1510,8 @@ TextureImporter:
       name: hero-shirt-1_40
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 2560
+        x: 1024
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1384,8 +1531,8 @@ TextureImporter:
       name: hero-shirt-1_41
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 2560
+        x: 1280
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1405,8 +1552,8 @@ TextureImporter:
       name: hero-shirt-1_42
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 2560
+        x: 1536
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1426,8 +1573,8 @@ TextureImporter:
       name: hero-shirt-1_43
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 2560
+        x: 1792
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1447,8 +1594,8 @@ TextureImporter:
       name: hero-shirt-1_44
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 2560
+        x: 2048
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1468,8 +1615,8 @@ TextureImporter:
       name: hero-shirt-1_45
       rect:
         serializedVersion: 2
-        x: 256
-        y: 2304
+        x: 2304
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1489,8 +1636,8 @@ TextureImporter:
       name: hero-shirt-1_46
       rect:
         serializedVersion: 2
-        x: 512
-        y: 2304
+        x: 2560
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1510,8 +1657,8 @@ TextureImporter:
       name: hero-shirt-1_47
       rect:
         serializedVersion: 2
-        x: 768
-        y: 2304
+        x: 2816
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1531,8 +1678,8 @@ TextureImporter:
       name: hero-shirt-1_48
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 2304
+        x: 0
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1552,8 +1699,8 @@ TextureImporter:
       name: hero-shirt-1_49
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 2304
+        x: 256
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1573,8 +1720,8 @@ TextureImporter:
       name: hero-shirt-1_50
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 2304
+        x: 512
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1594,8 +1741,8 @@ TextureImporter:
       name: hero-shirt-1_51
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 2304
+        x: 768
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1615,8 +1762,8 @@ TextureImporter:
       name: hero-shirt-1_52
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 2304
+        x: 1024
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1636,8 +1783,8 @@ TextureImporter:
       name: hero-shirt-1_53
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 2304
+        x: 1280
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1657,8 +1804,8 @@ TextureImporter:
       name: hero-shirt-1_54
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 2304
+        x: 1536
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1678,8 +1825,8 @@ TextureImporter:
       name: hero-shirt-1_55
       rect:
         serializedVersion: 2
-        x: 256
-        y: 2048
+        x: 1792
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1699,8 +1846,8 @@ TextureImporter:
       name: hero-shirt-1_56
       rect:
         serializedVersion: 2
-        x: 512
-        y: 2048
+        x: 2048
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1720,8 +1867,8 @@ TextureImporter:
       name: hero-shirt-1_57
       rect:
         serializedVersion: 2
-        x: 768
-        y: 2048
+        x: 2304
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1741,8 +1888,8 @@ TextureImporter:
       name: hero-shirt-1_58
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 2048
+        x: 2560
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1762,8 +1909,8 @@ TextureImporter:
       name: hero-shirt-1_59
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 2048
+        x: 2816
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1783,8 +1930,8 @@ TextureImporter:
       name: hero-shirt-1_60
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 2048
+        x: 0
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1804,8 +1951,8 @@ TextureImporter:
       name: hero-shirt-1_61
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 2048
+        x: 256
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1825,8 +1972,8 @@ TextureImporter:
       name: hero-shirt-1_62
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 2048
+        x: 512
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1846,8 +1993,8 @@ TextureImporter:
       name: hero-shirt-1_63
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 2048
+        x: 768
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1867,8 +2014,8 @@ TextureImporter:
       name: hero-shirt-1_64
       rect:
         serializedVersion: 2
-        x: 256
-        y: 1792
+        x: 1024
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1888,8 +2035,8 @@ TextureImporter:
       name: hero-shirt-1_65
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1792
+        x: 1280
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1909,8 +2056,8 @@ TextureImporter:
       name: hero-shirt-1_66
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1792
+        x: 1536
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1930,8 +2077,8 @@ TextureImporter:
       name: hero-shirt-1_67
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 1792
+        x: 1792
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1951,8 +2098,8 @@ TextureImporter:
       name: hero-shirt-1_68
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 1792
+        x: 2048
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1972,8 +2119,8 @@ TextureImporter:
       name: hero-shirt-1_69
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 1792
+        x: 2304
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1993,8 +2140,8 @@ TextureImporter:
       name: hero-shirt-1_70
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 1792
+        x: 2560
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -2014,8 +2161,8 @@ TextureImporter:
       name: hero-shirt-1_71
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 1792
+        x: 2816
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -2035,8 +2182,8 @@ TextureImporter:
       name: hero-shirt-1_72
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 1792
+        x: 0
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2056,8 +2203,8 @@ TextureImporter:
       name: hero-shirt-1_73
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 1792
+        x: 256
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2077,8 +2224,8 @@ TextureImporter:
       name: hero-shirt-1_74
       rect:
         serializedVersion: 2
-        x: 256
-        y: 1536
+        x: 512
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2098,8 +2245,8 @@ TextureImporter:
       name: hero-shirt-1_75
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1536
+        x: 768
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2119,8 +2266,8 @@ TextureImporter:
       name: hero-shirt-1_76
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1536
+        x: 1024
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2141,7 +2288,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1280
-        y: 1536
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2162,7 +2309,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1536
-        y: 1536
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2183,7 +2330,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1792
-        y: 1536
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2203,8 +2350,8 @@ TextureImporter:
       name: hero-shirt-1_80
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 1536
+        x: 2048
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2224,8 +2371,8 @@ TextureImporter:
       name: hero-shirt-1_81
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 1536
+        x: 2304
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2245,8 +2392,8 @@ TextureImporter:
       name: hero-shirt-1_82
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 1536
+        x: 2560
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2266,8 +2413,8 @@ TextureImporter:
       name: hero-shirt-1_83
       rect:
         serializedVersion: 2
-        x: 256
-        y: 1280
+        x: 2816
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2287,8 +2434,8 @@ TextureImporter:
       name: hero-shirt-1_84
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1280
+        x: 0
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2308,8 +2455,8 @@ TextureImporter:
       name: hero-shirt-1_85
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1280
+        x: 256
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2329,8 +2476,8 @@ TextureImporter:
       name: hero-shirt-1_86
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 1280
+        x: 512
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2350,8 +2497,8 @@ TextureImporter:
       name: hero-shirt-1_87
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 1280
+        x: 768
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2371,8 +2518,8 @@ TextureImporter:
       name: hero-shirt-1_88
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 1280
+        x: 1024
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2392,8 +2539,8 @@ TextureImporter:
       name: hero-shirt-1_89
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 1280
+        x: 1280
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2413,8 +2560,8 @@ TextureImporter:
       name: hero-shirt-1_90
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 1280
+        x: 1536
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2434,8 +2581,8 @@ TextureImporter:
       name: hero-shirt-1_91
       rect:
         serializedVersion: 2
-        x: 256
-        y: 1024
+        x: 1792
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2455,8 +2602,8 @@ TextureImporter:
       name: hero-shirt-1_92
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1024
+        x: 2048
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2476,8 +2623,8 @@ TextureImporter:
       name: hero-shirt-1_93
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1024
+        x: 2304
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2497,8 +2644,8 @@ TextureImporter:
       name: hero-shirt-1_94
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 1024
+        x: 2560
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2518,8 +2665,8 @@ TextureImporter:
       name: hero-shirt-1_95
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 1024
+        x: 2816
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2539,8 +2686,8 @@ TextureImporter:
       name: hero-shirt-1_96
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 1024
+        x: 0
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2560,8 +2707,8 @@ TextureImporter:
       name: hero-shirt-1_97
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 1024
+        x: 256
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2581,8 +2728,8 @@ TextureImporter:
       name: hero-shirt-1_98
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 1024
+        x: 512
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2602,8 +2749,8 @@ TextureImporter:
       name: hero-shirt-1_99
       rect:
         serializedVersion: 2
-        x: 256
-        y: 768
+        x: 768
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2623,8 +2770,8 @@ TextureImporter:
       name: hero-shirt-1_100
       rect:
         serializedVersion: 2
-        x: 512
-        y: 768
+        x: 1024
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2644,8 +2791,8 @@ TextureImporter:
       name: hero-shirt-1_101
       rect:
         serializedVersion: 2
-        x: 768
-        y: 768
+        x: 1280
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2665,8 +2812,8 @@ TextureImporter:
       name: hero-shirt-1_102
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 768
+        x: 1536
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2686,8 +2833,8 @@ TextureImporter:
       name: hero-shirt-1_103
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 768
+        x: 1792
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2707,8 +2854,8 @@ TextureImporter:
       name: hero-shirt-1_104
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 768
+        x: 2048
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2728,8 +2875,8 @@ TextureImporter:
       name: hero-shirt-1_105
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 768
+        x: 2304
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2750,7 +2897,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2560
-        y: 768
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2771,7 +2918,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2816
-        y: 768
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2791,8 +2938,8 @@ TextureImporter:
       name: hero-shirt-1_108
       rect:
         serializedVersion: 2
-        x: 256
-        y: 512
+        x: 0
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2812,8 +2959,8 @@ TextureImporter:
       name: hero-shirt-1_109
       rect:
         serializedVersion: 2
-        x: 512
-        y: 512
+        x: 256
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2833,8 +2980,8 @@ TextureImporter:
       name: hero-shirt-1_110
       rect:
         serializedVersion: 2
-        x: 768
-        y: 512
+        x: 512
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2854,8 +3001,8 @@ TextureImporter:
       name: hero-shirt-1_111
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 512
+        x: 768
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2875,8 +3022,8 @@ TextureImporter:
       name: hero-shirt-1_112
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 512
+        x: 1024
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2896,8 +3043,8 @@ TextureImporter:
       name: hero-shirt-1_113
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 512
+        x: 1280
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2917,8 +3064,8 @@ TextureImporter:
       name: hero-shirt-1_114
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 512
+        x: 1536
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2938,8 +3085,8 @@ TextureImporter:
       name: hero-shirt-1_115
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 512
+        x: 1792
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2959,8 +3106,8 @@ TextureImporter:
       name: hero-shirt-1_116
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 512
+        x: 2048
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2980,8 +3127,8 @@ TextureImporter:
       name: hero-shirt-1_117
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 512
+        x: 2304
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -3001,8 +3148,8 @@ TextureImporter:
       name: hero-shirt-1_118
       rect:
         serializedVersion: 2
-        x: 256
-        y: 256
+        x: 2560
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -3022,8 +3169,8 @@ TextureImporter:
       name: hero-shirt-1_119
       rect:
         serializedVersion: 2
-        x: 512
-        y: 256
+        x: 2816
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -3043,8 +3190,8 @@ TextureImporter:
       name: hero-shirt-1_120
       rect:
         serializedVersion: 2
-        x: 768
-        y: 256
+        x: 0
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3064,8 +3211,8 @@ TextureImporter:
       name: hero-shirt-1_121
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 256
+        x: 256
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3085,8 +3232,8 @@ TextureImporter:
       name: hero-shirt-1_122
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 256
+        x: 512
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3106,8 +3253,8 @@ TextureImporter:
       name: hero-shirt-1_123
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 256
+        x: 768
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3127,8 +3274,8 @@ TextureImporter:
       name: hero-shirt-1_124
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 256
+        x: 1024
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3148,8 +3295,8 @@ TextureImporter:
       name: hero-shirt-1_125
       rect:
         serializedVersion: 2
-        x: 256
-        y: 0
+        x: 1280
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3169,8 +3316,8 @@ TextureImporter:
       name: hero-shirt-1_126
       rect:
         serializedVersion: 2
-        x: 512
-        y: 0
+        x: 1536
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3190,8 +3337,8 @@ TextureImporter:
       name: hero-shirt-1_127
       rect:
         serializedVersion: 2
-        x: 768
-        y: 0
+        x: 1792
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3211,8 +3358,8 @@ TextureImporter:
       name: hero-shirt-1_128
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 0
+        x: 2048
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3232,8 +3379,8 @@ TextureImporter:
       name: hero-shirt-1_129
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 0
+        x: 2304
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3253,8 +3400,8 @@ TextureImporter:
       name: hero-shirt-1_130
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 0
+        x: 2560
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3266,6 +3413,1035 @@ TextureImporter:
       bones: []
       spriteID: ff7ccc410537e02b0800000000000000
       internalID: -5616424897500887041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_131
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2b87b0484af9350800000000000000
+      internalID: 6025715713480110784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fef7aa44cbaee580800000000000000
+      internalID: -8795904162653536521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_133
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e131e5ff2d3460d30800000000000000
+      internalID: 4397276659680416542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_134
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef7b24fb0563ac90800000000000000
+      internalID: -7159767880573419543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_135
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d17b41085e768e0800000000000000
+      internalID: -1700137996042953444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_136
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8648749923af62290800000000000000
+      internalID: -7915364199830158232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_137
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f1de9e125fa9aa0800000000000000
+      internalID: -6153336414841004252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_138
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc387572c6b64fe0800000000000000
+      internalID: -1205074903964304167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_139
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a07b2bc5e51b42b0800000000000000
+      internalID: -5599357635004764000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_140
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fa02dd3aa4928e0800000000000000
+      internalID: -1717759715215102123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_141
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade6bee4e810c8780800000000000000
+      internalID: -8679560671128752422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_142
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f2da76f0b018170800000000000000
+      internalID: 8178830559073349499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_143
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc540b6629a4fde0800000000000000
+      internalID: -1300228409933931274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851ea3d2f0b1e92f0800000000000000
+      internalID: -964303518213414568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_145
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c677384913bb9430800000000000000
+      internalID: 3790820432529553089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_146
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c5dbdf00afcf980800000000000000
+      internalID: -8503647114218349471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_147
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5cad04e3f3f5950800000000000000
+      internalID: 6439935528771700178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_148
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1e0b8e441dd85b0800000000000000
+      internalID: -5364401487236505095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_149
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f42670bc7f1fae40800000000000000
+      internalID: 5669785076279682288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_150
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecfa7be67f659de0800000000000000
+      internalID: -1327031958643213076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_151
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584bff5e39af73570800000000000000
+      internalID: 8446495139282531461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_152
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b8a79326bf61860800000000000000
+      internalID: 7500458628721838858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_153
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88786f9c096745230800000000000000
+      internalID: 3626653964175837064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_154
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872c58f257066c000800000000000000
+      internalID: 55838101813445240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_155
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4514e8d147e133c0800000000000000
+      internalID: -4381466692457065141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a0e8ec9dd9f3000800000000000000
+      internalID: 17906482331650697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_157
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9055063166df14810800000000000000
+      internalID: 1747956745250034953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_158
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581e55716cd56b9b0800000000000000
+      internalID: -5064757625555132027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_159
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74070ceb820351780800000000000000
+      internalID: -8713004952521248697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_160
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3809f67db75ca330800000000000000
+      internalID: 3723447463185025084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_161
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98da2fcc34ecbfe20800000000000000
+      internalID: 3385526335495646601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_162
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905e6ae1f17165dd0800000000000000
+      internalID: -2497783520904682231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_163
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1637a8768b8ab20800000000000000
+      internalID: 3145967094562251230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_164
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d93bf78d71eaad0800000000000000
+      internalID: -2689185708870755072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_165
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f61337764c3f8610800000000000000
+      internalID: 1625584263849252601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_166
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5ecfe37dadff5c0800000000000000
+      internalID: -4179381311166945830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_167
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccff83083953ab70800000000000000
+      internalID: 8909062584981781697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97501c2aa6f699790800000000000000
+      internalID: -7522859198757927559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_169
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2dd35c64c1bb820800000000000000
+      internalID: 2934970672444461780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_170
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2414ad51506f36580800000000000000
+      internalID: -8834947542268886718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b2c41c3d91c2fd0800000000000000
+      internalID: -2365487307004564667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_172
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffc5036ff1029f00800000000000000
+      internalID: 1121961453558288374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_173
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7e9b2b330abbc50800000000000000
+      internalID: 6682110616036567013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_174
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a0b22ce59e46df0800000000000000
+      internalID: -187768691248920046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_175
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21730d23fee6bea40800000000000000
+      internalID: 5398530551962416914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_176
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2da0d37c0080ff0800000000000000
+      internalID: -69804938501631287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_177
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dc6c3362ca5fff0800000000000000
+      internalID: -2906944666415753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_178
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80cbeb456b2fdc00800000000000000
+      internalID: 927507762327044235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-shirt-1_179
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dc44bd7ff2e6440800000000000000
+      internalID: 4930931383599418647
       vertices: []
       indices: 
       edges: []

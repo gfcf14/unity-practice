@@ -26,7 +26,7 @@ public class SpritePosition : MonoBehaviour {
     currentHeroSprite = heroRenderer.sprite;
 
     heroResourcesScript = hero.GetComponent<HeroResources>();
-    Debug.Log(objectName);
+    Debug.Log(objectName + "(" + objectR + ", " + objectG + ", " + objectB + ")");
     spriteGroup = heroResourcesScript.spriteGroup[objectName];
   }
 
@@ -41,20 +41,19 @@ public class SpritePosition : MonoBehaviour {
     SetPosition();
   }
 
-  private bool shouldMirrorSprite(int index) {
-    // 0-26, 52-54, 61-63, 74-76, 89-90, 99-131 
-    return index >= 0 && index <= 26 ||
-            index >= 52 && index <= 54 ||
-            index >= 61 && index <= 63 ||
-            index >= 74 && index <= 76 ||
-            index >= 89 && index <= 90 ||
-            index >= 99 && index <= 131;
+  private bool shouldMirrorSprite(int index) { 
+    return index >= 0 && index <= 34 ||
+            index >= 69 && index <= 71 ||
+            index >= 81 && index <= 83 ||
+            index >= 97 && index <= 99 ||
+            index >= 117 && index <= 118 ||
+            index >= 133 && index <= 175;
   }
   private void SetSprite() {
     int currentSpriteIndex = int.Parse(currentHeroSprite.name.Replace("hero-body_", ""));
     objectRenderer.sprite = spriteGroup[currentSpriteIndex];
 
-    objectRenderer.color = new Color(objectR, objectG, objectB, 1);
+    objectRenderer.color = new Color32((byte)objectR, (byte)objectG, (byte)objectB, 255);
 
     if (heroMovementScript.isFacingLeft && shouldMirrorSprite(currentSpriteIndex)) {
       transform.localScale = new Vector3(-1, 1, 1);
@@ -70,5 +69,4 @@ public class SpritePosition : MonoBehaviour {
     Vector2 currentHeroPosition = heroRigidBody.position;
     transform.position = currentHeroPosition;
   }
-  // test webhook
 }

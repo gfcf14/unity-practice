@@ -395,6 +395,153 @@ TextureImporter:
   - first:
       213: 2983089565872785361
     second: hero-pants-1_130
+  - first:
+      213: 6262469386525282922
+    second: hero-pants-1_131
+  - first:
+      213: 4942953460258546094
+    second: hero-pants-1_132
+  - first:
+      213: -1691434368185030986
+    second: hero-pants-1_133
+  - first:
+      213: 8501128315626234477
+    second: hero-pants-1_134
+  - first:
+      213: -2197345076367884289
+    second: hero-pants-1_135
+  - first:
+      213: -6711387655003699556
+    second: hero-pants-1_136
+  - first:
+      213: -1147080214042713534
+    second: hero-pants-1_137
+  - first:
+      213: 1168778074264727027
+    second: hero-pants-1_138
+  - first:
+      213: -3872047523428727281
+    second: hero-pants-1_139
+  - first:
+      213: -552183072579532094
+    second: hero-pants-1_140
+  - first:
+      213: 2870121632080398198
+    second: hero-pants-1_141
+  - first:
+      213: -2225074966410164799
+    second: hero-pants-1_142
+  - first:
+      213: -2632770567756507185
+    second: hero-pants-1_143
+  - first:
+      213: 5447682514497394891
+    second: hero-pants-1_144
+  - first:
+      213: 4056016807539506635
+    second: hero-pants-1_145
+  - first:
+      213: -1991413340426313175
+    second: hero-pants-1_146
+  - first:
+      213: 97547546714240436
+    second: hero-pants-1_147
+  - first:
+      213: 5483883534401535756
+    second: hero-pants-1_148
+  - first:
+      213: -3941778673993116577
+    second: hero-pants-1_149
+  - first:
+      213: 6476677812320061077
+    second: hero-pants-1_150
+  - first:
+      213: -2276430124359539182
+    second: hero-pants-1_151
+  - first:
+      213: 2590394964034269277
+    second: hero-pants-1_152
+  - first:
+      213: 7606077726790044093
+    second: hero-pants-1_153
+  - first:
+      213: -996165098203827225
+    second: hero-pants-1_154
+  - first:
+      213: 280173940279845252
+    second: hero-pants-1_155
+  - first:
+      213: 573672290954243221
+    second: hero-pants-1_156
+  - first:
+      213: -5476148320916827647
+    second: hero-pants-1_157
+  - first:
+      213: 7757628425288986350
+    second: hero-pants-1_158
+  - first:
+      213: 1274723596945957530
+    second: hero-pants-1_159
+  - first:
+      213: -8134578325115643985
+    second: hero-pants-1_160
+  - first:
+      213: 765724093146595458
+    second: hero-pants-1_161
+  - first:
+      213: 618203678348135507
+    second: hero-pants-1_162
+  - first:
+      213: -1638474375508581452
+    second: hero-pants-1_163
+  - first:
+      213: 4299019629780376987
+    second: hero-pants-1_164
+  - first:
+      213: -506886733612221169
+    second: hero-pants-1_165
+  - first:
+      213: -3594686776181936135
+    second: hero-pants-1_166
+  - first:
+      213: -8288714004125519569
+    second: hero-pants-1_167
+  - first:
+      213: -4686429450892770149
+    second: hero-pants-1_168
+  - first:
+      213: -7738993083309815020
+    second: hero-pants-1_169
+  - first:
+      213: -8178023082777102176
+    second: hero-pants-1_170
+  - first:
+      213: 2074707366324730504
+    second: hero-pants-1_171
+  - first:
+      213: -3956381901905095994
+    second: hero-pants-1_172
+  - first:
+      213: -5870754322353708272
+    second: hero-pants-1_173
+  - first:
+      213: -3318511740470695536
+    second: hero-pants-1_174
+  - first:
+      213: 199479559175084106
+    second: hero-pants-1_175
+  - first:
+      213: -1601765762839648907
+    second: hero-pants-1_176
+  - first:
+      213: -3376357155821792503
+    second: hero-pants-1_177
+  - first:
+      213: 5100642621346940456
+    second: hero-pants-1_178
+  - first:
+      213: -7914911456246780768
+    second: hero-pants-1_179
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -712,8 +859,8 @@ TextureImporter:
       name: hero-pants-1_9
       rect:
         serializedVersion: 2
-        x: 256
-        y: 3328
+        x: 2304
+        y: 3584
         width: 256
         height: 256
       alignment: 7
@@ -733,8 +880,8 @@ TextureImporter:
       name: hero-pants-1_10
       rect:
         serializedVersion: 2
-        x: 512
-        y: 3328
+        x: 2560
+        y: 3584
         width: 256
         height: 256
       alignment: 7
@@ -754,8 +901,8 @@ TextureImporter:
       name: hero-pants-1_11
       rect:
         serializedVersion: 2
-        x: 768
-        y: 3328
+        x: 2816
+        y: 3584
         width: 256
         height: 256
       alignment: 7
@@ -775,7 +922,7 @@ TextureImporter:
       name: hero-pants-1_12
       rect:
         serializedVersion: 2
-        x: 1024
+        x: 0
         y: 3328
         width: 256
         height: 256
@@ -796,7 +943,7 @@ TextureImporter:
       name: hero-pants-1_13
       rect:
         serializedVersion: 2
-        x: 1280
+        x: 256
         y: 3328
         width: 256
         height: 256
@@ -817,7 +964,7 @@ TextureImporter:
       name: hero-pants-1_14
       rect:
         serializedVersion: 2
-        x: 1536
+        x: 512
         y: 3328
         width: 256
         height: 256
@@ -838,7 +985,7 @@ TextureImporter:
       name: hero-pants-1_15
       rect:
         serializedVersion: 2
-        x: 1792
+        x: 768
         y: 3328
         width: 256
         height: 256
@@ -859,7 +1006,7 @@ TextureImporter:
       name: hero-pants-1_16
       rect:
         serializedVersion: 2
-        x: 2048
+        x: 1024
         y: 3328
         width: 256
         height: 256
@@ -880,8 +1027,8 @@ TextureImporter:
       name: hero-pants-1_17
       rect:
         serializedVersion: 2
-        x: 256
-        y: 3072
+        x: 1280
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -901,8 +1048,8 @@ TextureImporter:
       name: hero-pants-1_18
       rect:
         serializedVersion: 2
-        x: 512
-        y: 3072
+        x: 1536
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -922,8 +1069,8 @@ TextureImporter:
       name: hero-pants-1_19
       rect:
         serializedVersion: 2
-        x: 768
-        y: 3072
+        x: 1792
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -943,8 +1090,8 @@ TextureImporter:
       name: hero-pants-1_20
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 3072
+        x: 2048
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -964,8 +1111,8 @@ TextureImporter:
       name: hero-pants-1_21
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 3072
+        x: 2304
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -985,8 +1132,8 @@ TextureImporter:
       name: hero-pants-1_22
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 3072
+        x: 2560
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -1006,8 +1153,8 @@ TextureImporter:
       name: hero-pants-1_23
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 3072
+        x: 2816
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -1027,7 +1174,7 @@ TextureImporter:
       name: hero-pants-1_24
       rect:
         serializedVersion: 2
-        x: 2048
+        x: 0
         y: 3072
         width: 256
         height: 256
@@ -1048,7 +1195,7 @@ TextureImporter:
       name: hero-pants-1_25
       rect:
         serializedVersion: 2
-        x: 2304
+        x: 256
         y: 3072
         width: 256
         height: 256
@@ -1069,7 +1216,7 @@ TextureImporter:
       name: hero-pants-1_26
       rect:
         serializedVersion: 2
-        x: 2560
+        x: 512
         y: 3072
         width: 256
         height: 256
@@ -1090,8 +1237,8 @@ TextureImporter:
       name: hero-pants-1_27
       rect:
         serializedVersion: 2
-        x: 256
-        y: 2816
+        x: 768
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1111,8 +1258,8 @@ TextureImporter:
       name: hero-pants-1_28
       rect:
         serializedVersion: 2
-        x: 512
-        y: 2816
+        x: 1024
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1132,8 +1279,8 @@ TextureImporter:
       name: hero-pants-1_29
       rect:
         serializedVersion: 2
-        x: 768
-        y: 2816
+        x: 1280
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1153,8 +1300,8 @@ TextureImporter:
       name: hero-pants-1_30
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 2816
+        x: 1536
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1174,8 +1321,8 @@ TextureImporter:
       name: hero-pants-1_31
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 2816
+        x: 1792
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1195,8 +1342,8 @@ TextureImporter:
       name: hero-pants-1_32
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 2816
+        x: 2048
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1216,8 +1363,8 @@ TextureImporter:
       name: hero-pants-1_33
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 2816
+        x: 2304
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1237,8 +1384,8 @@ TextureImporter:
       name: hero-pants-1_34
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 2816
+        x: 2560
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1258,8 +1405,8 @@ TextureImporter:
       name: hero-pants-1_35
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 2816
+        x: 2816
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1279,8 +1426,8 @@ TextureImporter:
       name: hero-pants-1_36
       rect:
         serializedVersion: 2
-        x: 256
-        y: 2560
+        x: 0
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1300,8 +1447,8 @@ TextureImporter:
       name: hero-pants-1_37
       rect:
         serializedVersion: 2
-        x: 512
-        y: 2560
+        x: 256
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1321,8 +1468,8 @@ TextureImporter:
       name: hero-pants-1_38
       rect:
         serializedVersion: 2
-        x: 768
-        y: 2560
+        x: 512
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1342,8 +1489,8 @@ TextureImporter:
       name: hero-pants-1_39
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 2560
+        x: 768
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1363,8 +1510,8 @@ TextureImporter:
       name: hero-pants-1_40
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 2560
+        x: 1024
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1384,8 +1531,8 @@ TextureImporter:
       name: hero-pants-1_41
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 2560
+        x: 1280
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1405,8 +1552,8 @@ TextureImporter:
       name: hero-pants-1_42
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 2560
+        x: 1536
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1426,8 +1573,8 @@ TextureImporter:
       name: hero-pants-1_43
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 2560
+        x: 1792
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1447,8 +1594,8 @@ TextureImporter:
       name: hero-pants-1_44
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 2560
+        x: 2048
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1468,8 +1615,8 @@ TextureImporter:
       name: hero-pants-1_45
       rect:
         serializedVersion: 2
-        x: 256
-        y: 2304
+        x: 2304
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1489,8 +1636,8 @@ TextureImporter:
       name: hero-pants-1_46
       rect:
         serializedVersion: 2
-        x: 512
-        y: 2304
+        x: 2560
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1510,8 +1657,8 @@ TextureImporter:
       name: hero-pants-1_47
       rect:
         serializedVersion: 2
-        x: 768
-        y: 2304
+        x: 2816
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1531,8 +1678,8 @@ TextureImporter:
       name: hero-pants-1_48
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 2304
+        x: 0
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1552,8 +1699,8 @@ TextureImporter:
       name: hero-pants-1_49
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 2304
+        x: 256
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1573,8 +1720,8 @@ TextureImporter:
       name: hero-pants-1_50
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 2304
+        x: 512
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1594,8 +1741,8 @@ TextureImporter:
       name: hero-pants-1_51
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 2304
+        x: 768
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1615,8 +1762,8 @@ TextureImporter:
       name: hero-pants-1_52
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 2304
+        x: 1024
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1636,8 +1783,8 @@ TextureImporter:
       name: hero-pants-1_53
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 2304
+        x: 1280
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1657,8 +1804,8 @@ TextureImporter:
       name: hero-pants-1_54
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 2304
+        x: 1536
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1678,8 +1825,8 @@ TextureImporter:
       name: hero-pants-1_55
       rect:
         serializedVersion: 2
-        x: 256
-        y: 2048
+        x: 1792
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1699,8 +1846,8 @@ TextureImporter:
       name: hero-pants-1_56
       rect:
         serializedVersion: 2
-        x: 512
-        y: 2048
+        x: 2048
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1720,8 +1867,8 @@ TextureImporter:
       name: hero-pants-1_57
       rect:
         serializedVersion: 2
-        x: 768
-        y: 2048
+        x: 2304
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1741,8 +1888,8 @@ TextureImporter:
       name: hero-pants-1_58
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 2048
+        x: 2560
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1762,8 +1909,8 @@ TextureImporter:
       name: hero-pants-1_59
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 2048
+        x: 2816
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1783,8 +1930,8 @@ TextureImporter:
       name: hero-pants-1_60
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 2048
+        x: 0
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1804,8 +1951,8 @@ TextureImporter:
       name: hero-pants-1_61
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 2048
+        x: 256
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1825,8 +1972,8 @@ TextureImporter:
       name: hero-pants-1_62
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 2048
+        x: 512
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1846,8 +1993,8 @@ TextureImporter:
       name: hero-pants-1_63
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 2048
+        x: 768
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1867,8 +2014,8 @@ TextureImporter:
       name: hero-pants-1_64
       rect:
         serializedVersion: 2
-        x: 256
-        y: 1792
+        x: 1024
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1888,8 +2035,8 @@ TextureImporter:
       name: hero-pants-1_65
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1792
+        x: 1280
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1909,8 +2056,8 @@ TextureImporter:
       name: hero-pants-1_66
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1792
+        x: 1536
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1930,8 +2077,8 @@ TextureImporter:
       name: hero-pants-1_67
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 1792
+        x: 1792
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1951,8 +2098,8 @@ TextureImporter:
       name: hero-pants-1_68
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 1792
+        x: 2048
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1972,8 +2119,8 @@ TextureImporter:
       name: hero-pants-1_69
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 1792
+        x: 2304
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1993,8 +2140,8 @@ TextureImporter:
       name: hero-pants-1_70
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 1792
+        x: 2560
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -2014,8 +2161,8 @@ TextureImporter:
       name: hero-pants-1_71
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 1792
+        x: 2816
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -2035,8 +2182,8 @@ TextureImporter:
       name: hero-pants-1_72
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 1792
+        x: 0
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2056,8 +2203,8 @@ TextureImporter:
       name: hero-pants-1_73
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 1792
+        x: 256
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2077,8 +2224,8 @@ TextureImporter:
       name: hero-pants-1_74
       rect:
         serializedVersion: 2
-        x: 256
-        y: 1536
+        x: 512
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2098,8 +2245,8 @@ TextureImporter:
       name: hero-pants-1_75
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1536
+        x: 768
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2119,8 +2266,8 @@ TextureImporter:
       name: hero-pants-1_76
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1536
+        x: 1024
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2141,7 +2288,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1280
-        y: 1536
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2162,7 +2309,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1536
-        y: 1536
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2183,7 +2330,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1792
-        y: 1536
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2203,8 +2350,8 @@ TextureImporter:
       name: hero-pants-1_80
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 1536
+        x: 2048
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2224,8 +2371,8 @@ TextureImporter:
       name: hero-pants-1_81
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 1536
+        x: 2304
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2245,8 +2392,8 @@ TextureImporter:
       name: hero-pants-1_82
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 1536
+        x: 2560
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2266,8 +2413,8 @@ TextureImporter:
       name: hero-pants-1_83
       rect:
         serializedVersion: 2
-        x: 256
-        y: 1280
+        x: 2816
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2287,8 +2434,8 @@ TextureImporter:
       name: hero-pants-1_84
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1280
+        x: 0
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2308,8 +2455,8 @@ TextureImporter:
       name: hero-pants-1_85
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1280
+        x: 256
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2329,8 +2476,8 @@ TextureImporter:
       name: hero-pants-1_86
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 1280
+        x: 512
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2350,8 +2497,8 @@ TextureImporter:
       name: hero-pants-1_87
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 1280
+        x: 768
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2371,8 +2518,8 @@ TextureImporter:
       name: hero-pants-1_88
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 1280
+        x: 1024
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2392,8 +2539,8 @@ TextureImporter:
       name: hero-pants-1_89
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 1280
+        x: 1280
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2413,8 +2560,8 @@ TextureImporter:
       name: hero-pants-1_90
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 1280
+        x: 1536
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2434,8 +2581,8 @@ TextureImporter:
       name: hero-pants-1_91
       rect:
         serializedVersion: 2
-        x: 256
-        y: 1024
+        x: 1792
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2455,8 +2602,8 @@ TextureImporter:
       name: hero-pants-1_92
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1024
+        x: 2048
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2476,8 +2623,8 @@ TextureImporter:
       name: hero-pants-1_93
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1024
+        x: 2304
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2497,8 +2644,8 @@ TextureImporter:
       name: hero-pants-1_94
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 1024
+        x: 2560
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2518,8 +2665,8 @@ TextureImporter:
       name: hero-pants-1_95
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 1024
+        x: 2816
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2539,8 +2686,8 @@ TextureImporter:
       name: hero-pants-1_96
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 1024
+        x: 0
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2560,8 +2707,8 @@ TextureImporter:
       name: hero-pants-1_97
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 1024
+        x: 256
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2581,8 +2728,8 @@ TextureImporter:
       name: hero-pants-1_98
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 1024
+        x: 512
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2602,8 +2749,8 @@ TextureImporter:
       name: hero-pants-1_99
       rect:
         serializedVersion: 2
-        x: 256
-        y: 768
+        x: 768
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2623,8 +2770,8 @@ TextureImporter:
       name: hero-pants-1_100
       rect:
         serializedVersion: 2
-        x: 512
-        y: 768
+        x: 1024
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2644,8 +2791,8 @@ TextureImporter:
       name: hero-pants-1_101
       rect:
         serializedVersion: 2
-        x: 768
-        y: 768
+        x: 1280
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2665,8 +2812,8 @@ TextureImporter:
       name: hero-pants-1_102
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 768
+        x: 1536
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2686,8 +2833,8 @@ TextureImporter:
       name: hero-pants-1_103
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 768
+        x: 1792
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2707,8 +2854,8 @@ TextureImporter:
       name: hero-pants-1_104
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 768
+        x: 2048
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2728,8 +2875,8 @@ TextureImporter:
       name: hero-pants-1_105
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 768
+        x: 2304
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2750,7 +2897,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2560
-        y: 768
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2771,7 +2918,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2816
-        y: 768
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2791,8 +2938,8 @@ TextureImporter:
       name: hero-pants-1_108
       rect:
         serializedVersion: 2
-        x: 256
-        y: 512
+        x: 0
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2812,8 +2959,8 @@ TextureImporter:
       name: hero-pants-1_109
       rect:
         serializedVersion: 2
-        x: 512
-        y: 512
+        x: 256
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2833,8 +2980,8 @@ TextureImporter:
       name: hero-pants-1_110
       rect:
         serializedVersion: 2
-        x: 768
-        y: 512
+        x: 512
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2854,8 +3001,8 @@ TextureImporter:
       name: hero-pants-1_111
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 512
+        x: 768
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2875,8 +3022,8 @@ TextureImporter:
       name: hero-pants-1_112
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 512
+        x: 1024
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2896,8 +3043,8 @@ TextureImporter:
       name: hero-pants-1_113
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 512
+        x: 1280
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2917,8 +3064,8 @@ TextureImporter:
       name: hero-pants-1_114
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 512
+        x: 1536
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2938,8 +3085,8 @@ TextureImporter:
       name: hero-pants-1_115
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 512
+        x: 1792
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2959,8 +3106,8 @@ TextureImporter:
       name: hero-pants-1_116
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 512
+        x: 2048
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2980,8 +3127,8 @@ TextureImporter:
       name: hero-pants-1_117
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 512
+        x: 2304
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -3001,8 +3148,8 @@ TextureImporter:
       name: hero-pants-1_118
       rect:
         serializedVersion: 2
-        x: 256
-        y: 256
+        x: 2560
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -3022,8 +3169,8 @@ TextureImporter:
       name: hero-pants-1_119
       rect:
         serializedVersion: 2
-        x: 512
-        y: 256
+        x: 2816
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -3043,8 +3190,8 @@ TextureImporter:
       name: hero-pants-1_120
       rect:
         serializedVersion: 2
-        x: 768
-        y: 256
+        x: 0
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3064,8 +3211,8 @@ TextureImporter:
       name: hero-pants-1_121
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 256
+        x: 256
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3085,8 +3232,8 @@ TextureImporter:
       name: hero-pants-1_122
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 256
+        x: 512
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3106,8 +3253,8 @@ TextureImporter:
       name: hero-pants-1_123
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 256
+        x: 768
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3127,8 +3274,8 @@ TextureImporter:
       name: hero-pants-1_124
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 256
+        x: 1024
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3148,8 +3295,8 @@ TextureImporter:
       name: hero-pants-1_125
       rect:
         serializedVersion: 2
-        x: 256
-        y: 0
+        x: 1280
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3169,8 +3316,8 @@ TextureImporter:
       name: hero-pants-1_126
       rect:
         serializedVersion: 2
-        x: 512
-        y: 0
+        x: 1536
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3190,8 +3337,8 @@ TextureImporter:
       name: hero-pants-1_127
       rect:
         serializedVersion: 2
-        x: 768
-        y: 0
+        x: 1792
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3211,8 +3358,8 @@ TextureImporter:
       name: hero-pants-1_128
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 0
+        x: 2048
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3232,8 +3379,8 @@ TextureImporter:
       name: hero-pants-1_129
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 0
+        x: 2304
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3253,8 +3400,8 @@ TextureImporter:
       name: hero-pants-1_130
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 0
+        x: 2560
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3266,6 +3413,1035 @@ TextureImporter:
       bones: []
       spriteID: 1d78503b720166920800000000000000
       internalID: 2983089565872785361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_131
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6219902ab2c8e650800000000000000
+      internalID: 6262469386525282922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1aff3bbf5e89440800000000000000
+      internalID: 4942953460258546094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_133
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6a17b5761d688e0800000000000000
+      internalID: -1691434368185030986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_134
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62aae289231af570800000000000000
+      internalID: 8501128315626234477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_135
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff732a8b467181e0800000000000000
+      internalID: -2197345076367884289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_136
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9600997c7c5cd2a0800000000000000
+      internalID: -6711387655003699556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_137
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242ea117f90c410f0800000000000000
+      internalID: -1147080214042713534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_138
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd60d15775583010800000000000000
+      internalID: 1168778074264727027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_139
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06899cda49b34ac0800000000000000
+      internalID: -3872047523428727281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_140
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cac9ebcb604658f0800000000000000
+      internalID: -552183072579532094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_141
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6770156fa68b4d720800000000000000
+      internalID: 2870121632080398198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_142
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c502846b12fe11e0800000000000000
+      internalID: -2225074966410164799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_143
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc715cd1e15867bd0800000000000000
+      internalID: -2632770567756507185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc859b5426e0a9b40800000000000000
+      internalID: 5447682514497394891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_145
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdf768fbcdd94830800000000000000
+      internalID: 4056016807539506635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_146
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9226aea2e141d54e0800000000000000
+      internalID: -1991413340426313175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_147
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5fc961afe8a5100800000000000000
+      internalID: 97547546714240436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_148
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ffd99050baa1c40800000000000000
+      internalID: 5483883534401535756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_149
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f541e613e2dfb49c0800000000000000
+      internalID: -3941778673993116577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_150
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596cdf7c728c1e950800000000000000
+      internalID: 6476677812320061077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_151
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2162d89ecde7860e0800000000000000
+      internalID: -2276430124359539182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_152
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50393bce7ee2f320800000000000000
+      internalID: 2590394964034269277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_153
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9c45fc4673e8960800000000000000
+      internalID: 7606077726790044093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_154
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e33beffe19ec22f0800000000000000
+      internalID: -996165098203827225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_155
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481a3b9d6b063e300800000000000000
+      internalID: 280173940279845252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cefcfb8e716f700800000000000000
+      internalID: 573672290954243221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_157
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1029662bd10d004b0800000000000000
+      internalID: -5476148320916827647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_158
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeea2dc73f1a8ab60800000000000000
+      internalID: 7757628425288986350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_159
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92a5ce8b5ab0b110800000000000000
+      internalID: 1274723596945957530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_160
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7d3e5bc1c2c1f80800000000000000
+      internalID: -8134578325115643985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_161
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28006f7710660aa00800000000000000
+      internalID: 765724093146595458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_162
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cc7c658fc449800800000000000000
+      internalID: 618203678348135507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_163
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b32b3a8c38f249e0800000000000000
+      internalID: -1638474375508581452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_164
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d9d7b739f29ab30800000000000000
+      internalID: 4299019629780376987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_165
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d7fad833d27f8f0800000000000000
+      internalID: -506886733612221169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_166
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffa1ea2c6b1d1ec0800000000000000
+      internalID: -3594686776181936135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_167
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21fa4b578298fc80800000000000000
+      internalID: -8288714004125519569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b948b928e3576feb0800000000000000
+      internalID: -4686429450892770149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_169
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b0d1e2bc2999490800000000000000
+      internalID: -7738993083309815020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_170
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a83022d553d18e80800000000000000
+      internalID: -8178023082777102176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88afbae7b57dacc10800000000000000
+      internalID: 2074707366324730504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_172
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2992d3f9b1819c0800000000000000
+      internalID: -3956381901905095994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_173
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013a4846c04e68ea0800000000000000
+      internalID: -5870754322353708272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_174
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099e74e772742f1d0800000000000000
+      internalID: -3318511740470695536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_175
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4815982a91b4c200800000000000000
+      internalID: 199479559175084106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_176
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5756f84768265c9e0800000000000000
+      internalID: -1601765762839648907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_177
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903d4643e05c421d0800000000000000
+      internalID: -3376357155821792503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_178
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8260a93907f19c640800000000000000
+      internalID: 5100642621346940456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-pants-1_179
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acadbd27f5982290800000000000000
+      internalID: -7914911456246780768
       vertices: []
       indices: 
       edges: []

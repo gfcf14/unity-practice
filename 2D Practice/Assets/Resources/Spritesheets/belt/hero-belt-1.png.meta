@@ -386,6 +386,162 @@ TextureImporter:
   - first:
       213: 4386406745461809215
     second: hero-belt-1_127
+  - first:
+      213: 7022005083707540061
+    second: hero-belt-1_128
+  - first:
+      213: -2241841438727170391
+    second: hero-belt-1_129
+  - first:
+      213: 6392390262862736462
+    second: hero-belt-1_130
+  - first:
+      213: -3064226556062559203
+    second: hero-belt-1_131
+  - first:
+      213: 1191627781677722340
+    second: hero-belt-1_132
+  - first:
+      213: 9133984605971606320
+    second: hero-belt-1_133
+  - first:
+      213: -7235018807971405715
+    second: hero-belt-1_134
+  - first:
+      213: 7412811501003431184
+    second: hero-belt-1_135
+  - first:
+      213: 3674820831872065310
+    second: hero-belt-1_136
+  - first:
+      213: -2306398414033356119
+    second: hero-belt-1_137
+  - first:
+      213: 4820147482238025190
+    second: hero-belt-1_138
+  - first:
+      213: -5422026767393747158
+    second: hero-belt-1_139
+  - first:
+      213: -3694468941661880856
+    second: hero-belt-1_140
+  - first:
+      213: -6378661462096796173
+    second: hero-belt-1_141
+  - first:
+      213: -7984864911882851722
+    second: hero-belt-1_142
+  - first:
+      213: -137642125019002253
+    second: hero-belt-1_143
+  - first:
+      213: 8422241037082503215
+    second: hero-belt-1_144
+  - first:
+      213: -2313341113684565179
+    second: hero-belt-1_145
+  - first:
+      213: 7575449264832911272
+    second: hero-belt-1_146
+  - first:
+      213: 6110507622566846086
+    second: hero-belt-1_147
+  - first:
+      213: -4778097569367033072
+    second: hero-belt-1_148
+  - first:
+      213: -6660344270650600524
+    second: hero-belt-1_149
+  - first:
+      213: 6006039377656087270
+    second: hero-belt-1_150
+  - first:
+      213: 2739938307711279328
+    second: hero-belt-1_151
+  - first:
+      213: -6196409012360848660
+    second: hero-belt-1_152
+  - first:
+      213: -1094951408689673692
+    second: hero-belt-1_153
+  - first:
+      213: 8749581735665620930
+    second: hero-belt-1_154
+  - first:
+      213: 3225029674126345610
+    second: hero-belt-1_155
+  - first:
+      213: 20628494858137579
+    second: hero-belt-1_156
+  - first:
+      213: 1282613499371709962
+    second: hero-belt-1_157
+  - first:
+      213: 645244286750544380
+    second: hero-belt-1_158
+  - first:
+      213: -6787842515899280532
+    second: hero-belt-1_159
+  - first:
+      213: -6881405189483775833
+    second: hero-belt-1_160
+  - first:
+      213: 4728830904016696112
+    second: hero-belt-1_161
+  - first:
+      213: -5472858421704637362
+    second: hero-belt-1_162
+  - first:
+      213: 4666925513656014588
+    second: hero-belt-1_163
+  - first:
+      213: -5178101515232366843
+    second: hero-belt-1_164
+  - first:
+      213: 9022822854885512174
+    second: hero-belt-1_165
+  - first:
+      213: 5090961348814404625
+    second: hero-belt-1_166
+  - first:
+      213: -7448506378888363828
+    second: hero-belt-1_167
+  - first:
+      213: -5405802734367862176
+    second: hero-belt-1_168
+  - first:
+      213: 5114043810031240215
+    second: hero-belt-1_169
+  - first:
+      213: 632417869690476443
+    second: hero-belt-1_170
+  - first:
+      213: 9130692609916270911
+    second: hero-belt-1_171
+  - first:
+      213: -1355288798845373229
+    second: hero-belt-1_172
+  - first:
+      213: -5042281882969156494
+    second: hero-belt-1_173
+  - first:
+      213: 4293700591022825987
+    second: hero-belt-1_174
+  - first:
+      213: 5437995145025327150
+    second: hero-belt-1_175
+  - first:
+      213: 909312589290878887
+    second: hero-belt-1_176
+  - first:
+      213: 51547515827196253
+    second: hero-belt-1_177
+  - first:
+      213: 2244485110959642461
+    second: hero-belt-1_178
+  - first:
+      213: -8593637254307319572
+    second: hero-belt-1_179
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -703,8 +859,8 @@ TextureImporter:
       name: hero-belt-1_9
       rect:
         serializedVersion: 2
-        x: 256
-        y: 3328
+        x: 2304
+        y: 3584
         width: 256
         height: 256
       alignment: 7
@@ -724,8 +880,8 @@ TextureImporter:
       name: hero-belt-1_10
       rect:
         serializedVersion: 2
-        x: 512
-        y: 3328
+        x: 2560
+        y: 3584
         width: 256
         height: 256
       alignment: 7
@@ -745,8 +901,8 @@ TextureImporter:
       name: hero-belt-1_11
       rect:
         serializedVersion: 2
-        x: 768
-        y: 3328
+        x: 2816
+        y: 3584
         width: 256
         height: 256
       alignment: 7
@@ -766,7 +922,7 @@ TextureImporter:
       name: hero-belt-1_12
       rect:
         serializedVersion: 2
-        x: 1024
+        x: 0
         y: 3328
         width: 256
         height: 256
@@ -787,7 +943,7 @@ TextureImporter:
       name: hero-belt-1_13
       rect:
         serializedVersion: 2
-        x: 1280
+        x: 256
         y: 3328
         width: 256
         height: 256
@@ -808,7 +964,7 @@ TextureImporter:
       name: hero-belt-1_14
       rect:
         serializedVersion: 2
-        x: 1536
+        x: 512
         y: 3328
         width: 256
         height: 256
@@ -829,7 +985,7 @@ TextureImporter:
       name: hero-belt-1_15
       rect:
         serializedVersion: 2
-        x: 1792
+        x: 768
         y: 3328
         width: 256
         height: 256
@@ -850,7 +1006,7 @@ TextureImporter:
       name: hero-belt-1_16
       rect:
         serializedVersion: 2
-        x: 2048
+        x: 1024
         y: 3328
         width: 256
         height: 256
@@ -871,8 +1027,8 @@ TextureImporter:
       name: hero-belt-1_17
       rect:
         serializedVersion: 2
-        x: 256
-        y: 3072
+        x: 1280
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -892,8 +1048,8 @@ TextureImporter:
       name: hero-belt-1_18
       rect:
         serializedVersion: 2
-        x: 512
-        y: 3072
+        x: 1536
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -913,8 +1069,8 @@ TextureImporter:
       name: hero-belt-1_19
       rect:
         serializedVersion: 2
-        x: 768
-        y: 3072
+        x: 1792
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -934,8 +1090,8 @@ TextureImporter:
       name: hero-belt-1_20
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 3072
+        x: 2048
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -955,8 +1111,8 @@ TextureImporter:
       name: hero-belt-1_21
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 3072
+        x: 2304
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -976,8 +1132,8 @@ TextureImporter:
       name: hero-belt-1_22
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 3072
+        x: 2560
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -997,8 +1153,8 @@ TextureImporter:
       name: hero-belt-1_23
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 3072
+        x: 2816
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -1018,7 +1174,7 @@ TextureImporter:
       name: hero-belt-1_24
       rect:
         serializedVersion: 2
-        x: 2048
+        x: 0
         y: 3072
         width: 256
         height: 256
@@ -1039,7 +1195,7 @@ TextureImporter:
       name: hero-belt-1_25
       rect:
         serializedVersion: 2
-        x: 2304
+        x: 256
         y: 3072
         width: 256
         height: 256
@@ -1060,7 +1216,7 @@ TextureImporter:
       name: hero-belt-1_26
       rect:
         serializedVersion: 2
-        x: 2560
+        x: 512
         y: 3072
         width: 256
         height: 256
@@ -1081,8 +1237,8 @@ TextureImporter:
       name: hero-belt-1_27
       rect:
         serializedVersion: 2
-        x: 256
-        y: 2816
+        x: 768
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1102,8 +1258,8 @@ TextureImporter:
       name: hero-belt-1_28
       rect:
         serializedVersion: 2
-        x: 512
-        y: 2816
+        x: 1024
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1123,8 +1279,8 @@ TextureImporter:
       name: hero-belt-1_29
       rect:
         serializedVersion: 2
-        x: 768
-        y: 2816
+        x: 1280
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1144,8 +1300,8 @@ TextureImporter:
       name: hero-belt-1_30
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 2816
+        x: 1536
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1165,8 +1321,8 @@ TextureImporter:
       name: hero-belt-1_31
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 2816
+        x: 1792
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1186,8 +1342,8 @@ TextureImporter:
       name: hero-belt-1_32
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 2816
+        x: 2048
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1207,8 +1363,8 @@ TextureImporter:
       name: hero-belt-1_33
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 2816
+        x: 2304
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1228,8 +1384,8 @@ TextureImporter:
       name: hero-belt-1_34
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 2816
+        x: 2560
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1249,8 +1405,8 @@ TextureImporter:
       name: hero-belt-1_35
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 2816
+        x: 2816
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1270,8 +1426,8 @@ TextureImporter:
       name: hero-belt-1_36
       rect:
         serializedVersion: 2
-        x: 256
-        y: 2560
+        x: 0
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1291,8 +1447,8 @@ TextureImporter:
       name: hero-belt-1_37
       rect:
         serializedVersion: 2
-        x: 512
-        y: 2560
+        x: 256
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1312,8 +1468,8 @@ TextureImporter:
       name: hero-belt-1_38
       rect:
         serializedVersion: 2
-        x: 768
-        y: 2560
+        x: 512
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1333,8 +1489,8 @@ TextureImporter:
       name: hero-belt-1_39
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 2560
+        x: 768
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1354,8 +1510,8 @@ TextureImporter:
       name: hero-belt-1_40
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 2560
+        x: 1024
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1375,8 +1531,8 @@ TextureImporter:
       name: hero-belt-1_41
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 2560
+        x: 1280
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1396,8 +1552,8 @@ TextureImporter:
       name: hero-belt-1_42
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 2560
+        x: 1536
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1417,8 +1573,8 @@ TextureImporter:
       name: hero-belt-1_43
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 2560
+        x: 1792
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1438,8 +1594,8 @@ TextureImporter:
       name: hero-belt-1_44
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 2560
+        x: 2048
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1459,8 +1615,8 @@ TextureImporter:
       name: hero-belt-1_45
       rect:
         serializedVersion: 2
-        x: 256
-        y: 2304
+        x: 2304
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1480,8 +1636,8 @@ TextureImporter:
       name: hero-belt-1_46
       rect:
         serializedVersion: 2
-        x: 512
-        y: 2304
+        x: 2560
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1501,8 +1657,8 @@ TextureImporter:
       name: hero-belt-1_47
       rect:
         serializedVersion: 2
-        x: 768
-        y: 2304
+        x: 2816
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1522,8 +1678,8 @@ TextureImporter:
       name: hero-belt-1_48
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 2304
+        x: 0
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1543,8 +1699,8 @@ TextureImporter:
       name: hero-belt-1_49
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 2304
+        x: 256
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1564,8 +1720,8 @@ TextureImporter:
       name: hero-belt-1_50
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 2304
+        x: 512
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1585,8 +1741,8 @@ TextureImporter:
       name: hero-belt-1_51
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 2304
+        x: 768
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1606,8 +1762,8 @@ TextureImporter:
       name: hero-belt-1_52
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 2304
+        x: 1024
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1627,8 +1783,8 @@ TextureImporter:
       name: hero-belt-1_53
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 2304
+        x: 1280
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1648,8 +1804,8 @@ TextureImporter:
       name: hero-belt-1_54
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 2304
+        x: 1536
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1669,8 +1825,8 @@ TextureImporter:
       name: hero-belt-1_55
       rect:
         serializedVersion: 2
-        x: 256
-        y: 2048
+        x: 1792
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1690,8 +1846,8 @@ TextureImporter:
       name: hero-belt-1_56
       rect:
         serializedVersion: 2
-        x: 512
-        y: 2048
+        x: 2048
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1711,8 +1867,8 @@ TextureImporter:
       name: hero-belt-1_57
       rect:
         serializedVersion: 2
-        x: 768
-        y: 2048
+        x: 2304
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1732,8 +1888,8 @@ TextureImporter:
       name: hero-belt-1_58
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 2048
+        x: 2560
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1753,8 +1909,8 @@ TextureImporter:
       name: hero-belt-1_59
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 2048
+        x: 2816
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1774,8 +1930,8 @@ TextureImporter:
       name: hero-belt-1_60
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 2048
+        x: 0
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1795,8 +1951,8 @@ TextureImporter:
       name: hero-belt-1_61
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 2048
+        x: 256
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1816,8 +1972,8 @@ TextureImporter:
       name: hero-belt-1_62
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 2048
+        x: 512
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1837,8 +1993,8 @@ TextureImporter:
       name: hero-belt-1_63
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 2048
+        x: 768
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1858,8 +2014,8 @@ TextureImporter:
       name: hero-belt-1_64
       rect:
         serializedVersion: 2
-        x: 256
-        y: 1792
+        x: 1024
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1879,8 +2035,8 @@ TextureImporter:
       name: hero-belt-1_65
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1792
+        x: 1280
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1900,8 +2056,8 @@ TextureImporter:
       name: hero-belt-1_66
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1792
+        x: 1536
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1921,8 +2077,8 @@ TextureImporter:
       name: hero-belt-1_67
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 1792
+        x: 1792
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1942,8 +2098,8 @@ TextureImporter:
       name: hero-belt-1_68
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 1792
+        x: 2048
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1963,8 +2119,8 @@ TextureImporter:
       name: hero-belt-1_69
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 1792
+        x: 2304
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1984,8 +2140,8 @@ TextureImporter:
       name: hero-belt-1_70
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 1792
+        x: 2560
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -2005,8 +2161,8 @@ TextureImporter:
       name: hero-belt-1_71
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 1792
+        x: 2816
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -2026,8 +2182,8 @@ TextureImporter:
       name: hero-belt-1_72
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 1792
+        x: 0
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2047,8 +2203,8 @@ TextureImporter:
       name: hero-belt-1_73
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 1792
+        x: 256
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2068,8 +2224,8 @@ TextureImporter:
       name: hero-belt-1_74
       rect:
         serializedVersion: 2
-        x: 256
-        y: 1536
+        x: 512
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2089,8 +2245,8 @@ TextureImporter:
       name: hero-belt-1_75
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1536
+        x: 768
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2110,8 +2266,8 @@ TextureImporter:
       name: hero-belt-1_76
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1536
+        x: 1024
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2132,7 +2288,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1280
-        y: 1536
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2153,7 +2309,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1536
-        y: 1536
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2174,7 +2330,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1792
-        y: 1536
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2194,8 +2350,8 @@ TextureImporter:
       name: hero-belt-1_80
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 1536
+        x: 2048
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2215,8 +2371,8 @@ TextureImporter:
       name: hero-belt-1_81
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 1536
+        x: 2304
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2236,8 +2392,8 @@ TextureImporter:
       name: hero-belt-1_82
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 1536
+        x: 2560
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2257,8 +2413,8 @@ TextureImporter:
       name: hero-belt-1_83
       rect:
         serializedVersion: 2
-        x: 256
-        y: 1280
+        x: 2816
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2278,8 +2434,8 @@ TextureImporter:
       name: hero-belt-1_84
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1280
+        x: 0
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2299,8 +2455,8 @@ TextureImporter:
       name: hero-belt-1_85
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1280
+        x: 256
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2320,8 +2476,8 @@ TextureImporter:
       name: hero-belt-1_86
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 1280
+        x: 512
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2341,8 +2497,8 @@ TextureImporter:
       name: hero-belt-1_87
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 1280
+        x: 768
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2362,8 +2518,8 @@ TextureImporter:
       name: hero-belt-1_88
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 1280
+        x: 1024
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2383,8 +2539,8 @@ TextureImporter:
       name: hero-belt-1_89
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 1280
+        x: 1280
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2404,8 +2560,8 @@ TextureImporter:
       name: hero-belt-1_90
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 1280
+        x: 1536
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2425,8 +2581,8 @@ TextureImporter:
       name: hero-belt-1_91
       rect:
         serializedVersion: 2
-        x: 256
-        y: 1024
+        x: 1792
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2446,8 +2602,8 @@ TextureImporter:
       name: hero-belt-1_92
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1024
+        x: 2048
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2467,8 +2623,8 @@ TextureImporter:
       name: hero-belt-1_93
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1024
+        x: 2304
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2488,8 +2644,8 @@ TextureImporter:
       name: hero-belt-1_94
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 1024
+        x: 2560
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2509,8 +2665,8 @@ TextureImporter:
       name: hero-belt-1_95
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 1024
+        x: 2816
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2530,8 +2686,8 @@ TextureImporter:
       name: hero-belt-1_96
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 1024
+        x: 0
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2551,8 +2707,8 @@ TextureImporter:
       name: hero-belt-1_97
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 1024
+        x: 256
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2572,8 +2728,8 @@ TextureImporter:
       name: hero-belt-1_98
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 1024
+        x: 512
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2593,8 +2749,8 @@ TextureImporter:
       name: hero-belt-1_99
       rect:
         serializedVersion: 2
-        x: 256
-        y: 768
+        x: 768
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2614,8 +2770,8 @@ TextureImporter:
       name: hero-belt-1_100
       rect:
         serializedVersion: 2
-        x: 512
-        y: 768
+        x: 1024
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2635,8 +2791,8 @@ TextureImporter:
       name: hero-belt-1_101
       rect:
         serializedVersion: 2
-        x: 768
-        y: 768
+        x: 1280
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2656,8 +2812,8 @@ TextureImporter:
       name: hero-belt-1_102
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 768
+        x: 1536
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2677,8 +2833,8 @@ TextureImporter:
       name: hero-belt-1_103
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 768
+        x: 1792
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2698,8 +2854,8 @@ TextureImporter:
       name: hero-belt-1_104
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 768
+        x: 2048
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2719,8 +2875,8 @@ TextureImporter:
       name: hero-belt-1_105
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 768
+        x: 2304
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2741,7 +2897,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2560
-        y: 768
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2762,7 +2918,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2816
-        y: 768
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2782,8 +2938,8 @@ TextureImporter:
       name: hero-belt-1_108
       rect:
         serializedVersion: 2
-        x: 256
-        y: 512
+        x: 0
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2803,8 +2959,8 @@ TextureImporter:
       name: hero-belt-1_109
       rect:
         serializedVersion: 2
-        x: 512
-        y: 512
+        x: 256
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2824,8 +2980,8 @@ TextureImporter:
       name: hero-belt-1_110
       rect:
         serializedVersion: 2
-        x: 768
-        y: 512
+        x: 512
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2845,8 +3001,8 @@ TextureImporter:
       name: hero-belt-1_111
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 512
+        x: 768
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2866,8 +3022,8 @@ TextureImporter:
       name: hero-belt-1_112
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 512
+        x: 1024
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2887,8 +3043,8 @@ TextureImporter:
       name: hero-belt-1_113
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 512
+        x: 1280
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2908,8 +3064,8 @@ TextureImporter:
       name: hero-belt-1_114
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 512
+        x: 1536
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2929,8 +3085,8 @@ TextureImporter:
       name: hero-belt-1_115
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 512
+        x: 1792
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2950,8 +3106,8 @@ TextureImporter:
       name: hero-belt-1_116
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 512
+        x: 2048
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2971,8 +3127,8 @@ TextureImporter:
       name: hero-belt-1_117
       rect:
         serializedVersion: 2
-        x: 256
-        y: 256
+        x: 2304
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2992,8 +3148,8 @@ TextureImporter:
       name: hero-belt-1_118
       rect:
         serializedVersion: 2
-        x: 512
-        y: 256
+        x: 2560
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -3013,8 +3169,8 @@ TextureImporter:
       name: hero-belt-1_119
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 256
+        x: 2816
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -3034,8 +3190,8 @@ TextureImporter:
       name: hero-belt-1_120
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 256
+        x: 0
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3055,8 +3211,8 @@ TextureImporter:
       name: hero-belt-1_121
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 256
+        x: 256
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3076,8 +3232,8 @@ TextureImporter:
       name: hero-belt-1_122
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 256
+        x: 512
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3097,8 +3253,8 @@ TextureImporter:
       name: hero-belt-1_123
       rect:
         serializedVersion: 2
-        x: 256
-        y: 0
+        x: 768
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3118,8 +3274,8 @@ TextureImporter:
       name: hero-belt-1_124
       rect:
         serializedVersion: 2
-        x: 512
-        y: 0
+        x: 1024
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3139,8 +3295,8 @@ TextureImporter:
       name: hero-belt-1_125
       rect:
         serializedVersion: 2
-        x: 768
-        y: 0
+        x: 1280
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3161,7 +3317,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1536
-        y: 0
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3182,7 +3338,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1792
-        y: 0
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3194,6 +3350,1098 @@ TextureImporter:
       bones: []
       spriteID: f30e0afd1b5afdc30800000000000000
       internalID: 4386406745461809215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_128
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5200616b6c237160800000000000000
+      internalID: 7022005083707540061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_129
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a69ae9d61163e0e0800000000000000
+      internalID: -2241841438727170391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_130
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c6993631556b850800000000000000
+      internalID: 6392390262862736462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_131
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d149296ae2ea975d0800000000000000
+      internalID: -3064226556062559203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea23676723898010800000000000000
+      internalID: 1191627781677722340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_133
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03be2deea9e62ce70800000000000000
+      internalID: 9133984605971606320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_134
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6028971abc089b90800000000000000
+      internalID: -7235018807971405715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_135
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d5d3019c89fd660800000000000000
+      internalID: 7412811501003431184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_136
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f90f893169ff230800000000000000
+      internalID: 3674820831872065310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_137
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa740dbcd60effd0800000000000000
+      internalID: -2306398414033356119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_138
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed7acbc89a94e240800000000000000
+      internalID: 4820147482238025190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_139
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f06d6d16711c4b0800000000000000
+      internalID: -5422026767393747158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_140
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edb78a521c9abcc0800000000000000
+      internalID: -3694468941661880856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_141
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f52f3122317a77a0800000000000000
+      internalID: -6378661462096796173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_142
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67aedb31baf003190800000000000000
+      internalID: -7984864911882851722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_143
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37acc10773ff61ef0800000000000000
+      internalID: -137642125019002253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28250ca99fc1e470800000000000000
+      internalID: 8422241037082503215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_145
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5436682838c55efd0800000000000000
+      internalID: -2313341113684565179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_146
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a71c5c48f6612960800000000000000
+      internalID: 7575449264832911272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_147
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ed960de42ecc450800000000000000
+      internalID: 6110507622566846086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_148
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b78bb7399c0bdb0800000000000000
+      internalID: -4778097569367033072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_149
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b310128c24b193a0800000000000000
+      internalID: -6660344270650600524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_150
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2033c1efcb95350800000000000000
+      internalID: 6006039377656087270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_151
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0ad91cf57360620800000000000000
+      internalID: 2739938307711279328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_152
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cead33f45dee10aa0800000000000000
+      internalID: -6196409012360848660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_153
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a0dbebe73fdc0f0800000000000000
+      internalID: -1094951408689673692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_154
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c758973b32cc6970800000000000000
+      internalID: 8749581735665620930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_155
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a850564d66b91cc20800000000000000
+      internalID: 3225029674126345610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef254cb189494000800000000000000
+      internalID: 20628494858137579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_157
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06eb2e9e22ccc110800000000000000
+      internalID: 1282613499371709962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_158
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1dd19924e54f800800000000000000
+      internalID: 645244286750544380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_159
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c639780023dbcc1a0800000000000000
+      internalID: -6787842515899280532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_160
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a83a4d70765080a0800000000000000
+      internalID: -6881405189483775833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_161
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033fdcc17ae20a140800000000000000
+      internalID: 4728830904016696112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_162
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e444a4c03408c04b0800000000000000
+      internalID: -5472858421704637362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_163
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf69caa370044c040800000000000000
+      internalID: 4666925513656014588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_164
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fa9ad4b10b328b0800000000000000
+      internalID: -5178101515232366843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_165
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee31ab0e491873d70800000000000000
+      internalID: 9022822854885512174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_166
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c7359af5ab6a640800000000000000
+      internalID: 5090961348814404625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_167
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0c02b89e691a890800000000000000
+      internalID: -7448506378888363828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0621b24ed0bbaf4b0800000000000000
+      internalID: -5405802734367862176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_169
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71482b6ffbbb8f640800000000000000
+      internalID: 5114043810031240215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_170
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b979288a3bcc6c800800000000000000
+      internalID: 632417869690476443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39f75f5d8cb6be70800000000000000
+      internalID: 9130692609916270911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_172
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d471c0a40c013de0800000000000000
+      internalID: -1355288798845373229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_173
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2745c34b757360ab0800000000000000
+      internalID: -5042281882969156494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_174
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302ecc340f9469b30800000000000000
+      internalID: 4293700591022825987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_175
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20988dc5c3a77b40800000000000000
+      internalID: 5437995145025327150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_176
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a739727bf68e9c00800000000000000
+      internalID: 909312589290878887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_177
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d511fe9413227b000800000000000000
+      internalID: 51547515827196253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_178
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57176e0153062f10800000000000000
+      internalID: 2244485110959642461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-belt-1_179
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0f270c2744db880800000000000000
+      internalID: -8593637254307319572
       vertices: []
       indices: 
       edges: []

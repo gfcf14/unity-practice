@@ -410,6 +410,138 @@ TextureImporter:
   - first:
       213: -243351869509329196
     second: hero-boots-1_135
+  - first:
+      213: -8012650652449202251
+    second: hero-boots-1_136
+  - first:
+      213: 3097677081719573201
+    second: hero-boots-1_137
+  - first:
+      213: -7015125770575879895
+    second: hero-boots-1_138
+  - first:
+      213: 8187788993808845525
+    second: hero-boots-1_139
+  - first:
+      213: 6438999880062802929
+    second: hero-boots-1_140
+  - first:
+      213: 6002341652640698006
+    second: hero-boots-1_141
+  - first:
+      213: -5410024443111353855
+    second: hero-boots-1_142
+  - first:
+      213: -7841601573205161451
+    second: hero-boots-1_143
+  - first:
+      213: 6423311327746302570
+    second: hero-boots-1_144
+  - first:
+      213: -27925512359154137
+    second: hero-boots-1_145
+  - first:
+      213: -6372595096494312910
+    second: hero-boots-1_146
+  - first:
+      213: 4507889658513765447
+    second: hero-boots-1_147
+  - first:
+      213: 632263315243591157
+    second: hero-boots-1_148
+  - first:
+      213: 348796124969678005
+    second: hero-boots-1_149
+  - first:
+      213: 4878741656656664091
+    second: hero-boots-1_150
+  - first:
+      213: 3944319018327984796
+    second: hero-boots-1_151
+  - first:
+      213: 4903358649865210823
+    second: hero-boots-1_152
+  - first:
+      213: 122929068639245797
+    second: hero-boots-1_153
+  - first:
+      213: -5346976155750005478
+    second: hero-boots-1_154
+  - first:
+      213: 5636475951212251819
+    second: hero-boots-1_155
+  - first:
+      213: -3494604685960513034
+    second: hero-boots-1_156
+  - first:
+      213: 8675590966398258320
+    second: hero-boots-1_157
+  - first:
+      213: 2800320315017789213
+    second: hero-boots-1_158
+  - first:
+      213: 3959233155811053871
+    second: hero-boots-1_159
+  - first:
+      213: 3079115811577325215
+    second: hero-boots-1_160
+  - first:
+      213: -2113714974020908170
+    second: hero-boots-1_161
+  - first:
+      213: -2098742191989143103
+    second: hero-boots-1_162
+  - first:
+      213: -7161609478427736286
+    second: hero-boots-1_163
+  - first:
+      213: 7590327624962701811
+    second: hero-boots-1_164
+  - first:
+      213: -7951245562011059536
+    second: hero-boots-1_165
+  - first:
+      213: 4714617877726417143
+    second: hero-boots-1_166
+  - first:
+      213: 1862628925368865876
+    second: hero-boots-1_167
+  - first:
+      213: 4654404537676853525
+    second: hero-boots-1_168
+  - first:
+      213: 553289997687570997
+    second: hero-boots-1_169
+  - first:
+      213: -8761168353635434073
+    second: hero-boots-1_170
+  - first:
+      213: -3055843971950041030
+    second: hero-boots-1_171
+  - first:
+      213: -7580887959722443911
+    second: hero-boots-1_172
+  - first:
+      213: -1744022104033423280
+    second: hero-boots-1_173
+  - first:
+      213: 8313879527816930630
+    second: hero-boots-1_174
+  - first:
+      213: -3037996220957394242
+    second: hero-boots-1_175
+  - first:
+      213: -3589969834500286585
+    second: hero-boots-1_176
+  - first:
+      213: -6771556523625982021
+    second: hero-boots-1_177
+  - first:
+      213: -8543490868788680151
+    second: hero-boots-1_178
+  - first:
+      213: -1049899252500052931
+    second: hero-boots-1_179
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -727,8 +859,8 @@ TextureImporter:
       name: hero-boots-1_9
       rect:
         serializedVersion: 2
-        x: 0
-        y: 3328
+        x: 2304
+        y: 3584
         width: 256
         height: 256
       alignment: 7
@@ -748,8 +880,8 @@ TextureImporter:
       name: hero-boots-1_10
       rect:
         serializedVersion: 2
-        x: 256
-        y: 3328
+        x: 2560
+        y: 3584
         width: 256
         height: 256
       alignment: 7
@@ -769,8 +901,8 @@ TextureImporter:
       name: hero-boots-1_11
       rect:
         serializedVersion: 2
-        x: 512
-        y: 3328
+        x: 2816
+        y: 3584
         width: 256
         height: 256
       alignment: 7
@@ -790,7 +922,7 @@ TextureImporter:
       name: hero-boots-1_12
       rect:
         serializedVersion: 2
-        x: 768
+        x: 0
         y: 3328
         width: 256
         height: 256
@@ -811,7 +943,7 @@ TextureImporter:
       name: hero-boots-1_13
       rect:
         serializedVersion: 2
-        x: 1024
+        x: 256
         y: 3328
         width: 256
         height: 256
@@ -832,7 +964,7 @@ TextureImporter:
       name: hero-boots-1_14
       rect:
         serializedVersion: 2
-        x: 1280
+        x: 512
         y: 3328
         width: 256
         height: 256
@@ -853,7 +985,7 @@ TextureImporter:
       name: hero-boots-1_15
       rect:
         serializedVersion: 2
-        x: 1536
+        x: 768
         y: 3328
         width: 256
         height: 256
@@ -874,7 +1006,7 @@ TextureImporter:
       name: hero-boots-1_16
       rect:
         serializedVersion: 2
-        x: 1792
+        x: 1024
         y: 3328
         width: 256
         height: 256
@@ -895,7 +1027,7 @@ TextureImporter:
       name: hero-boots-1_17
       rect:
         serializedVersion: 2
-        x: 2048
+        x: 1280
         y: 3328
         width: 256
         height: 256
@@ -916,8 +1048,8 @@ TextureImporter:
       name: hero-boots-1_18
       rect:
         serializedVersion: 2
-        x: 256
-        y: 3072
+        x: 1536
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -937,8 +1069,8 @@ TextureImporter:
       name: hero-boots-1_19
       rect:
         serializedVersion: 2
-        x: 512
-        y: 3072
+        x: 1792
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -958,8 +1090,8 @@ TextureImporter:
       name: hero-boots-1_20
       rect:
         serializedVersion: 2
-        x: 768
-        y: 3072
+        x: 2048
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -979,8 +1111,8 @@ TextureImporter:
       name: hero-boots-1_21
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 3072
+        x: 2304
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -1000,8 +1132,8 @@ TextureImporter:
       name: hero-boots-1_22
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 3072
+        x: 2560
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -1021,8 +1153,8 @@ TextureImporter:
       name: hero-boots-1_23
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 3072
+        x: 2816
+        y: 3328
         width: 256
         height: 256
       alignment: 7
@@ -1042,7 +1174,7 @@ TextureImporter:
       name: hero-boots-1_24
       rect:
         serializedVersion: 2
-        x: 1792
+        x: 0
         y: 3072
         width: 256
         height: 256
@@ -1063,7 +1195,7 @@ TextureImporter:
       name: hero-boots-1_25
       rect:
         serializedVersion: 2
-        x: 2048
+        x: 256
         y: 3072
         width: 256
         height: 256
@@ -1084,7 +1216,7 @@ TextureImporter:
       name: hero-boots-1_26
       rect:
         serializedVersion: 2
-        x: 2304
+        x: 512
         y: 3072
         width: 256
         height: 256
@@ -1105,7 +1237,7 @@ TextureImporter:
       name: hero-boots-1_27
       rect:
         serializedVersion: 2
-        x: 2560
+        x: 768
         y: 3072
         width: 256
         height: 256
@@ -1126,8 +1258,8 @@ TextureImporter:
       name: hero-boots-1_28
       rect:
         serializedVersion: 2
-        x: 256
-        y: 2816
+        x: 1024
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1147,8 +1279,8 @@ TextureImporter:
       name: hero-boots-1_29
       rect:
         serializedVersion: 2
-        x: 512
-        y: 2816
+        x: 1280
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1168,8 +1300,8 @@ TextureImporter:
       name: hero-boots-1_30
       rect:
         serializedVersion: 2
-        x: 768
-        y: 2816
+        x: 1536
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1189,8 +1321,8 @@ TextureImporter:
       name: hero-boots-1_31
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 2816
+        x: 1792
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1210,8 +1342,8 @@ TextureImporter:
       name: hero-boots-1_32
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 2816
+        x: 2048
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1231,8 +1363,8 @@ TextureImporter:
       name: hero-boots-1_33
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 2816
+        x: 2304
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1252,8 +1384,8 @@ TextureImporter:
       name: hero-boots-1_34
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 2816
+        x: 2560
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1273,8 +1405,8 @@ TextureImporter:
       name: hero-boots-1_35
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 2816
+        x: 2816
+        y: 3072
         width: 256
         height: 256
       alignment: 7
@@ -1294,7 +1426,7 @@ TextureImporter:
       name: hero-boots-1_36
       rect:
         serializedVersion: 2
-        x: 2560
+        x: 0
         y: 2816
         width: 256
         height: 256
@@ -1316,7 +1448,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 256
-        y: 2560
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1337,7 +1469,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 512
-        y: 2560
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1358,7 +1490,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 768
-        y: 2560
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1379,7 +1511,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1024
-        y: 2560
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1400,7 +1532,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1280
-        y: 2560
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1421,7 +1553,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1536
-        y: 2560
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1441,8 +1573,8 @@ TextureImporter:
       name: hero-boots-1_43
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 2560
+        x: 1792
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1462,8 +1594,8 @@ TextureImporter:
       name: hero-boots-1_44
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 2560
+        x: 2048
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1483,8 +1615,8 @@ TextureImporter:
       name: hero-boots-1_45
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 2560
+        x: 2304
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1504,8 +1636,8 @@ TextureImporter:
       name: hero-boots-1_46
       rect:
         serializedVersion: 2
-        x: 256
-        y: 2304
+        x: 2560
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1525,8 +1657,8 @@ TextureImporter:
       name: hero-boots-1_47
       rect:
         serializedVersion: 2
-        x: 512
-        y: 2304
+        x: 2816
+        y: 2816
         width: 256
         height: 256
       alignment: 7
@@ -1546,8 +1678,8 @@ TextureImporter:
       name: hero-boots-1_48
       rect:
         serializedVersion: 2
-        x: 768
-        y: 2304
+        x: 0
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1567,8 +1699,8 @@ TextureImporter:
       name: hero-boots-1_49
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 2304
+        x: 256
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1588,8 +1720,8 @@ TextureImporter:
       name: hero-boots-1_50
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 2304
+        x: 512
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1609,8 +1741,8 @@ TextureImporter:
       name: hero-boots-1_51
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 2304
+        x: 768
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1630,8 +1762,8 @@ TextureImporter:
       name: hero-boots-1_52
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 2304
+        x: 1024
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1651,8 +1783,8 @@ TextureImporter:
       name: hero-boots-1_53
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 2304
+        x: 1280
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1672,8 +1804,8 @@ TextureImporter:
       name: hero-boots-1_54
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 2304
+        x: 1536
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1693,8 +1825,8 @@ TextureImporter:
       name: hero-boots-1_55
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 2304
+        x: 1792
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1714,8 +1846,8 @@ TextureImporter:
       name: hero-boots-1_56
       rect:
         serializedVersion: 2
-        x: 256
-        y: 2048
+        x: 2048
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1735,8 +1867,8 @@ TextureImporter:
       name: hero-boots-1_57
       rect:
         serializedVersion: 2
-        x: 512
-        y: 2048
+        x: 2304
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1756,8 +1888,8 @@ TextureImporter:
       name: hero-boots-1_58
       rect:
         serializedVersion: 2
-        x: 768
-        y: 2048
+        x: 2560
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1777,8 +1909,8 @@ TextureImporter:
       name: hero-boots-1_59
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 2048
+        x: 2816
+        y: 2560
         width: 256
         height: 256
       alignment: 7
@@ -1798,8 +1930,8 @@ TextureImporter:
       name: hero-boots-1_60
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 2048
+        x: 0
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1819,8 +1951,8 @@ TextureImporter:
       name: hero-boots-1_61
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 2048
+        x: 256
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1840,8 +1972,8 @@ TextureImporter:
       name: hero-boots-1_62
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 2048
+        x: 512
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1861,8 +1993,8 @@ TextureImporter:
       name: hero-boots-1_63
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 2048
+        x: 768
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1882,8 +2014,8 @@ TextureImporter:
       name: hero-boots-1_64
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 2048
+        x: 1024
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1903,8 +2035,8 @@ TextureImporter:
       name: hero-boots-1_65
       rect:
         serializedVersion: 2
-        x: 256
-        y: 1792
+        x: 1280
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1924,8 +2056,8 @@ TextureImporter:
       name: hero-boots-1_66
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1792
+        x: 1536
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1945,8 +2077,8 @@ TextureImporter:
       name: hero-boots-1_67
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1792
+        x: 1792
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1966,8 +2098,8 @@ TextureImporter:
       name: hero-boots-1_68
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 1792
+        x: 2048
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -1987,8 +2119,8 @@ TextureImporter:
       name: hero-boots-1_69
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 1792
+        x: 2304
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -2008,8 +2140,8 @@ TextureImporter:
       name: hero-boots-1_70
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 1792
+        x: 2560
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -2029,8 +2161,8 @@ TextureImporter:
       name: hero-boots-1_71
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 1792
+        x: 2816
+        y: 2304
         width: 256
         height: 256
       alignment: 7
@@ -2050,8 +2182,8 @@ TextureImporter:
       name: hero-boots-1_72
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 1792
+        x: 0
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2071,8 +2203,8 @@ TextureImporter:
       name: hero-boots-1_73
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 1792
+        x: 256
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2092,8 +2224,8 @@ TextureImporter:
       name: hero-boots-1_74
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 1792
+        x: 512
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2113,8 +2245,8 @@ TextureImporter:
       name: hero-boots-1_75
       rect:
         serializedVersion: 2
-        x: 256
-        y: 1536
+        x: 768
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2134,8 +2266,8 @@ TextureImporter:
       name: hero-boots-1_76
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1536
+        x: 1024
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2155,8 +2287,8 @@ TextureImporter:
       name: hero-boots-1_77
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1536
+        x: 1280
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2176,8 +2308,8 @@ TextureImporter:
       name: hero-boots-1_78
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 1536
+        x: 1536
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2197,8 +2329,8 @@ TextureImporter:
       name: hero-boots-1_79
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 1536
+        x: 1792
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2218,8 +2350,8 @@ TextureImporter:
       name: hero-boots-1_80
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 1536
+        x: 2048
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2240,7 +2372,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2304
-        y: 1536
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2261,7 +2393,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2560
-        y: 1536
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2282,7 +2414,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2816
-        y: 1536
+        y: 2048
         width: 256
         height: 256
       alignment: 7
@@ -2302,8 +2434,8 @@ TextureImporter:
       name: hero-boots-1_84
       rect:
         serializedVersion: 2
-        x: 256
-        y: 1280
+        x: 0
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2323,8 +2455,8 @@ TextureImporter:
       name: hero-boots-1_85
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1280
+        x: 256
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2344,8 +2476,8 @@ TextureImporter:
       name: hero-boots-1_86
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1280
+        x: 512
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2365,8 +2497,8 @@ TextureImporter:
       name: hero-boots-1_87
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 1280
+        x: 768
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2386,8 +2518,8 @@ TextureImporter:
       name: hero-boots-1_88
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 1280
+        x: 1024
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2407,8 +2539,8 @@ TextureImporter:
       name: hero-boots-1_89
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 1280
+        x: 1280
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2428,8 +2560,8 @@ TextureImporter:
       name: hero-boots-1_90
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 1280
+        x: 1536
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2449,8 +2581,8 @@ TextureImporter:
       name: hero-boots-1_91
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 1280
+        x: 1792
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2470,8 +2602,8 @@ TextureImporter:
       name: hero-boots-1_92
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 1280
+        x: 2048
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2491,8 +2623,8 @@ TextureImporter:
       name: hero-boots-1_93
       rect:
         serializedVersion: 2
-        x: 256
-        y: 1024
+        x: 2304
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2512,8 +2644,8 @@ TextureImporter:
       name: hero-boots-1_94
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1024
+        x: 2560
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2533,8 +2665,8 @@ TextureImporter:
       name: hero-boots-1_95
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1024
+        x: 2816
+        y: 1792
         width: 256
         height: 256
       alignment: 7
@@ -2554,8 +2686,8 @@ TextureImporter:
       name: hero-boots-1_96
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 1024
+        x: 0
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2575,8 +2707,8 @@ TextureImporter:
       name: hero-boots-1_97
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 1024
+        x: 256
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2596,8 +2728,8 @@ TextureImporter:
       name: hero-boots-1_98
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 1024
+        x: 512
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2617,8 +2749,8 @@ TextureImporter:
       name: hero-boots-1_99
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 1024
+        x: 768
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2638,8 +2770,8 @@ TextureImporter:
       name: hero-boots-1_100
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 1024
+        x: 1024
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2659,8 +2791,8 @@ TextureImporter:
       name: hero-boots-1_101
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 1024
+        x: 1280
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2680,8 +2812,8 @@ TextureImporter:
       name: hero-boots-1_102
       rect:
         serializedVersion: 2
-        x: 256
-        y: 768
+        x: 1536
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2701,8 +2833,8 @@ TextureImporter:
       name: hero-boots-1_103
       rect:
         serializedVersion: 2
-        x: 512
-        y: 768
+        x: 1792
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2722,8 +2854,8 @@ TextureImporter:
       name: hero-boots-1_104
       rect:
         serializedVersion: 2
-        x: 768
-        y: 768
+        x: 2048
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2743,8 +2875,8 @@ TextureImporter:
       name: hero-boots-1_105
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 768
+        x: 2304
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2764,8 +2896,8 @@ TextureImporter:
       name: hero-boots-1_106
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 768
+        x: 2560
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2785,8 +2917,8 @@ TextureImporter:
       name: hero-boots-1_107
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 768
+        x: 2816
+        y: 1536
         width: 256
         height: 256
       alignment: 7
@@ -2806,8 +2938,8 @@ TextureImporter:
       name: hero-boots-1_108
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 768
+        x: 0
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2827,8 +2959,8 @@ TextureImporter:
       name: hero-boots-1_109
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 768
+        x: 256
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2848,8 +2980,8 @@ TextureImporter:
       name: hero-boots-1_110
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 768
+        x: 512
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2869,8 +3001,8 @@ TextureImporter:
       name: hero-boots-1_111
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 768
+        x: 768
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2890,8 +3022,8 @@ TextureImporter:
       name: hero-boots-1_112
       rect:
         serializedVersion: 2
-        x: 256
-        y: 512
+        x: 1024
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2911,8 +3043,8 @@ TextureImporter:
       name: hero-boots-1_113
       rect:
         serializedVersion: 2
-        x: 512
-        y: 512
+        x: 1280
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2932,8 +3064,8 @@ TextureImporter:
       name: hero-boots-1_114
       rect:
         serializedVersion: 2
-        x: 768
-        y: 512
+        x: 1536
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2953,8 +3085,8 @@ TextureImporter:
       name: hero-boots-1_115
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 512
+        x: 1792
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2974,8 +3106,8 @@ TextureImporter:
       name: hero-boots-1_116
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 512
+        x: 2048
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -2995,8 +3127,8 @@ TextureImporter:
       name: hero-boots-1_117
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 512
+        x: 2304
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -3016,8 +3148,8 @@ TextureImporter:
       name: hero-boots-1_118
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 512
+        x: 2560
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -3037,8 +3169,8 @@ TextureImporter:
       name: hero-boots-1_119
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 512
+        x: 2816
+        y: 1280
         width: 256
         height: 256
       alignment: 7
@@ -3058,8 +3190,8 @@ TextureImporter:
       name: hero-boots-1_120
       rect:
         serializedVersion: 2
-        x: 2560
-        y: 512
+        x: 0
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3079,8 +3211,8 @@ TextureImporter:
       name: hero-boots-1_121
       rect:
         serializedVersion: 2
-        x: 2816
-        y: 512
+        x: 256
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3100,8 +3232,8 @@ TextureImporter:
       name: hero-boots-1_122
       rect:
         serializedVersion: 2
-        x: 256
-        y: 256
+        x: 512
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3121,8 +3253,8 @@ TextureImporter:
       name: hero-boots-1_123
       rect:
         serializedVersion: 2
-        x: 512
-        y: 256
+        x: 768
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3142,8 +3274,8 @@ TextureImporter:
       name: hero-boots-1_124
       rect:
         serializedVersion: 2
-        x: 768
-        y: 256
+        x: 1024
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3163,8 +3295,8 @@ TextureImporter:
       name: hero-boots-1_125
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 256
+        x: 1280
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3184,8 +3316,8 @@ TextureImporter:
       name: hero-boots-1_126
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 256
+        x: 1536
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3205,8 +3337,8 @@ TextureImporter:
       name: hero-boots-1_127
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 256
+        x: 1792
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3226,8 +3358,8 @@ TextureImporter:
       name: hero-boots-1_128
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 256
+        x: 2048
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3247,8 +3379,8 @@ TextureImporter:
       name: hero-boots-1_129
       rect:
         serializedVersion: 2
-        x: 256
-        y: 0
+        x: 2304
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3268,8 +3400,8 @@ TextureImporter:
       name: hero-boots-1_130
       rect:
         serializedVersion: 2
-        x: 512
-        y: 0
+        x: 2560
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3289,8 +3421,8 @@ TextureImporter:
       name: hero-boots-1_131
       rect:
         serializedVersion: 2
-        x: 768
-        y: 0
+        x: 2816
+        y: 1024
         width: 256
         height: 256
       alignment: 7
@@ -3310,8 +3442,8 @@ TextureImporter:
       name: hero-boots-1_132
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 0
+        x: 0
+        y: 768
         width: 256
         height: 256
       alignment: 7
@@ -3331,8 +3463,8 @@ TextureImporter:
       name: hero-boots-1_133
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 0
+        x: 256
+        y: 768
         width: 256
         height: 256
       alignment: 7
@@ -3352,8 +3484,8 @@ TextureImporter:
       name: hero-boots-1_134
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 0
+        x: 512
+        y: 768
         width: 256
         height: 256
       alignment: 7
@@ -3373,8 +3505,8 @@ TextureImporter:
       name: hero-boots-1_135
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 0
+        x: 768
+        y: 768
         width: 256
         height: 256
       alignment: 7
@@ -3386,6 +3518,930 @@ TextureImporter:
       bones: []
       spriteID: 4de187693c07f9cf0800000000000000
       internalID: -243351869509329196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_136
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf96773fa85dc090800000000000000
+      internalID: -8012650652449202251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_137
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da83c4c4e82dfa20800000000000000
+      internalID: 3097677081719573201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_138
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921e226874445ae90800000000000000
+      internalID: -7015125770575879895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_139
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da44d785bed0a170800000000000000
+      internalID: 8187788993808845525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_140
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb1def864ceb5950800000000000000
+      internalID: 6438999880062802929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_141
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e0e2a6ee99c4350800000000000000
+      internalID: 6002341652640698006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_142
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102da2abe6bbbe4b0800000000000000
+      internalID: -5410024443111353855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_143
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 768
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a46fe6ae80d2390800000000000000
+      internalID: -7841601573205161451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62af04de9f242950800000000000000
+      internalID: 6423311327746302570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_145
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e69abf4e9cc9ff0800000000000000
+      internalID: -27925512359154137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_146
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2327f00f58eff87a0800000000000000
+      internalID: -6372595096494312910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_147
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744be56b2cd3f8e30800000000000000
+      internalID: 4507889658513765447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_148
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5ea95a22046c800800000000000000
+      internalID: 632263315243591157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_149
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4b9d74a3c27d400800000000000000
+      internalID: 348796124969678005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_150
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16dbe320b5c4b340800000000000000
+      internalID: 4878741656656664091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_151
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ac140df390db630800000000000000
+      internalID: 3944319018327984796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_152
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb0e8386ba3c0440800000000000000
+      internalID: 4903358649865210823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_153
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5dfcc265bb4b100800000000000000
+      internalID: 122929068639245797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_154
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15890e0489bbc5b0800000000000000
+      internalID: -5346976155750005478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_155
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 512
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baac909a309c83e40800000000000000
+      internalID: 5636475951212251819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f978e6ad8ba08fc0800000000000000
+      internalID: -3494604685960513034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_157
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c81c8c404e56870800000000000000
+      internalID: 8675590966398258320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_158
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ff1f16d7cbcd620800000000000000
+      internalID: 2800320315017789213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_159
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21111b049502f630800000000000000
+      internalID: 3959233155811053871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_160
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96ea5b44873bba20800000000000000
+      internalID: 3079115811577325215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_161
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b4f091e639aa2e0800000000000000
+      internalID: -2113714974020908170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_162
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9cc539815cfd2e0800000000000000
+      internalID: -2098742191989143103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_163
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2278e3a8f1adc9c90800000000000000
+      internalID: -7161609478427736286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_164
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f97cb672c2465960800000000000000
+      internalID: 7590327624962701811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_165
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bafd62f94087a190800000000000000
+      internalID: -7951245562011059536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_166
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0d69d0bffad6140800000000000000
+      internalID: 4714617877726417143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_167
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 256
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4549af4932369d910800000000000000
+      internalID: 1862628925368865876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511f1355444c79040800000000000000
+      internalID: 4654404537676853525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_169
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532c1f9425eada700800000000000000
+      internalID: 553289997687570997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_170
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a18a201dc31a6680800000000000000
+      internalID: -8761168353635434073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3826ea19167795d0800000000000000
+      internalID: -3055843971950041030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_172
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b35bed0964bc690800000000000000
+      internalID: -7580887959722443911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_173
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05098a8f22dfbc7e0800000000000000
+      internalID: -1744022104033423280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_174
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645abe8b165d06370800000000000000
+      internalID: 8313879527816930630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_175
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebafad4788ed6d5d0800000000000000
+      internalID: -3037996220957394242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_176
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7871e3cb47ddd2ec0800000000000000
+      internalID: -3589969834500286585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_177
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb75bc018399602a0800000000000000
+      internalID: -6771556523625982021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_178
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92aae08f15c6f6980800000000000000
+      internalID: -8543490868788680151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-boots-1_179
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 256
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3449c441320e61f0800000000000000
+      internalID: -1049899252500052931
       vertices: []
       indices: 
       edges: []
