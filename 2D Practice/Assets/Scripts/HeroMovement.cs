@@ -1,29 +1,45 @@
 using UnityEngine;
 
 public class HeroMovement : MonoBehaviour {
-  [SerializeField] private float speed;
+  [SerializeField] public float speed;
   [SerializeField] private float jumpHeight;
   private Rigidbody2D body;
   private Animator anim;
+  private SpriteRenderer heroRenderer;
+  private string currentSpriteName;
   private bool isGrounded;
   private bool isFalling;
   private bool isJumping;
   public bool isFacingLeft;
 
+  public int spriteIndex;
+
   private bool horizontalCollision;
 
   public int collisionCounter = 0;
+
+  public float horizontalInput = 0;
 
   // called when script is loaded
   private void Awake() {
     body = GetComponent<Rigidbody2D>();
     anim = GetComponent<Animator>();
+    heroRenderer = GetComponent<SpriteRenderer>();
+    currentSpriteName = heroRenderer.sprite.name;
+    spriteIndex = 0;
   }
 
   // called on every frame of the game
   private void Update() {
-    float horizontalInput = Input.GetAxis("Horizontal");
+    horizontalInput = Input.GetAxis("Horizontal");
     float verticalSpeed = body.velocity.y;
+
+    if (currentSpriteName != heroRenderer.sprite.name) {
+      currentSpriteName = heroRenderer.sprite.name;
+      spriteIndex = getSpriteIndex();
+    }
+
+    Debug.Log(horizontalInput);
 
     // x axis movement
     if (!horizontalCollision) {
@@ -56,6 +72,10 @@ public class HeroMovement : MonoBehaviour {
     if (!isGrounded && verticalSpeed < -1) {
       Fall();
     }
+  }
+
+  private int getSpriteIndex() {
+    return int.Parse(currentSpriteName.Substring(currentSpriteName.LastIndexOf("_") + 1));
   }
 
   private void Fall() {
@@ -116,9 +136,4 @@ public class HeroMovement : MonoBehaviour {
       isGrounded = false;
     }
   }
-
-  // private bool isGrounded() {
-  //   RaycastHit2D raycastHit = Physics2D.BoxCast(boxCollider.bounds.center, boxCollider.bounds.size, 0, Vector2.down, 0.1f, groundLayer);
-  //   return raycastHit.collider != null;
-  // }
 }
