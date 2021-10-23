@@ -154,8 +154,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b4e030c94fd6644faf52e5c22fb16b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objectName: tunic
-  objectIndex: 1
+  objectIndex: 0
   objectR: 25
   objectG: 150
   objectB: 80
@@ -359,8 +358,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b4e030c94fd6644faf52e5c22fb16b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objectName: belt
-  objectIndex: 1
+  objectIndex: 0
   objectR: 255
   objectG: 255
   objectB: 255
@@ -481,8 +479,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b4e030c94fd6644faf52e5c22fb16b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objectName: shirt
-  objectIndex: 1
+  objectIndex: 0
   objectR: 0
   objectG: 230
   objectB: 50
@@ -584,9 +581,9 @@ GameObject:
   - component: {fileID: 1200526485}
   - component: {fileID: 1200526488}
   - component: {fileID: 1200526487}
-  - component: {fileID: 1200526491}
   - component: {fileID: 1200526489}
   - component: {fileID: 1200526490}
+  - component: {fileID: 1200526491}
   m_Layer: 0
   m_Name: Hero
   m_TagString: Hero
@@ -726,7 +723,6 @@ MonoBehaviour:
   speed: 5
   jumpHeight: 10
   isFacingLeft: 0
-  spriteIndex: 0
   collisionCounter: 0
   horizontalInput: 0
 --- !u!95 &1200526490
@@ -757,7 +753,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1200526484}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e9d4b30c57961614ca5e5f5571b2942d, type: 3}
+  m_Script: {fileID: 11500000, guid: 8f611e845539ca046993c522220320f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1296695559
@@ -1009,8 +1005,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b4e030c94fd6644faf52e5c22fb16b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objectName: boots
-  objectIndex: 1
+  objectIndex: 0
   objectR: 200
   objectG: 150
   objectB: 50
@@ -1196,8 +1191,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b4e030c94fd6644faf52e5c22fb16b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objectName: pants
-  objectIndex: 1
+  objectIndex: 0
   objectR: 25
   objectG: 150
   objectB: 150

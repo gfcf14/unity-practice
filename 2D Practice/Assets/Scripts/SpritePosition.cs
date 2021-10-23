@@ -1,18 +1,20 @@
 using UnityEngine;
 
 public class SpritePosition : MonoBehaviour {
-  [SerializeField] private string objectName;
-  [SerializeField] private int objectIndex;
+  [SerializeField] public int objectIndex;
   [SerializeField] private int objectR;
   [SerializeField] private int objectG;
   [SerializeField] private int objectB;
+  
   private SpriteRenderer objectRenderer;
+
   private void Start() {
     objectRenderer = GetComponent<SpriteRenderer>();
+
+    SetSprite();
   }
 
   private void Update() {
-    SetSprite();
     SetPosition();
   }
 
