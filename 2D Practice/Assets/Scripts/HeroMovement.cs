@@ -6,10 +6,14 @@ public class HeroMovement : MonoBehaviour {
   private Rigidbody2D body;
   private Animator anim;
   private SpriteRenderer heroRenderer;
+
+  private bool isRunning;
   private bool isGrounded;
   private bool isFalling;
   private bool isJumping;
   public bool isFacingLeft;
+
+  public bool isAttackingSingle;
 
   private bool horizontalCollision;
 
@@ -29,19 +33,17 @@ public class HeroMovement : MonoBehaviour {
     horizontalInput = Input.GetAxis("Horizontal");
     float verticalSpeed = body.velocity.y;
 
-    // Debug.Log(horizontalInput);
-
     // x axis movement
     if (!horizontalCollision) {
       body.velocity = new Vector2(horizontalInput * speed, body.velocity.y);
 
       // flip player when moving left
-      if (horizontalInput > 0.01f && isGrounded) {
+      if (horizontalInput > 0.01f && isGrounded && !isAttackingSingle) {
         transform.localScale = Vector3.one;
         isFacingLeft = false;
       }
       // flip player when moving right
-      else if (horizontalInput < -0.01f && isGrounded) {
+      else if (horizontalInput < -0.01f && isGrounded && !isAttackingSingle) {
         transform.localScale = new Vector3(-1, 1, 1);
         isFacingLeft = true;
       }
@@ -52,16 +54,37 @@ public class HeroMovement : MonoBehaviour {
       Jump();
     }
 
-    // set animator parameters
-    anim.SetBool("isRunning", horizontalInput != 0 && !isJumping && !isFalling);
-    anim.SetBool("isGrounded", isGrounded);
-    anim.SetBool("isFalling", isFalling);
-    anim.SetBool("isJumping", isJumping);
-    anim.SetBool("horizontalCollision", horizontalCollision);
+    isRunning = horizontalInput != 0 && !isJumping && !isFalling && !isAttackingSingle;
 
     if (!isGrounded && verticalSpeed < -1) {
       Fall();
     }
+
+    if (Input.GetKeyDown(KeyCode.Keypad4) && isGrounded) {
+      isAttackingSingle = true;
+    }
+
+    // set animator parameters
+    anim.SetBool("isRunning", isRunning);
+    anim.SetBool("isGrounded", isGrounded);
+    anim.SetBool("isFalling", isFalling);
+    anim.SetBool("isJumping", isJumping);
+    anim.SetBool("horizontalCollision", horizontalCollision);
+    anim.SetBool("isAttackingSingle", isAttackingSingle);
+  }
+
+  void ClearAttackSingle() {
+    isAttackingSingle = false;
+  }
+
+  public void OnGUI() {
+    string guiLabel = "Running: " + isRunning + "\n" +
+                      "Grounded: " + isGrounded + "\n" +
+                      "Falling: " + isFalling + "\n" +
+                      "Jumping: " + isJumping + "\n" +
+                      "horizontalCollision: " + horizontalCollision + "\n" +
+                      "Attack_Single: " + isAttackingSingle + "\n";
+    GUI.Label(new Rect(0, 0, 200, 100), guiLabel);
   }
 
   private void Fall() {
