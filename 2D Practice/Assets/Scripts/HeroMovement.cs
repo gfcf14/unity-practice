@@ -15,6 +15,8 @@ public class HeroMovement : MonoBehaviour {
 
   public bool isAttackingSingle;
 
+  public bool isAirAttackSingle;
+
   private bool horizontalCollision;
 
   public int collisionCounter = 0;
@@ -60,8 +62,12 @@ public class HeroMovement : MonoBehaviour {
       Fall();
     }
 
-    if (Input.GetKeyDown(KeyCode.Keypad4) && isGrounded) {
-      isAttackingSingle = true;
+    if (Input.GetKeyDown(KeyCode.Keypad4)) {
+      if (isGrounded) {
+        isAttackingSingle = true;
+      } else if (isJumping || isFalling) {
+        isAirAttackSingle = true;
+      }      
     }
 
     // set animator parameters
@@ -71,10 +77,15 @@ public class HeroMovement : MonoBehaviour {
     anim.SetBool("isJumping", isJumping);
     anim.SetBool("horizontalCollision", horizontalCollision);
     anim.SetBool("isAttackingSingle", isAttackingSingle);
+    anim.SetBool("isAirAttackSingle", isAirAttackSingle);
   }
 
   void ClearAttackSingle() {
     isAttackingSingle = false;
+  }
+
+  void ClearAirAttackSingle() {
+    isAirAttackSingle = false;
   }
 
   public void OnGUI() {
@@ -83,8 +94,9 @@ public class HeroMovement : MonoBehaviour {
                       "Falling: " + isFalling + "\n" +
                       "Jumping: " + isJumping + "\n" +
                       "horizontalCollision: " + horizontalCollision + "\n" +
-                      "Attack_Single: " + isAttackingSingle + "\n";
-    GUI.Label(new Rect(0, 0, 200, 100), guiLabel);
+                      "Attack_Single: " + isAttackingSingle + "\n" +
+                      "Air_Attack_Single: " + isAirAttackSingle + "\n";
+    GUI.Label(new Rect(0, 0, 200, 400), guiLabel);
   }
 
   private void Fall() {
@@ -113,6 +125,7 @@ public class HeroMovement : MonoBehaviour {
 
           if (isBottomCollision(otherCollider, collider)) {
             horizontalCollision = false;
+            ClearAirAttackSingle();
           }
         }
       }      
