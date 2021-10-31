@@ -17,17 +17,29 @@ public class HeroMovement : MonoBehaviour {
 
   public bool isAirAttackSingle;
 
+  public bool isKicking;
+  public bool isDropKicking;
+
+  public bool isPunching;
+
   private bool horizontalCollision;
 
   public int collisionCounter = 0;
 
   public float horizontalInput = 0;
 
+  public string[] weapons = new string[] {"fists", "sword"};
+  public int weaponIndex = 0;
+
+  public string currentWeapon;
+
   // called when script is loaded
   private void Awake() {
     body = GetComponent<Rigidbody2D>();
     anim = GetComponent<Animator>();
     heroRenderer = GetComponent<SpriteRenderer>();
+
+    currentWeapon = weapons[weaponIndex % weapons.Length];
   }
 
   // called on every frame of the game
@@ -37,17 +49,23 @@ public class HeroMovement : MonoBehaviour {
 
     // x axis movement
     if (!horizontalCollision) {
-      body.velocity = new Vector2(horizontalInput * speed, body.velocity.y);
+      body.velocity = new Vector2(!isDropKicking ? horizontalInput * speed : 0, body.velocity.y);
 
       // flip player when moving left
       if (horizontalInput > 0.01f && isGrounded && !isAttackingSingle) {
         transform.localScale = Vector3.one;
-        isFacingLeft = false;
+
+        if (!isDropKicking) {
+          isFacingLeft = false;
+        }        
       }
       // flip player when moving right
       else if (horizontalInput < -0.01f && isGrounded && !isAttackingSingle) {
         transform.localScale = new Vector3(-1, 1, 1);
-        isFacingLeft = true;
+        
+        if (!isDropKicking) {
+          isFacingLeft = true;
+        }
       }
     }
 
@@ -64,10 +82,26 @@ public class HeroMovement : MonoBehaviour {
 
     if (Input.GetKeyDown(KeyCode.Keypad4)) {
       if (isGrounded) {
-        isAttackingSingle = true;
+        if (currentWeapon == "fists") {
+          isPunching = true;
+        } else if (currentWeapon == "sword") {
+          isAttackingSingle = true;
+        }        
       } else if (isJumping || isFalling) {
         isAirAttackSingle = true;
       }      
+    }
+
+    if (Input.GetKeyDown(KeyCode.Keypad5)) {
+      if (isGrounded && !isRunning) {
+        isKicking = true;
+      } else if (isJumping) {
+        DropKick();
+      }
+    }
+
+    if (isDropKicking) {
+      body.velocity = new Vector2(body.velocity.x + (jumpHeight * (isFacingLeft ? -1 : 1)), -(float)(jumpHeight * 0.75));
     }
 
     // set animator parameters
@@ -78,6 +112,13 @@ public class HeroMovement : MonoBehaviour {
     anim.SetBool("horizontalCollision", horizontalCollision);
     anim.SetBool("isAttackingSingle", isAttackingSingle);
     anim.SetBool("isAirAttackSingle", isAirAttackSingle);
+    anim.SetBool("isKicking", isKicking);
+    anim.SetBool("isDropKicking", isDropKicking);
+    anim.SetBool("isPunching", isPunching);
+  }
+
+  void ClearPunch() {
+    isPunching = false;
   }
 
   void ClearAttackSingle() {
@@ -88,14 +129,22 @@ public class HeroMovement : MonoBehaviour {
     isAirAttackSingle = false;
   }
 
+  void ClearKick() {
+    isKicking = false;
+  }
+
   public void OnGUI() {
     string guiLabel = "Running: " + isRunning + "\n" +
                       "Grounded: " + isGrounded + "\n" +
                       "Falling: " + isFalling + "\n" +
                       "Jumping: " + isJumping + "\n" +
                       "horizontalCollision: " + horizontalCollision + "\n" +
+                      "Equipment: " + currentWeapon + "\n" +
                       "Attack_Single: " + isAttackingSingle + "\n" +
-                      "Air_Attack_Single: " + isAirAttackSingle + "\n";
+                      "Air_Attack_Single: " + isAirAttackSingle + "\n" +
+                      "Kick: " + isKicking + "\n" +
+                      "Drop_Kick: " + isDropKicking + "\n" +
+                      "Punching: " + isPunching + "\n";
     GUI.Label(new Rect(0, 0, 200, 400), guiLabel);
   }
 
@@ -109,6 +158,10 @@ public class HeroMovement : MonoBehaviour {
     isGrounded = false;
   }
 
+  private void DropKick() {
+    isDropKicking = true;
+  }
+
   private void OnCollisionEnter2D(Collision2D collision) {
     Collider2D collider = collision.collider;
     Collider2D otherCollider = collision.otherCollider;
@@ -120,6 +173,7 @@ public class HeroMovement : MonoBehaviour {
           isFalling = false;
           isJumping = false;
           horizontalCollision = false;
+          isDropKicking = false;
         } else {          
           horizontalCollision = true;
 

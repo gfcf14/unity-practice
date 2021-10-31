@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: StartRunning-tunic-2
+  m_Name: DropKicking
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,9 +20,13 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: -5188009686405140760, guid: ac28e43f1ff3d874bbd9cf6dd41feac3, type: 3}
+      value: {fileID: -1793289078762995817, guid: bad38cfebcd87a14dbd1d968cf05726e, type: 3}
+    - time: 0.05
+      value: {fileID: 5807985160231879532, guid: bad38cfebcd87a14dbd1d968cf05726e, type: 3}
+    - time: 0.1
+      value: {fileID: -1079593621496750190, guid: bad38cfebcd87a14dbd1d968cf05726e, type: 3}
     attribute: m_Sprite
-    path: Tunic
+    path: 
     classID: 212
     script: {fileID: 0}
   m_SampleRate: 60
@@ -33,20 +37,22 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 1973274782
+      path: 0
       attribute: 0
       script: {fileID: 0}
       typeID: 212
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: -5188009686405140760, guid: ac28e43f1ff3d874bbd9cf6dd41feac3, type: 3}
+    - {fileID: -1793289078762995817, guid: bad38cfebcd87a14dbd1d968cf05726e, type: 3}
+    - {fileID: 5807985160231879532, guid: bad38cfebcd87a14dbd1d968cf05726e, type: 3}
+    - {fileID: -1079593621496750190, guid: bad38cfebcd87a14dbd1d968cf05726e, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.016666668
+    m_StopTime: 0.11666667
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
