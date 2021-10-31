@@ -21,7 +21,7 @@ public class HeroMovement : MonoBehaviour {
   public bool isDropKicking;
 
   public bool isPunching;
-
+  public bool isAirPunching;
   private bool horizontalCollision;
 
   public int collisionCounter = 0;
@@ -88,7 +88,11 @@ public class HeroMovement : MonoBehaviour {
           isAttackingSingle = true;
         }        
       } else if (isJumping || isFalling) {
-        isAirAttackSingle = true;
+        if (currentWeapon == "fists") {
+          isAirPunching = true;
+        } else if (currentWeapon == "sword") {
+          isAirAttackSingle = true;
+        }
       }      
     }
 
@@ -98,6 +102,11 @@ public class HeroMovement : MonoBehaviour {
       } else if (isJumping) {
         DropKick();
       }
+    }
+
+    if (Input.GetKeyDown(KeyCode.RightControl)) {
+      weaponIndex++;
+      currentWeapon = weapons[weaponIndex % weapons.Length];
     }
 
     if (isDropKicking) {
@@ -115,10 +124,15 @@ public class HeroMovement : MonoBehaviour {
     anim.SetBool("isKicking", isKicking);
     anim.SetBool("isDropKicking", isDropKicking);
     anim.SetBool("isPunching", isPunching);
+    anim.SetBool("isAirPunching", isAirPunching);
   }
 
   void ClearPunch() {
     isPunching = false;
+  }
+
+  void ClearAirPunch() {
+    isAirPunching = false;
   }
 
   void ClearAttackSingle() {
@@ -144,7 +158,8 @@ public class HeroMovement : MonoBehaviour {
                       "Air_Attack_Single: " + isAirAttackSingle + "\n" +
                       "Kick: " + isKicking + "\n" +
                       "Drop_Kick: " + isDropKicking + "\n" +
-                      "Punching: " + isPunching + "\n";
+                      "Punching: " + isPunching + "\n" +
+                      "Air_Punch: " + isAirPunching + "\n";
     GUI.Label(new Rect(0, 0, 200, 400), guiLabel);
   }
 
