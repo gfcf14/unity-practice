@@ -24,6 +24,8 @@ public class SpritePosition : MonoBehaviour {
 
   void ClearAirPunch() {}
 
+  void ClearThrow() {}
+
   private void SetSprite() {
    objectRenderer.color = new Color32((byte)objectR, (byte)objectG, (byte)objectB, 255);
   }

@@ -22,13 +22,15 @@ public class HeroMovement : MonoBehaviour {
 
   public bool isPunching;
   public bool isAirPunching;
+
+  public bool isThrowing;
   private bool horizontalCollision;
 
   public int collisionCounter = 0;
 
   public float horizontalInput = 0;
 
-  public string[] weapons = new string[] {"fists", "sword"};
+  public string[] weapons = new string[] {"fists", "sword", "throwables"};
   public int weaponIndex = 0;
 
   public string currentWeapon;
@@ -86,7 +88,9 @@ public class HeroMovement : MonoBehaviour {
           isPunching = true;
         } else if (currentWeapon == "sword") {
           isAttackingSingle = true;
-        }        
+        } else if (currentWeapon == "throwables") {
+          isThrowing = true;
+        }       
       } else if (isJumping || isFalling) {
         if (currentWeapon == "fists") {
           isAirPunching = true;
@@ -125,6 +129,7 @@ public class HeroMovement : MonoBehaviour {
     anim.SetBool("isDropKicking", isDropKicking);
     anim.SetBool("isPunching", isPunching);
     anim.SetBool("isAirPunching", isAirPunching);
+    anim.SetBool("isThrowing", isThrowing);
   }
 
   void ClearPunch() {
@@ -145,6 +150,10 @@ public class HeroMovement : MonoBehaviour {
 
   void ClearKick() {
     isKicking = false;
+  }
+
+  void ClearThrow() {
+    isThrowing = false;
   }
 
   public void OnGUI() {
