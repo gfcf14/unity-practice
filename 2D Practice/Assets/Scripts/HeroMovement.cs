@@ -24,13 +24,15 @@ public class HeroMovement : MonoBehaviour {
   public bool isAirPunching;
 
   public bool isThrowing;
+
+  public bool isShootingSingle;
   private bool horizontalCollision;
 
   public int collisionCounter = 0;
 
   public float horizontalInput = 0;
 
-  public string[] weapons = new string[] {"fists", "sword", "throwables"};
+  public string[] weapons = new string[] {"fists", "single", "throwables", "projectile-heavy", "projectile-auto", "projectile-pull"};
   public int weaponIndex = 0;
 
   public string currentWeapon;
@@ -86,15 +88,17 @@ public class HeroMovement : MonoBehaviour {
       if (isGrounded) {
         if (currentWeapon == "fists") {
           isPunching = true;
-        } else if (currentWeapon == "sword") {
+        } else if (currentWeapon == "single") {
           isAttackingSingle = true;
         } else if (currentWeapon == "throwables") {
           isThrowing = true;
-        }       
+        } else if (currentWeapon == "projectile-heavy") {
+          isShootingSingle = true;
+        }      
       } else if (isJumping || isFalling) {
         if (currentWeapon == "fists") {
           isAirPunching = true;
-        } else if (currentWeapon == "sword") {
+        } else if (currentWeapon == "single") {
           isAirAttackSingle = true;
         }
       }      
@@ -130,6 +134,7 @@ public class HeroMovement : MonoBehaviour {
     anim.SetBool("isPunching", isPunching);
     anim.SetBool("isAirPunching", isAirPunching);
     anim.SetBool("isThrowing", isThrowing);
+    anim.SetBool("isShootingSingle", isShootingSingle);
   }
 
   void ClearPunch() {
@@ -156,6 +161,10 @@ public class HeroMovement : MonoBehaviour {
     isThrowing = false;
   }
 
+  void ClearShootingSingle() {
+    isShootingSingle = false;
+  }
+
   public void OnGUI() {
     string guiLabel = "Running: " + isRunning + "\n" +
                       "Grounded: " + isGrounded + "\n" +
@@ -168,7 +177,9 @@ public class HeroMovement : MonoBehaviour {
                       "Kick: " + isKicking + "\n" +
                       "Drop_Kick: " + isDropKicking + "\n" +
                       "Punching: " + isPunching + "\n" +
-                      "Air_Punch: " + isAirPunching + "\n";
+                      "Air_Punch: " + isAirPunching + "\n" +
+                      "Throwing: " + isThrowing + "\n" +
+                      "Shooting: " + isShootingSingle + "\n";
     GUI.Label(new Rect(0, 0, 200, 400), guiLabel);
   }
 
