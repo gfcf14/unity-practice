@@ -26,6 +26,8 @@ public class HeroMovement : MonoBehaviour {
   public bool isThrowing;
 
   public bool isShootingSingle;
+
+  public bool isShootingAuto;
   private bool horizontalCollision;
 
   public int collisionCounter = 0;
@@ -84,6 +86,14 @@ public class HeroMovement : MonoBehaviour {
       Fall();
     }
 
+    if (Input.GetKey(KeyCode.Keypad4) && currentWeapon == "projectile-auto") {
+      isShootingAuto = true;
+    }
+
+    if (Input.GetKeyUp(KeyCode.Keypad4) && isShootingAuto) {
+      isShootingAuto = false;
+    }
+
     if (Input.GetKeyDown(KeyCode.Keypad4)) {
       if (isGrounded) {
         if (currentWeapon == "fists") {
@@ -135,6 +145,7 @@ public class HeroMovement : MonoBehaviour {
     anim.SetBool("isAirPunching", isAirPunching);
     anim.SetBool("isThrowing", isThrowing);
     anim.SetBool("isShootingSingle", isShootingSingle);
+    anim.SetBool("isShootingAuto", isShootingAuto);
   }
 
   void ClearPunch() {
@@ -179,7 +190,7 @@ public class HeroMovement : MonoBehaviour {
                       "Punching: " + isPunching + "\n" +
                       "Air_Punch: " + isAirPunching + "\n" +
                       "Throwing: " + isThrowing + "\n" +
-                      "Shooting: " + isShootingSingle + "\n";
+                      "Shooting: " + (isShootingSingle || isShootingAuto) + "\n";
     GUI.Label(new Rect(0, 0, 200, 400), guiLabel);
   }
 
