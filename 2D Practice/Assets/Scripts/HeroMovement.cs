@@ -28,6 +28,9 @@ public class HeroMovement : MonoBehaviour {
   public bool isShootingSingle;
 
   public bool isShootingAuto;
+
+  public bool isShootingPull;
+
   private bool horizontalCollision;
 
   public int collisionCounter = 0;
@@ -104,7 +107,9 @@ public class HeroMovement : MonoBehaviour {
           isThrowing = true;
         } else if (currentWeapon == "projectile-heavy") {
           isShootingSingle = true;
-        }      
+        } else if (currentWeapon == "projectile-pull") {
+          isShootingPull = true;
+        }
       } else if (isJumping || isFalling) {
         if (currentWeapon == "fists") {
           isAirPunching = true;
@@ -146,6 +151,7 @@ public class HeroMovement : MonoBehaviour {
     anim.SetBool("isThrowing", isThrowing);
     anim.SetBool("isShootingSingle", isShootingSingle);
     anim.SetBool("isShootingAuto", isShootingAuto);
+    anim.SetBool("isShootingPull", isShootingPull);
   }
 
   void ClearPunch() {
@@ -176,6 +182,10 @@ public class HeroMovement : MonoBehaviour {
     isShootingSingle = false;
   }
 
+  void ClearShootingPull() {
+    isShootingPull = false;
+  }
+
   public void OnGUI() {
     string guiLabel = "Running: " + isRunning + "\n" +
                       "Grounded: " + isGrounded + "\n" +
@@ -190,7 +200,7 @@ public class HeroMovement : MonoBehaviour {
                       "Punching: " + isPunching + "\n" +
                       "Air_Punch: " + isAirPunching + "\n" +
                       "Throwing: " + isThrowing + "\n" +
-                      "Shooting: " + (isShootingSingle || isShootingAuto) + "\n";
+                      "Shooting: " + (isShootingSingle || isShootingAuto || isShootingPull) + "\n";
     GUI.Label(new Rect(0, 0, 200, 400), guiLabel);
   }
 

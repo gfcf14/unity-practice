@@ -28,6 +28,8 @@ public class SpritePosition : MonoBehaviour {
 
   void ClearShootingSingle() {}
 
+  void ClearShootingPull() {}
+
   private void SetSprite() {
    objectRenderer.color = new Color32((byte)objectR, (byte)objectG, (byte)objectB, 255);
   }
