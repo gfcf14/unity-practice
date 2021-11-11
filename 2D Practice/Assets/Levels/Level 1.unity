@@ -727,8 +727,25 @@ MonoBehaviour:
   isAirAttackSingle: 0
   isKicking: 0
   isDropKicking: 0
+  isPunching: 0
+  isAirPunching: 0
+  isAirShooting: 0
+  isThrowing: 0
+  isShootingSingle: 0
+  isShootingAuto: 0
+  isShootingPull: 0
   collisionCounter: 0
   horizontalInput: 0
+  weapons:
+  - fists
+  - single
+  - throwables
+  - projectile-single
+  - projectile-heavy
+  - projectile-auto
+  - projectile-pull
+  weaponIndex: 0
+  currentWeapon: 
 --- !u!95 &1200526490
 Animator:
   serializedVersion: 3
