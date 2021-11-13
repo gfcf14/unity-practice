@@ -725,6 +725,7 @@ MonoBehaviour:
   isFacingLeft: 0
   isAttackingSingle: 0
   isAirAttackSingle: 0
+  isAttackingHeavy: 0
   isKicking: 0
   isDropKicking: 0
   isPunching: 0
@@ -739,6 +740,7 @@ MonoBehaviour:
   weapons:
   - fists
   - single
+  - heavy
   - throwables
   - projectile-single
   - projectile-heavy

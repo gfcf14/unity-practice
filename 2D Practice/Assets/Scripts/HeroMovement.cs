@@ -16,6 +16,7 @@ public class HeroMovement : MonoBehaviour {
   public bool isAttackingSingle;
 
   public bool isAirAttackSingle;
+  public bool isAttackingHeavy;
 
   public bool isKicking;
   public bool isDropKicking;
@@ -38,7 +39,7 @@ public class HeroMovement : MonoBehaviour {
 
   public float horizontalInput = 0;
 
-  public string[] weapons = new string[] {"fists", "single", "throwables", "projectile-single", "projectile-heavy", "projectile-auto", "projectile-pull"};
+  public string[] weapons = new string[] {"fists", "single", "heavy", "throwables", "projectile-single", "projectile-heavy", "projectile-auto", "projectile-pull"};
   public int weaponIndex = 0;
 
   public string currentWeapon;
@@ -104,6 +105,8 @@ public class HeroMovement : MonoBehaviour {
           isPunching = true;
         } else if (currentWeapon == "single") {
           isAttackingSingle = true;
+        } else if (currentWeapon == "heavy") {
+          isAttackingHeavy = true;
         } else if (currentWeapon == "throwables") {
           isThrowing = true;
         } else if (currentWeapon == "projectile-heavy") {
@@ -156,6 +159,7 @@ public class HeroMovement : MonoBehaviour {
     anim.SetBool("isShootingAuto", isShootingAuto);
     anim.SetBool("isShootingPull", isShootingPull);
     anim.SetBool("isAirShooting", isAirShooting);
+    anim.SetBool("isAttackingHeavy", isAttackingHeavy);
   }
 
   void ClearPunch() {
@@ -194,6 +198,10 @@ public class HeroMovement : MonoBehaviour {
     isShootingPull = false;
   }
 
+  void ClearAttackHeavy() {
+    isAttackingHeavy = false;
+  }
+
   public void OnGUI() {
     string guiLabel = "Running: " + isRunning + "\n" +
                       "Grounded: " + isGrounded + "\n" +
@@ -202,6 +210,7 @@ public class HeroMovement : MonoBehaviour {
                       "horizontalCollision: " + horizontalCollision + "\n" +
                       "Equipment: " + currentWeapon + "\n" +
                       "Attack_Single: " + isAttackingSingle + "\n" +
+                      "Attack_Heavy: " + isAttackingHeavy + "\n" +
                       "Air_Attack_Single: " + isAirAttackSingle + "\n" +
                       "Air_Shooting: " + isAirShooting + "\n" +
                       "Kick: " + isKicking + "\n" +
