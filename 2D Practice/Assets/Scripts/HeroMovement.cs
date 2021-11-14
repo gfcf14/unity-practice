@@ -14,9 +14,10 @@ public class HeroMovement : MonoBehaviour {
   public bool isFacingLeft;
 
   public bool isAttackingSingle;
+  public bool isAttackingHeavy;
 
   public bool isAirAttackSingle;
-  public bool isAttackingHeavy;
+  public bool isAirAttackHeavy;
 
   public bool isKicking;
   public bool isDropKicking;
@@ -119,6 +120,8 @@ public class HeroMovement : MonoBehaviour {
           isAirPunching = true;
         } else if (currentWeapon == "single") {
           isAirAttackSingle = true;
+        } else if (currentWeapon == "heavy") {
+          isAirAttackHeavy = true;
         } else if (currentWeapon == "projectile-single") {
           isAirShooting = true;
         }
@@ -150,6 +153,7 @@ public class HeroMovement : MonoBehaviour {
     anim.SetBool("horizontalCollision", horizontalCollision);
     anim.SetBool("isAttackingSingle", isAttackingSingle);
     anim.SetBool("isAirAttackSingle", isAirAttackSingle);
+    anim.SetBool("isAirAttackHeavy", isAirAttackHeavy);
     anim.SetBool("isKicking", isKicking);
     anim.SetBool("isDropKicking", isDropKicking);
     anim.SetBool("isPunching", isPunching);
@@ -176,6 +180,10 @@ public class HeroMovement : MonoBehaviour {
 
   void ClearAirAttackSingle() {
     isAirAttackSingle = false;
+  }
+
+  void ClearAirAttackHeavy() {
+    isAirAttackHeavy = false;
   }
 
   void ClearAirShooting() {
@@ -212,6 +220,7 @@ public class HeroMovement : MonoBehaviour {
                       "Attack_Single: " + isAttackingSingle + "\n" +
                       "Attack_Heavy: " + isAttackingHeavy + "\n" +
                       "Air_Attack_Single: " + isAirAttackSingle + "\n" +
+                      "Air_Attack_Heavy: " + isAirAttackHeavy + "\n" +
                       "Air_Shooting: " + isAirShooting + "\n" +
                       "Kick: " + isKicking + "\n" +
                       "Drop_Kick: " + isDropKicking + "\n" +
