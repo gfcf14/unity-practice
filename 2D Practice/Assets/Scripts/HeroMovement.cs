@@ -257,6 +257,12 @@ public class HeroMovement : MonoBehaviour {
           isJumping = false;
           horizontalCollision = false;
           isDropKicking = false;
+
+          // disable air attack animations if these haven't finished when player hits ground
+          isAirPunching = false;
+          isAirShooting = false;
+          isAirAttackSingle = false;
+          isAirAttackHeavy = false;
         } else {          
           horizontalCollision = true;
 
