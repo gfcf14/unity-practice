@@ -3,6 +3,7 @@ using UnityEngine;
 public class HeroMovement : MonoBehaviour {
   [SerializeField] public float speed;
   [SerializeField] private float jumpHeight;
+  [SerializeField] private float jetpackHeight;
   private Rigidbody2D body;
   private Animator anim;
   private SpriteRenderer heroRenderer;
@@ -11,6 +12,8 @@ public class HeroMovement : MonoBehaviour {
   private bool isGrounded;
   private bool isFalling;
   private bool isJumping;
+
+  private bool isJetpackUp;
   public bool isFacingLeft;
 
   public bool isAttackingSingle;
@@ -41,6 +44,18 @@ public class HeroMovement : MonoBehaviour {
   public float horizontalInput = 0;
 
   public string[] weapons = new string[] {"fists", "single", "heavy", "throwables", "projectile-single", "projectile-heavy", "projectile-auto", "projectile-pull"};
+
+  // public string jetpackUp = "🡣🡡⌴";
+  public string jetpackUp = "du$";
+  // public string jetpackLeft = "🡣🡠⌴";
+  public string jetpackLeft = "dl$";
+  // public string jetpackRight = "🡣🡢⌴";
+  public string jetpackRight = "dr$";
+  public float timeoutDuration = 0.25f;
+
+  private string userInput = "";
+  private float timeoutTime = 0.0f;
+
   public int weaponIndex = 0;
 
   public string currentWeapon;
@@ -81,12 +96,62 @@ public class HeroMovement : MonoBehaviour {
       }
     }
 
-    // jumping
-    if (Input.GetKey(KeyCode.Space) && isGrounded) {
-      Jump();
+    foreach (KeyCode currentKey in System.Enum.GetValues(typeof(KeyCode))) {
+      if(Input.GetKeyUp(currentKey)) {
+        if (userInput.Length == 0) {
+          timeoutTime = Time.time + timeoutDuration;
+        }
+
+        // if (currentKey.ToString() == "Space") {
+        //   // userInput += "⌴";
+        //   userInput += "$";
+        // } else 
+        if (currentKey.ToString() == "UpArrow") {
+          // userInput += "🡡";
+          userInput += "u";
+        } else if (currentKey.ToString() == "DownArrow") {
+          // userInput += "🡣";
+          userInput += "d";
+        } else if (currentKey.ToString() == "LeftArrow") {
+          // userInput += "🡠";
+          userInput += "l";
+        } else if (currentKey.ToString() == "RightArrow") {
+          // userInput += "🡢";
+          userInput += "r";
+        } else {
+          userInput += currentKey.ToString();
+        }
+
+        // if (userInput.Contains(jetpackUp)) {
+        //   JetpackUp();
+        //   userInput = "";
+        // } else if (userInput.Contains(jetpackLeft)) {
+        //   Debug.Log("jetpack left");
+        //   userInput = "";
+        // } else if (userInput.Contains(jetpackRight)) {
+        //   Debug.Log("jetpack right");
+        //   userInput = "";
+        // } else if (userInput == "s") { // jumping?
+        //   Jump();
+        // }
+      } else if (Time.time > timeoutTime && userInput.Length > 0) { // input is cleared
+        userInput = "";
+      }
     }
 
-    isRunning = horizontalInput != 0 && !isJumping && !isFalling && !isAttackingSingle;
+    // jumping
+    if (Input.GetKey(KeyCode.Space) && isGrounded && !isJetpackUp) {
+      userInput += "$";
+      Debug.Log(userInput);
+      if (userInput.Contains(jetpackUp)) {
+        JetpackUp();
+        userInput = "";
+      } else {
+        Jump();
+      }
+    }
+
+    isRunning = horizontalInput != 0 && !isJumping && !isFalling && !isAttackingSingle && !isJetpackUp;
 
     if (!isGrounded && verticalSpeed < -1) {
       Fall();
@@ -150,6 +215,7 @@ public class HeroMovement : MonoBehaviour {
     anim.SetBool("isGrounded", isGrounded);
     anim.SetBool("isFalling", isFalling);
     anim.SetBool("isJumping", isJumping);
+    anim.SetBool("isJetpackUp", isJetpackUp);
     anim.SetBool("horizontalCollision", horizontalCollision);
     anim.SetBool("isAttackingSingle", isAttackingSingle);
     anim.SetBool("isAirAttackSingle", isAirAttackSingle);
@@ -215,6 +281,7 @@ public class HeroMovement : MonoBehaviour {
                       "Grounded: " + isGrounded + "\n" +
                       "Falling: " + isFalling + "\n" +
                       "Jumping: " + isJumping + "\n" +
+                      "JetpackUp: " + isJetpackUp + "\n" +
                       "horizontalCollision: " + horizontalCollision + "\n" +
                       "Equipment: " + currentWeapon + "\n" +
                       "Attack_Single: " + isAttackingSingle + "\n" +
@@ -237,7 +304,15 @@ public class HeroMovement : MonoBehaviour {
 
   private void Jump() {
     body.velocity = new Vector2(body.velocity.x, jumpHeight);
+    
     isJumping = true;
+    isGrounded = false;
+  }
+
+  private void JetpackUp() {
+    body.velocity = new Vector2(body.velocity.x, jetpackHeight);
+    isJetpackUp = true;
+    isJumping = false;
     isGrounded = false;
   }
 
@@ -255,6 +330,7 @@ public class HeroMovement : MonoBehaviour {
           isGrounded = true;
           isFalling = false;
           isJumping = false;
+          isJetpackUp = false;
           horizontalCollision = false;
           isDropKicking = false;
 
