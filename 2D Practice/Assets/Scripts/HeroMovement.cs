@@ -14,6 +14,12 @@ public class HeroMovement : MonoBehaviour {
   private bool isJumping;
 
   private bool isJetpackUp;
+
+  private string jetpackHorizontal = "";
+  private float maxJetpackTime = 1500;
+  private float jetpackTime = 0;
+
+  private float currentYPosition = 0;
   public bool isFacingLeft;
 
   public bool isAttackingSingle;
@@ -119,7 +125,9 @@ public class HeroMovement : MonoBehaviour {
           // userInput += "🡢";
           userInput += "r";
         } else {
-          userInput += currentKey.ToString();
+          if (currentKey.ToString() != "Space") {
+            userInput += currentKey.ToString();
+          }
         }
 
         // if (userInput.Contains(jetpackUp)) {
@@ -140,20 +148,30 @@ public class HeroMovement : MonoBehaviour {
     }
 
     // jumping
-    if (Input.GetKey(KeyCode.Space) && isGrounded && !isJetpackUp) {
+    if (Input.GetKey(KeyCode.Space)) {
       userInput += "$";
-      Debug.Log(userInput);
-      if (userInput.Contains(jetpackUp)) {
-        JetpackUp();
-        userInput = "";
+      if (isGrounded) {
+        if (userInput.Contains(jetpackUp)) {
+          JetpackUp();
+          userInput = "";
+        } else {
+          Jump();
+          userInput = "";
+        }
       } else {
-        Jump();
-      }
+        if (userInput.Contains(jetpackLeft)) {
+          JetpackHorizontal("left");
+          userInput = "";
+        } else if (userInput.Contains(jetpackRight)) {
+          JetpackHorizontal("right");
+          userInput = "";
+        }
+      }      
     }
 
     isRunning = horizontalInput != 0 && !isJumping && !isFalling && !isAttackingSingle && !isJetpackUp;
 
-    if (!isGrounded && verticalSpeed < -1) {
+    if (!isGrounded && verticalSpeed < -1 && jetpackHorizontal == "") {
       Fall();
     }
 
@@ -210,6 +228,16 @@ public class HeroMovement : MonoBehaviour {
       body.velocity = new Vector2(body.velocity.x + (jumpHeight * (isFacingLeft ? -1 : 1)), -(float)(jumpHeight * 0.75));
     }
 
+    if (jetpackHorizontal != "") {
+      body.velocity = new Vector2(body.velocity.x + (jetpackHeight * (jetpackHorizontal == "left" ? -1 : 1)), body.velocity.y);
+      transform.position = new Vector2(transform.position.x, currentYPosition);
+      if ((Time.time * 1000) > jetpackTime + maxJetpackTime) {
+        jetpackHorizontal = "";
+        jetpackTime = 0;
+        body.velocity = new Vector2(0, 0);
+      }
+    }
+
     // set animator parameters
     anim.SetBool("isRunning", isRunning);
     anim.SetBool("isGrounded", isGrounded);
@@ -230,6 +258,7 @@ public class HeroMovement : MonoBehaviour {
     anim.SetBool("isShootingPull", isShootingPull);
     anim.SetBool("isAirShooting", isAirShooting);
     anim.SetBool("isAttackingHeavy", isAttackingHeavy);
+    anim.SetBool("isJetpackHorizontal", jetpackHorizontal != "");
   }
 
   void ClearPunch() {
@@ -282,6 +311,7 @@ public class HeroMovement : MonoBehaviour {
                       "Falling: " + isFalling + "\n" +
                       "Jumping: " + isJumping + "\n" +
                       "JetpackUp: " + isJetpackUp + "\n" +
+                      "JetpackHorizontal: " + (jetpackHorizontal != "" ? jetpackHorizontal : "none") + "\n" +
                       "horizontalCollision: " + horizontalCollision + "\n" +
                       "Equipment: " + currentWeapon + "\n" +
                       "Attack_Single: " + isAttackingSingle + "\n" +
@@ -312,6 +342,14 @@ public class HeroMovement : MonoBehaviour {
   private void JetpackUp() {
     body.velocity = new Vector2(body.velocity.x, jetpackHeight);
     isJetpackUp = true;
+    isJumping = false;
+    isGrounded = false;
+  }
+
+  private void JetpackHorizontal(string direction) {
+    jetpackHorizontal = direction;
+    jetpackTime = Time.time * 1000;
+    currentYPosition = transform.position.y;
     isJumping = false;
     isGrounded = false;
   }
