@@ -6543,6 +6543,9 @@ AnimatorStateTransition:
   - m_ConditionMode: 6
     m_ConditionEvent: tunicIndex
     m_EventTreshold: 0
+  - m_ConditionMode: 2
+    m_ConditionEvent: isJetpackHorizontal
+    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -7370664649612828637}
   m_Solo: 0
@@ -6768,6 +6771,9 @@ AnimatorStateTransition:
     m_EventTreshold: 0
   - m_ConditionMode: 6
     m_ConditionEvent: tunicIndex
+    m_EventTreshold: 0
+  - m_ConditionMode: 2
+    m_ConditionEvent: isJetpackHorizontal
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -4035417292726432081}

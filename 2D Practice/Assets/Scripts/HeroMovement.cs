@@ -377,7 +377,7 @@ public class HeroMovement : MonoBehaviour {
           isAirShooting = false;
           isAirAttackSingle = false;
           isAirAttackHeavy = false;
-        } else {          
+        } else {         
           horizontalCollision = true;
 
           if (isBottomCollision(otherCollider, collider)) {
