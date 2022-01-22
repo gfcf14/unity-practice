@@ -20,6 +20,8 @@ public class HeroMovement : MonoBehaviour {
   private float jetpackTime = 0;
 
   private float currentYPosition = 0;
+
+  private bool isGliding;
   public bool isFacingLeft;
 
   public bool isAttackingSingle;
@@ -169,6 +171,17 @@ public class HeroMovement : MonoBehaviour {
       }      
     }
 
+    // gliding
+    if (Input.GetKey(KeyCode.UpArrow)) {
+      if (!isGrounded) {
+        if (Input.GetKey(KeyCode.Space)) {
+          Glide();
+        } else {
+          isGliding = false;
+        }
+      }
+    }
+
     isRunning = horizontalInput != 0 && !isJumping && !isFalling && !isAttackingSingle && !isJetpackUp;
 
     if (!isGrounded && verticalSpeed < -1 && jetpackHorizontal == "") {
@@ -228,6 +241,10 @@ public class HeroMovement : MonoBehaviour {
       body.velocity = new Vector2(body.velocity.x + (jumpHeight * (isFacingLeft ? -1 : 1)), -(float)(jumpHeight * 0.75));
     }
 
+    if (isGliding) {
+      body.velocity = new Vector2(body.velocity.x + (jumpHeight * (isFacingLeft ? -1 : 1)), -(float)(jumpHeight * 0.25));
+    }
+
     if (jetpackHorizontal != "") {
       body.velocity = new Vector2(body.velocity.x + (jetpackHeight * (jetpackHorizontal == "left" ? -1 : 1)), body.velocity.y);
       transform.position = new Vector2(transform.position.x, currentYPosition);
@@ -259,6 +276,7 @@ public class HeroMovement : MonoBehaviour {
     anim.SetBool("isAirShooting", isAirShooting);
     anim.SetBool("isAttackingHeavy", isAttackingHeavy);
     anim.SetBool("isJetpackHorizontal", jetpackHorizontal != "");
+    anim.SetBool("isGliding", isGliding);
   }
 
   void ClearPunch() {
@@ -310,6 +328,7 @@ public class HeroMovement : MonoBehaviour {
                       "Grounded: " + isGrounded + "\n" +
                       "Falling: " + isFalling + "\n" +
                       "Jumping: " + isJumping + "\n" +
+                      "Gliding: " + isGliding + "\n" +
                       "JetpackUp: " + isJetpackUp + "\n" +
                       "JetpackHorizontal: " + (jetpackHorizontal != "" ? jetpackHorizontal : "none") + "\n" +
                       "horizontalCollision: " + horizontalCollision + "\n" +
@@ -337,6 +356,10 @@ public class HeroMovement : MonoBehaviour {
     
     isJumping = true;
     isGrounded = false;
+  }
+
+  private void Glide() {
+    isGliding = true;
   }
 
   private void JetpackUp() {
