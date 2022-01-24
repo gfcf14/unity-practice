@@ -85,7 +85,7 @@ public class HeroMovement : MonoBehaviour {
     float verticalSpeed = body.velocity.y;
 
     // x axis movement
-    if (!horizontalCollision) {
+    if (!horizontalCollision && isHurt < 1) {
       body.velocity = new Vector2(!isDropKicking ? horizontalInput * speed : 0, body.velocity.y);
 
       // flip player when moving left
@@ -104,6 +104,10 @@ public class HeroMovement : MonoBehaviour {
           isFacingLeft = true;
         }
       }
+    }
+
+    if (isHurt == 1) {
+      body.velocity = new Vector2(0, body.velocity.y);
     }
 
     foreach (KeyCode currentKey in System.Enum.GetValues(typeof(KeyCode))) {
