@@ -21,6 +21,8 @@ public class HeroMovement : MonoBehaviour {
 
   private float currentYPosition = 0;
 
+  private int isHurt = 0;
+
   private bool isGliding;
   public bool isFacingLeft;
 
@@ -237,6 +239,10 @@ public class HeroMovement : MonoBehaviour {
       currentWeapon = weapons[weaponIndex % weapons.Length];
     }
 
+    if (Input.GetKeyDown(KeyCode.Keypad7)) {
+      SimulateHurt(1);
+    }
+
     if (isDropKicking) {
       body.velocity = new Vector2(body.velocity.x + (jumpHeight * (isFacingLeft ? -1 : 1)), -(float)(jumpHeight * 0.75));
     }
@@ -277,6 +283,15 @@ public class HeroMovement : MonoBehaviour {
     anim.SetBool("isAttackingHeavy", isAttackingHeavy);
     anim.SetBool("isJetpackHorizontal", jetpackHorizontal != "");
     anim.SetBool("isGliding", isGliding);
+    anim.SetInteger("isHurt", isHurt);
+  }
+
+  void SimulateHurt(int hurtLevel) {
+    isHurt = hurtLevel;
+  }
+
+  void Recover() {
+    isHurt = 0;
   }
 
   void ClearPunch() {
