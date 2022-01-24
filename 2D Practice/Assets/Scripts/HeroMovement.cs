@@ -20,6 +20,7 @@ public class HeroMovement : MonoBehaviour {
   private float jetpackTime = 0;
 
   private float currentYPosition = 0;
+  private float currentXPosition = 0;
 
   private int isHurt = 0;
 
@@ -108,6 +109,10 @@ public class HeroMovement : MonoBehaviour {
 
     if (isHurt == 1) {
       body.velocity = new Vector2(0, body.velocity.y);
+    }
+
+    if (isHurt == 2 && isGrounded) {
+      transform.position = new Vector2(transform.position.x + ((isFacingLeft ? 1 : -1) * 0.01f), currentYPosition);
     }
 
     foreach (KeyCode currentKey in System.Enum.GetValues(typeof(KeyCode))) {
@@ -247,6 +252,10 @@ public class HeroMovement : MonoBehaviour {
       SimulateHurt(1);
     }
 
+    if (Input.GetKeyDown(KeyCode.Keypad8)) {
+      SimulateHurt(2);
+    }
+
     if (isDropKicking) {
       body.velocity = new Vector2(body.velocity.x + (jumpHeight * (isFacingLeft ? -1 : 1)), -(float)(jumpHeight * 0.75));
     }
@@ -292,6 +301,11 @@ public class HeroMovement : MonoBehaviour {
 
   void SimulateHurt(int hurtLevel) {
     isHurt = hurtLevel;
+
+    if (hurtLevel == 2) {
+      currentXPosition = transform.position.x;
+      currentYPosition = transform.position.y;
+    }
   }
 
   void Recover() {
