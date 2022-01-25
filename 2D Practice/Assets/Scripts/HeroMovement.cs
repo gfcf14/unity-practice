@@ -252,7 +252,7 @@ public class HeroMovement : MonoBehaviour {
       SimulateHurt(1);
     }
 
-    if (Input.GetKeyDown(KeyCode.Keypad8)) {
+    if (Input.GetKeyDown(KeyCode.Keypad8) && isGrounded) {
       SimulateHurt(2);
     }
 
@@ -300,6 +300,7 @@ public class HeroMovement : MonoBehaviour {
   }
 
   void SimulateHurt(int hurtLevel) {
+    body.velocity = new Vector2(0, body.velocity.y);
     isHurt = hurtLevel;
 
     if (hurtLevel == 2) {
