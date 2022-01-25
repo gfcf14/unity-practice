@@ -300,7 +300,7 @@ public class HeroMovement : MonoBehaviour {
   }
 
   void SimulateHurt(int hurtLevel) {
-    body.velocity = new Vector2(0, body.velocity.y);
+    body.velocity = new Vector2(0, 0);
     isHurt = hurtLevel;
 
     if (hurtLevel == 2) {
