@@ -22,6 +22,8 @@ public class HeroMovement : MonoBehaviour {
   private float currentYPosition = 0;
   private float currentXPosition = 0;
 
+  private float throwbackHeight = 0;
+
   private int isHurt = 0;
 
   private bool isGliding;
@@ -113,6 +115,15 @@ public class HeroMovement : MonoBehaviour {
 
     if (isHurt == 2 && isGrounded) {
       transform.position = new Vector2(transform.position.x + ((isFacingLeft ? 1 : -1) * 0.01f), currentYPosition);
+    }
+
+    if (isHurt == 3) {
+      if (throwbackHeight != 0 && transform.position.y > (currentYPosition - throwbackHeight)) {
+        transform.position = new Vector2(transform.position.x + ((isFacingLeft ? 1 : -1) * 0.025f), transform.position.y + 0.025f);
+      } else {
+        throwbackHeight = 0;
+        transform.position = new Vector2(transform.position.x + ((isFacingLeft ? 1 : -1) * 0.025f), transform.position.y - 0.025f);
+      }
     }
 
     foreach (KeyCode currentKey in System.Enum.GetValues(typeof(KeyCode))) {
@@ -256,6 +267,10 @@ public class HeroMovement : MonoBehaviour {
       SimulateHurt(2);
     }
 
+    if (Input.GetKeyDown(KeyCode.Keypad9)) {
+      SimulateHurt(3);
+    }
+
     if (isDropKicking) {
       body.velocity = new Vector2(body.velocity.x + (jumpHeight * (isFacingLeft ? -1 : 1)), -(float)(jumpHeight * 0.75));
     }
@@ -303,9 +318,13 @@ public class HeroMovement : MonoBehaviour {
     body.velocity = new Vector2(0, 0);
     isHurt = hurtLevel;
 
-    if (hurtLevel == 2) {
+    if (hurtLevel > 1) {
       currentXPosition = transform.position.x;
       currentYPosition = transform.position.y;
+    }
+
+    if (hurtLevel == 3) {
+      throwbackHeight = 5f;
     }
   }
 
@@ -428,6 +447,10 @@ public class HeroMovement : MonoBehaviour {
           isJetpackUp = false;
           horizontalCollision = false;
           isDropKicking = false;
+
+          if (isHurt == 3) {
+            Recover();
+          }
 
           // disable air attack animations if these haven't finished when player hits ground
           isAirPunching = false;
