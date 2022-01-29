@@ -25,6 +25,7 @@ public class HeroMovement : MonoBehaviour {
   private float throwbackHeight = 0;
 
   private int isHurt = 0;
+  private int isDead = 0;
 
   private bool isGliding;
   public bool isFacingLeft;
@@ -271,6 +272,10 @@ public class HeroMovement : MonoBehaviour {
       SimulateHurt(3);
     }
 
+    if (Input.GetKeyDown(KeyCode.Backspace)) {
+      SimulateDeath(isGrounded);
+    }
+
     if (isDropKicking) {
       body.velocity = new Vector2(body.velocity.x + (jumpHeight * (isFacingLeft ? -1 : 1)), -(float)(jumpHeight * 0.75));
     }
@@ -312,6 +317,11 @@ public class HeroMovement : MonoBehaviour {
     anim.SetBool("isJetpackHorizontal", jetpackHorizontal != "");
     anim.SetBool("isGliding", isGliding);
     anim.SetInteger("isHurt", isHurt);
+    anim.SetInteger("isDead", isDead);
+  }
+
+  void SimulateDeath(bool isGrounded) {
+    isDead = isGrounded ? 1 : 2;
   }
 
   void SimulateHurt(int hurtLevel) {
