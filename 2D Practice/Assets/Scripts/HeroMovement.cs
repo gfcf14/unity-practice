@@ -120,10 +120,10 @@ public class HeroMovement : MonoBehaviour {
 
     if (isHurt == 3) {
       if (throwbackHeight != 0 && transform.position.y > (currentYPosition - throwbackHeight)) {
-        transform.position = new Vector2(transform.position.x + ((isFacingLeft ? 1 : -1) * 0.025f), transform.position.y + 0.025f);
+        transform.position = new Vector2(transform.position.x + ((isFacingLeft ? 1 : -1) * 0.05f), transform.position.y + 0.05f);
       } else {
         throwbackHeight = 0;
-        transform.position = new Vector2(transform.position.x + ((isFacingLeft ? 1 : -1) * 0.025f), transform.position.y - 0.025f);
+        transform.position = new Vector2(transform.position.x + ((isFacingLeft ? 1 : -1) * 0.05f), transform.position.y - 0.05f);
       }
     }
 
@@ -203,6 +203,8 @@ public class HeroMovement : MonoBehaviour {
           isGliding = false;
         }
       }
+    } else {
+      isGliding = false;
     }
 
     isRunning = horizontalInput != 0 && !isJumping && !isFalling && !isAttackingSingle && !isJetpackUp;
@@ -342,7 +344,7 @@ public class HeroMovement : MonoBehaviour {
     }
 
     if (hurtLevel == 3) {
-      throwbackHeight = 5f;
+      throwbackHeight = 15f;
     }
   }
 
