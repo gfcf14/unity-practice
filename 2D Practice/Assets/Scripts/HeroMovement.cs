@@ -294,6 +294,14 @@ public class HeroMovement : MonoBehaviour {
       }
     }
 
+    if (isDead == 2) {
+      if (!isGrounded) {
+        body.velocity = new Vector2(-body.velocity.x + (jumpHeight * (isFacingLeft ? 2 : -2)), -(float)jumpHeight);
+      } else {
+        body.velocity = new Vector2(0, 0);
+      }
+    }
+
     // set animator parameters
     anim.SetBool("isRunning", isRunning);
     anim.SetBool("isGrounded", isGrounded);
