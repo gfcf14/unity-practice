@@ -8,26 +8,26 @@ public class HeroMovement : MonoBehaviour {
   private Animator anim;
   private SpriteRenderer heroRenderer;
 
-  private bool isRunning;
-  private bool isGrounded;
-  private bool isFalling;
-  private bool isJumping;
+  public bool isRunning;
+  public bool isGrounded;
+  public bool isFalling;
+  public bool isJumping;
 
-  private bool isJetpackUp;
+  public bool isJetpackUp;
 
-  private string jetpackHorizontal = "";
-  private float maxJetpackTime = 1500;
-  private float jetpackTime = 0;
+  public string jetpackHorizontal = "";
+  public float maxJetpackTime = 1500;
+  public float jetpackTime = 0;
 
-  private float currentYPosition = 0;
-  private float currentXPosition = 0;
+  public float currentYPosition = 0;
+  public float currentXPosition = 0;
 
-  private float throwbackHeight = 0;
+  public float throwbackHeight = 0;
 
-  private int isHurt = 0;
-  private int isDead = 0;
+  public int isHurt = 0;
+  public int isDead = 0;
 
-  private bool isGliding;
+  public bool isGliding;
   public bool isFacingLeft;
 
   public bool isAttackingSingle;
@@ -51,7 +51,7 @@ public class HeroMovement : MonoBehaviour {
 
   public bool isShootingPull;
 
-  private bool horizontalCollision;
+  public bool horizontalCollision;
 
   public int collisionCounter = 0;
 
