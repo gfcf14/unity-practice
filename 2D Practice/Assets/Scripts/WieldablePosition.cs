@@ -6,6 +6,7 @@ public class WieldablePosition : MonoBehaviour {
   protected Animator anim;
 
   private bool isAirAttackSingle;
+  private bool isFacingLeft;
 
   [SerializeField]
   private PolygonCollider2D[] colliders;
@@ -21,13 +22,22 @@ public class WieldablePosition : MonoBehaviour {
     heroMovementScript = hero.GetComponent<HeroMovement>();
     anim = GetComponent<Animator>();
     isAirAttackSingle = heroMovementScript.isAirAttackSingle;
+    isFacingLeft = heroMovementScript.isFacingLeft;
   }
 
   void Update() {
     SetPosition();
 
     isAirAttackSingle = heroMovementScript.isAirAttackSingle;
+    isFacingLeft = heroMovementScript.isFacingLeft;
+    
     anim.SetBool("isAirAttackSingle", isAirAttackSingle);
+
+    if (isFacingLeft) {
+      transform.localScale = new Vector3(-1, 1, 1);
+    } else {
+      transform.localScale = Vector3.one;
+    }
   }
 
   private void SetPosition() {

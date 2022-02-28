@@ -8,6 +8,7 @@ TagManager:
   - Hero
   - Weapon
   - Object
+  - Enemy
   layers:
   - Default
   - TransparentFX
