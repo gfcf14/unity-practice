@@ -12,11 +12,6 @@ public class WieldablePosition : MonoBehaviour {
   private PolygonCollider2D[] colliders;
   private int currentColliderIndex = 0;
 
-  void SetColliderForSprite(int spriteNum) {
-    colliders[currentColliderIndex].enabled = false;
-    currentColliderIndex = spriteNum;
-    colliders[currentColliderIndex].enabled = true;
-  }
   void Start() {
     hero = GameObject.Find("Hero");
     heroMovementScript = hero.GetComponent<HeroMovement>();
@@ -43,6 +38,4 @@ public class WieldablePosition : MonoBehaviour {
   private void SetPosition() {
     transform.position = hero.transform.position; 
   }
-
-  void OnCollisionEnter2D(Collision2D collision) {}
 }

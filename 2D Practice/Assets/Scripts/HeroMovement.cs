@@ -488,6 +488,12 @@ public class HeroMovement : MonoBehaviour {
       }      
     }
 
+    if (collision.gameObject.tag == "Enemy") {
+      // still have to get the isAttacking variable from the enemy
+      SimulateHurt(2);
+    }
+    
+
     collisionCounter++;
   }
 
